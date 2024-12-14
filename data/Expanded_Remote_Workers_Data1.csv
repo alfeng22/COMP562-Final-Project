@@ -5000,20 +5000,20 @@ EMP4998,42,Female,Sales,Healthcare,21,Hybrid,34,1,4,High,Burnout,No,Increase,3,S
 EMP4999,27,Female,Sales,Healthcare,26,Remote,58,0,5,Low,,Yes,Increase,3,Unsatisfied,4,Daily,Average,Asia
 EMP5000,29,Male,HR,IT,30,Onsite,20,15,1,Low,Depression,Yes,No Change,3,Unsatisfied,5,None,Poor,Asia
 EMP1392,39,Female,Sales,Manufacturing,22,Remote,48,8,2,Medium,Anxiety,Yes,Increase,3,Neutral,5,Daily,Poor,Europe
-EMP4002,56,Male,Marketing,Healthcare,5,Remote,29,3,3,High,Unknown,Yes,No Change,5,Neutral,3,Daily,Poor,Africa
+EMP4002,56,Male,Marketing,Healthcare,5,Remote,29,3,3,High,None,Yes,No Change,5,Neutral,3,Daily,Poor,Africa
 EMP2258,28,Male,Software Engineer,Finance,31,Remote,37,6,3,Medium,Burnout,Yes,Increase,5,Satisfied,5,Daily,Poor,North America
 EMP4785,50,Male,Project Manager,Healthcare,31,Remote,31,16,1,High,Depression,Yes,Increase,2,Neutral,1,None,Poor,North America
 EMP1860,40,Prefer not to say,Project Manager,Education,20,Remote,56,16,3,High,Burnout,Yes,No Change,4,Unsatisfied,3,Weekly,Good,Africa
-EMP3303,39,Male,Data Scientist,Manufacturing,35,Remote,39,3,5,High,Unknown,Yes,No Change,5,Satisfied,3,Daily,Good,Oceania
+EMP3303,39,Male,Data Scientist,Manufacturing,35,Remote,39,3,5,High,None,Yes,No Change,5,Satisfied,3,Daily,Good,Oceania
 EMP1374,34,Male,Data Scientist,IT,24,Remote,25,2,4,Medium,Burnout,Yes,Decrease,1,Neutral,4,Weekly,Poor,South America
 EMP0062,57,Non-binary,Project Manager,Finance,23,Remote,31,1,3,High,Burnout,Yes,Decrease,2,Unsatisfied,5,Weekly,Poor,Africa
 EMP1866,49,Male,Project Manager,Manufacturing,33,Remote,27,13,5,Medium,Burnout,Yes,No Change,4,Unsatisfied,4,Weekly,Poor,North America
 EMP2476,54,Male,Project Manager,IT,28,Remote,53,4,5,Low,Burnout,Yes,No Change,5,Neutral,2,None,Good,Africa
-EMP4788,18,Prefer not to say,Sales,Consulting,28,Remote,53,16,1,Low,Unknown,No,Increase,4,Unsatisfied,4,Daily,Poor,South America
-EMP4421,39,Male,Marketing,Consulting,9,Remote,57,2,3,High,Unknown,Yes,Increase,2,Neutral,5,Weekly,Good,Europe
+EMP4788,18,Prefer not to say,Sales,Consulting,28,Remote,53,16,1,Low,None,No,Increase,4,Unsatisfied,4,Daily,Poor,South America
+EMP4421,39,Male,Marketing,Consulting,9,Remote,57,2,3,High,None,Yes,Increase,2,Neutral,5,Weekly,Good,Europe
 EMP2601,30,Prefer not to say,Designer,Retail,7,Remote,34,12,3,High,Burnout,Yes,No Change,2,Neutral,2,None,Average,North America
 EMP0794,26,Female,Data Scientist,Education,6,Remote,25,8,2,Medium,Depression,Yes,No Change,1,Unsatisfied,5,Weekly,Average,South America
-EMP0906,27,Non-binary,Software Engineer,Healthcare,7,Remote,33,11,3,High,Unknown,Yes,Decrease,2,Satisfied,4,Daily,Average,South America
+EMP0906,27,Non-binary,Software Engineer,Healthcare,7,Remote,33,11,3,High,None,Yes,Decrease,2,Satisfied,4,Daily,Average,South America
 EMP4582,44,Female,Data Scientist,Retail,34,Remote,44,3,1,High,Burnout,Yes,No Change,5,Satisfied,5,Daily,Good,Asia
 EMP3523,36,Female,Data Scientist,Retail,6,Remote,45,12,5,Low,Anxiety,Yes,Decrease,5,Unsatisfied,2,Weekly,Average,Europe
 EMP0555,37,Male,Designer,Healthcare,32,Remote,29,13,3,Low,Burnout,Yes,Increase,3,Neutral,2,Daily,Poor,Africa
@@ -5021,30 +5021,30 @@ EMP2781,39,Non-binary,Sales,Finance,6,Remote,30,8,4,Low,Anxiety,Yes,Increase,2,N
 EMP3504,38,Male,Sales,Consulting,32,Remote,52,7,4,Medium,Burnout,Yes,Decrease,3,Neutral,1,None,Poor,Europe
 EMP2864,30,Male,Project Manager,Healthcare,30,Remote,53,1,5,High,Depression,Yes,Increase,5,Unsatisfied,4,Daily,Average,Africa
 EMP4616,43,Male,Data Scientist,Retail,28,Remote,32,14,2,High,Depression,Yes,Increase,5,Satisfied,2,Weekly,Average,Europe
-EMP4566,27,Male,Marketing,Finance,27,Remote,60,14,1,Medium,Unknown,Yes,Decrease,2,Unsatisfied,1,Daily,Average,Africa
+EMP4566,27,Male,Marketing,Finance,27,Remote,60,14,1,Medium,None,Yes,Decrease,2,Unsatisfied,1,Daily,Average,Africa
 EMP1729,54,Non-binary,Marketing,Finance,5,Remote,48,0,1,Low,Anxiety,Yes,Decrease,1,Satisfied,4,Weekly,Poor,Africa
 EMP3127,29,Male,Designer,Healthcare,12,Remote,47,16,1,Medium,Burnout,Yes,Increase,2,Unsatisfied,1,Daily,Poor,North America
 EMP1409,62,Female,Project Manager,Finance,28,Remote,38,9,3,Low,Burnout,Yes,No Change,5,Unsatisfied,5,Weekly,Good,South America
 EMP1740,52,Prefer not to say,Sales,Manufacturing,6,Remote,33,7,2,Medium,Burnout,Yes,Increase,5,Satisfied,5,Weekly,Poor,Europe
-EMP0379,38,Prefer not to say,Software Engineer,IT,30,Remote,60,16,4,High,Unknown,Yes,Decrease,4,Unsatisfied,2,Weekly,Poor,North America
+EMP0379,38,Prefer not to say,Software Engineer,IT,30,Remote,60,16,4,High,None,Yes,Decrease,4,Unsatisfied,2,Weekly,Poor,North America
 EMP4153,44,Non-binary,HR,Finance,8,Remote,26,15,3,Medium,Anxiety,No,No Change,2,Neutral,4,None,Good,Africa
 EMP0792,57,Male,HR,Education,32,Remote,28,3,4,Low,Anxiety,Yes,No Change,2,Unsatisfied,5,None,Poor,Asia
-EMP0717,55,Non-binary,Data Scientist,Finance,13,Remote,23,9,1,Medium,Unknown,No,Decrease,5,Neutral,1,Weekly,Average,Europe
+EMP0717,55,Non-binary,Data Scientist,Finance,13,Remote,23,9,1,Medium,None,No,Decrease,5,Neutral,1,Weekly,Average,Europe
 EMP0776,55,Female,HR,Retail,0,Remote,34,11,1,High,Anxiety,Yes,Increase,2,Unsatisfied,2,Weekly,Average,South America
 EMP4018,58,Male,Designer,Finance,27,Remote,54,1,4,Low,Anxiety,Yes,Decrease,1,Unsatisfied,5,Daily,Good,South America
 EMP1266,23,Prefer not to say,Project Manager,Consulting,3,Remote,30,5,2,Low,Anxiety,Yes,Decrease,3,Unsatisfied,5,Daily,Poor,Africa
 EMP4811,56,Non-binary,HR,Healthcare,30,Remote,54,13,5,Medium,Anxiety,No,No Change,3,Neutral,3,Daily,Good,Europe
-EMP3734,56,Prefer not to say,Project Manager,Retail,19,Remote,60,3,5,Medium,Unknown,Yes,Decrease,1,Unsatisfied,5,Weekly,Poor,Europe
+EMP3734,56,Prefer not to say,Project Manager,Retail,19,Remote,60,3,5,Medium,None,Yes,Decrease,1,Unsatisfied,5,Weekly,Poor,Europe
 EMP0896,33,Female,Project Manager,Manufacturing,15,Remote,61,10,1,Medium,Burnout,Yes,Decrease,2,Satisfied,1,Daily,Poor,Oceania
 EMP2162,58,Female,Data Scientist,Consulting,20,Remote,29,15,4,Low,Anxiety,Yes,No Change,4,Unsatisfied,3,None,Poor,Oceania
 EMP0572,57,Male,Marketing,IT,21,Remote,57,11,3,Low,Anxiety,No,No Change,4,Satisfied,1,None,Poor,Oceania
-EMP3527,41,Female,Marketing,Consulting,32,Remote,53,7,1,Medium,Unknown,Yes,Increase,5,Unsatisfied,2,Daily,Average,Africa
+EMP3527,41,Female,Marketing,Consulting,32,Remote,53,7,1,Medium,None,Yes,Increase,5,Unsatisfied,2,Daily,Average,Africa
 EMP0244,58,Prefer not to say,HR,Manufacturing,29,Remote,27,9,4,Low,Burnout,Yes,Decrease,2,Unsatisfied,2,Daily,Average,Africa
 EMP1543,45,Male,Marketing,Consulting,6,Remote,43,8,5,Low,Depression,No,No Change,5,Neutral,3,Daily,Good,South America
 EMP2866,38,Prefer not to say,Software Engineer,Education,25,Remote,48,8,5,High,Burnout,Yes,Increase,5,Unsatisfied,3,Weekly,Average,North America
-EMP2695,40,Female,Marketing,Manufacturing,11,Remote,58,16,5,Low,Unknown,Yes,No Change,1,Neutral,5,Daily,Average,North America
-EMP0678,43,Prefer not to say,Designer,Retail,26,Remote,61,4,1,Low,Unknown,Yes,Increase,1,Unsatisfied,3,Daily,Poor,Oceania
-EMP3247,39,Non-binary,HR,Consulting,5,Remote,26,13,1,High,Unknown,Yes,No Change,2,Satisfied,4,Daily,Poor,Africa
+EMP2695,40,Female,Marketing,Manufacturing,11,Remote,58,16,5,Low,None,Yes,No Change,1,Neutral,5,Daily,Average,North America
+EMP0678,43,Prefer not to say,Designer,Retail,26,Remote,61,4,1,Low,None,Yes,Increase,1,Unsatisfied,3,Daily,Poor,Oceania
+EMP3247,39,Non-binary,HR,Consulting,5,Remote,26,13,1,High,None,Yes,No Change,2,Satisfied,4,Daily,Poor,Africa
 EMP3082,37,Prefer not to say,Software Engineer,Retail,3,Remote,37,12,3,High,Depression,Yes,No Change,5,Unsatisfied,4,None,Poor,North America
 EMP4405,28,Non-binary,Marketing,Manufacturing,25,Remote,28,15,3,Medium,Anxiety,No,Decrease,2,Satisfied,1,Daily,Average,Oceania
 EMP0950,33,Male,Designer,Retail,6,Remote,49,16,1,Medium,Burnout,No,No Change,4,Satisfied,1,Daily,Good,South America
@@ -5054,17 +5054,17 @@ EMP3415,30,Male,Project Manager,Consulting,32,Remote,35,16,1,Medium,Burnout,No,D
 EMP3749,22,Male,Data Scientist,Finance,5,Remote,48,13,1,Low,Anxiety,Yes,Increase,5,Neutral,2,Daily,Good,Europe
 EMP3585,29,Non-binary,Designer,Finance,6,Remote,58,12,1,High,Burnout,Yes,No Change,3,Unsatisfied,4,Daily,Poor,Africa
 EMP3334,55,Prefer not to say,Sales,IT,27,Remote,45,2,1,Low,Depression,Yes,Increase,2,Unsatisfied,2,Daily,Poor,South America
-EMP2379,50,Non-binary,Data Scientist,Consulting,9,Remote,48,7,3,Low,Unknown,Yes,Decrease,1,Unsatisfied,5,Daily,Poor,Oceania
+EMP2379,50,Non-binary,Data Scientist,Consulting,9,Remote,48,7,3,Low,None,Yes,Decrease,1,Unsatisfied,5,Daily,Poor,Oceania
 EMP1475,47,Non-binary,Data Scientist,Retail,2,Remote,25,13,3,High,Burnout,Yes,Increase,5,Neutral,1,Weekly,Poor,South America
 EMP0649,59,Male,Software Engineer,Manufacturing,29,Remote,31,8,3,High,Depression,No,Decrease,2,Unsatisfied,4,Daily,Good,Oceania
 EMP3450,30,Female,Project Manager,Retail,17,Remote,55,4,4,High,Anxiety,No,No Change,5,Unsatisfied,2,Weekly,Good,Asia
 EMP2061,53,Female,Marketing,Manufacturing,14,Remote,30,7,5,Low,Burnout,Yes,Increase,2,Satisfied,1,Daily,Average,Europe
 EMP3614,45,Prefer not to say,Data Scientist,Finance,7,Remote,31,7,3,Low,Depression,Yes,Increase,1,Unsatisfied,1,Daily,Average,North America
 EMP2807,42,Female,HR,Education,30,Remote,49,2,4,Medium,Depression,Yes,Increase,5,Unsatisfied,5,Daily,Poor,Oceania
-EMP1046,54,Prefer not to say,Software Engineer,Finance,30,Remote,52,14,2,High,Unknown,No,No Change,5,Unsatisfied,2,Weekly,Good,Africa
-EMP0950,51,Prefer not to say,Data Scientist,Consulting,13,Remote,27,12,1,High,Unknown,No,Decrease,2,Neutral,5,Weekly,Average,South America
+EMP1046,54,Prefer not to say,Software Engineer,Finance,30,Remote,52,14,2,High,None,No,No Change,5,Unsatisfied,2,Weekly,Good,Africa
+EMP0950,51,Prefer not to say,Data Scientist,Consulting,13,Remote,27,12,1,High,None,No,Decrease,2,Neutral,5,Weekly,Average,South America
 EMP4499,38,Non-binary,HR,Manufacturing,19,Remote,46,7,1,Medium,Burnout,No,No Change,2,Neutral,1,None,Average,North America
-EMP0382,35,Male,Designer,Finance,32,Remote,28,14,3,High,Unknown,Yes,Decrease,1,Unsatisfied,3,Weekly,Poor,Africa
+EMP0382,35,Male,Designer,Finance,32,Remote,28,14,3,High,None,Yes,Decrease,1,Unsatisfied,3,Weekly,Poor,Africa
 EMP3993,44,Prefer not to say,Designer,IT,23,Remote,63,14,4,Low,Anxiety,Yes,Decrease,4,Unsatisfied,3,Weekly,Poor,Africa
 EMP4237,51,Non-binary,HR,Finance,26,Remote,41,10,4,Medium,Anxiety,No,Increase,5,Unsatisfied,2,Daily,Poor,Oceania
 EMP0556,29,Male,Designer,Retail,31,Remote,54,5,5,Low,Anxiety,Yes,Increase,5,Unsatisfied,5,Weekly,Average,North America
@@ -5075,35 +5075,35 @@ EMP2622,60,Prefer not to say,Project Manager,Manufacturing,34,Remote,30,9,1,Medi
 EMP2851,28,Non-binary,Marketing,Retail,29,Remote,41,6,5,High,Burnout,No,Decrease,5,Unsatisfied,4,Daily,Good,Africa
 EMP4762,54,Prefer not to say,Data Scientist,Retail,21,Remote,56,14,1,Medium,Burnout,Yes,No Change,3,Neutral,2,Daily,Average,Oceania
 EMP1282,29,Non-binary,Project Manager,Retail,33,Remote,30,13,5,Low,Burnout,No,Decrease,5,Neutral,2,None,Poor,South America
-EMP0078,53,Male,Software Engineer,Education,32,Remote,62,14,1,High,Unknown,Yes,Decrease,5,Neutral,1,None,Poor,Africa
+EMP0078,53,Male,Software Engineer,Education,32,Remote,62,14,1,High,None,Yes,Decrease,5,Neutral,1,None,Poor,Africa
 EMP2682,43,Prefer not to say,Sales,Retail,30,Remote,39,14,4,High,Burnout,No,Increase,4,Unsatisfied,4,None,Poor,Asia
 EMP3867,59,Non-binary,Project Manager,IT,4,Remote,48,2,2,Medium,Anxiety,Yes,Decrease,2,Unsatisfied,1,Weekly,Poor,Africa
 EMP2812,30,Non-binary,Data Scientist,Education,21,Remote,28,4,3,High,Burnout,Yes,Increase,2,Neutral,2,Weekly,Average,South America
 EMP1475,54,Non-binary,Marketing,Education,30,Remote,25,9,2,Medium,Anxiety,Yes,Decrease,2,Neutral,4,Weekly,Poor,Asia
 EMP1362,24,Non-binary,Project Manager,Healthcare,29,Remote,29,15,5,High,Depression,Yes,Increase,5,Unsatisfied,5,None,Average,North America
 EMP4452,42,Male,Marketing,IT,4,Remote,29,1,3,Medium,Depression,No,No Change,4,Unsatisfied,4,Weekly,Good,Oceania
-EMP3854,55,Non-binary,HR,Consulting,25,Remote,30,13,3,Medium,Unknown,Yes,Decrease,3,Neutral,4,Daily,Poor,Africa
+EMP3854,55,Non-binary,HR,Consulting,25,Remote,30,13,3,Medium,None,Yes,Decrease,3,Neutral,4,Daily,Poor,Africa
 EMP4721,54,Non-binary,Project Manager,Manufacturing,6,Remote,45,4,3,Low,Burnout,No,No Change,3,Unsatisfied,1,Daily,Good,Europe
-EMP1519,46,Non-binary,Software Engineer,IT,20,Remote,39,13,5,Medium,Unknown,Yes,Decrease,5,Satisfied,1,Daily,Average,Oceania
+EMP1519,46,Non-binary,Software Engineer,IT,20,Remote,39,13,5,Medium,None,Yes,Decrease,5,Satisfied,1,Daily,Average,Oceania
 EMP0923,26,Non-binary,Data Scientist,Finance,-1,Remote,33,2,1,High,Burnout,Yes,No Change,2,Satisfied,5,Weekly,Poor,Africa
-EMP2359,55,Prefer not to say,Sales,Education,32,Remote,55,8,3,High,Unknown,No,Decrease,5,Neutral,4,Weekly,Good,Europe
+EMP2359,55,Prefer not to say,Sales,Education,32,Remote,55,8,3,High,None,No,Decrease,5,Neutral,4,Weekly,Good,Europe
 EMP4608,54,Female,Project Manager,Retail,14,Remote,55,9,1,High,Depression,Yes,Decrease,5,Neutral,4,Daily,Poor,Oceania
-EMP3418,38,Non-binary,Data Scientist,Finance,5,Remote,28,10,1,Low,Unknown,Yes,Decrease,5,Unsatisfied,5,Weekly,Poor,North America
+EMP3418,38,Non-binary,Data Scientist,Finance,5,Remote,28,10,1,Low,None,Yes,Decrease,5,Unsatisfied,5,Weekly,Poor,North America
 EMP4381,59,Female,Sales,Consulting,18,Remote,47,3,1,High,Anxiety,Yes,No Change,1,Neutral,3,Weekly,Poor,Oceania
 EMP4387,31,Non-binary,HR,Education,15,Remote,55,15,3,Low,Anxiety,No,Decrease,5,Unsatisfied,1,Daily,Good,Europe
-EMP0410,55,Non-binary,Data Scientist,Consulting,0,Remote,34,15,3,Low,Unknown,Yes,Decrease,5,Unsatisfied,1,Weekly,Average,Asia
-EMP3718,52,Female,Designer,Consulting,15,Remote,42,15,3,Low,Unknown,Yes,Increase,1,Unsatisfied,1,None,Average,Oceania
-EMP2934,44,Female,Designer,Education,32,Remote,56,9,1,Low,Unknown,Yes,Increase,5,Unsatisfied,2,None,Average,Europe
-EMP3179,35,Prefer not to say,Sales,Retail,35,Remote,29,9,1,High,Unknown,No,Decrease,2,Satisfied,5,Daily,Good,Africa
+EMP0410,55,Non-binary,Data Scientist,Consulting,0,Remote,34,15,3,Low,None,Yes,Decrease,5,Unsatisfied,1,Weekly,Average,Asia
+EMP3718,52,Female,Designer,Consulting,15,Remote,42,15,3,Low,None,Yes,Increase,1,Unsatisfied,1,None,Average,Oceania
+EMP2934,44,Female,Designer,Education,32,Remote,56,9,1,Low,None,Yes,Increase,5,Unsatisfied,2,None,Average,Europe
+EMP3179,35,Prefer not to say,Sales,Retail,35,Remote,29,9,1,High,None,No,Decrease,2,Satisfied,5,Daily,Good,Africa
 EMP0282,48,Female,Designer,Finance,34,Remote,34,12,1,Medium,Burnout,Yes,Increase,5,Unsatisfied,5,None,Average,Africa
 EMP4885,24,Male,Sales,Retail,32,Remote,32,9,4,Medium,Depression,Yes,Increase,3,Unsatisfied,4,Weekly,Poor,South America
 EMP2994,22,Prefer not to say,HR,IT,12,Remote,51,11,5,Low,Depression,No,Decrease,5,Neutral,4,Weekly,Average,Africa
 EMP4315,31,Male,Project Manager,Finance,35,Remote,28,5,5,High,Burnout,No,No Change,3,Satisfied,4,Weekly,Poor,Asia
 EMP4434,59,Non-binary,Sales,Manufacturing,33,Remote,28,13,4,High,Anxiety,No,No Change,4,Satisfied,2,Daily,Poor,North America
 EMP1385,29,Non-binary,Project Manager,Healthcare,4,Remote,61,2,1,High,Anxiety,No,Increase,2,Unsatisfied,5,None,Average,North America
-EMP1237,57,Prefer not to say,Marketing,Manufacturing,25,Remote,26,2,2,Low,Unknown,Yes,Increase,5,Unsatisfied,5,Daily,Poor,Oceania
+EMP1237,57,Prefer not to say,Marketing,Manufacturing,25,Remote,26,2,2,Low,None,Yes,Increase,5,Unsatisfied,5,Daily,Poor,Oceania
 EMP0259,55,Non-binary,Data Scientist,Finance,33,Remote,39,15,1,Low,Anxiety,No,No Change,1,Satisfied,1,None,Poor,Europe
-EMP0400,54,Prefer not to say,Sales,Manufacturing,28,Remote,55,14,3,Medium,Unknown,Yes,No Change,4,Neutral,5,Daily,Average,Oceania
+EMP0400,54,Prefer not to say,Sales,Manufacturing,28,Remote,55,14,3,Medium,None,Yes,No Change,4,Neutral,5,Daily,Average,Oceania
 EMP2520,55,Prefer not to say,Data Scientist,IT,27,Remote,28,11,3,High,Burnout,Yes,Increase,2,Unsatisfied,3,Daily,Poor,North America
 EMP0832,44,Male,Marketing,Finance,20,Remote,50,15,1,Medium,Burnout,Yes,Decrease,5,Neutral,4,Weekly,Average,Oceania
 EMP1327,56,Female,Data Scientist,Finance,18,Remote,62,12,3,Low,Burnout,Yes,Decrease,5,Unsatisfied,5,None,Average,North America
@@ -5113,20 +5113,20 @@ EMP1886,39,Prefer not to say,Marketing,Consulting,7,Remote,38,14,2,Low,Depressio
 EMP4342,53,Prefer not to say,HR,Healthcare,33,Remote,58,14,4,Medium,Burnout,Yes,Decrease,5,Neutral,5,Daily,Poor,South America
 EMP0047,53,Non-binary,Project Manager,Retail,29,Remote,59,13,4,Medium,Depression,Yes,Decrease,2,Unsatisfied,3,None,Poor,North America
 EMP0410,33,Non-binary,Data Scientist,Finance,20,Remote,55,3,3,Low,Burnout,Yes,No Change,5,Unsatisfied,3,Daily,Poor,South America
-EMP1383,51,Female,Data Scientist,IT,28,Remote,46,14,4,Low,Unknown,Yes,No Change,5,Unsatisfied,5,Weekly,Good,Europe
+EMP1383,51,Female,Data Scientist,IT,28,Remote,46,14,4,Low,None,Yes,No Change,5,Unsatisfied,5,Weekly,Good,Europe
 EMP2236,60,Prefer not to say,Sales,Education,27,Remote,28,3,1,Medium,Burnout,No,Decrease,3,Neutral,1,Weekly,Good,Oceania
-EMP1621,56,Female,Sales,Healthcare,10,Remote,32,12,4,Medium,Unknown,Yes,Increase,2,Unsatisfied,5,Weekly,Good,Asia
-EMP1825,53,Non-binary,HR,Finance,10,Remote,63,13,3,Low,Unknown,Yes,Increase,5,Unsatisfied,4,Weekly,Poor,Africa
-EMP1326,56,Prefer not to say,Designer,Finance,25,Remote,35,15,2,High,Unknown,No,Increase,3,Satisfied,2,Daily,Good,South America
+EMP1621,56,Female,Sales,Healthcare,10,Remote,32,12,4,Medium,None,Yes,Increase,2,Unsatisfied,5,Weekly,Good,Asia
+EMP1825,53,Non-binary,HR,Finance,10,Remote,63,13,3,Low,None,Yes,Increase,5,Unsatisfied,4,Weekly,Poor,Africa
+EMP1326,56,Prefer not to say,Designer,Finance,25,Remote,35,15,2,High,None,No,Increase,3,Satisfied,2,Daily,Good,South America
 EMP0994,53,Female,Sales,Consulting,15,Remote,60,16,1,High,Burnout,No,No Change,5,Unsatisfied,2,Weekly,Poor,South America
 EMP2795,53,Male,HR,Education,35,Remote,25,11,1,Medium,Depression,Yes,No Change,2,Unsatisfied,2,Daily,Good,Oceania
 EMP0132,22,Male,Sales,Education,29,Remote,62,15,1,Medium,Burnout,Yes,Increase,5,Unsatisfied,3,Weekly,Poor,Oceania
-EMP2019,30,Male,Sales,IT,24,Remote,25,15,1,Medium,Unknown,Yes,No Change,2,Neutral,5,Weekly,Good,Asia
+EMP2019,30,Male,Sales,IT,24,Remote,25,15,1,Medium,None,Yes,No Change,2,Neutral,5,Weekly,Good,Asia
 EMP1853,27,Male,Designer,Manufacturing,16,Remote,58,15,1,Medium,Anxiety,Yes,Increase,5,Unsatisfied,4,Weekly,Average,Europe
 EMP1176,34,Female,Sales,Consulting,19,Remote,27,16,1,High,Anxiety,Yes,No Change,3,Unsatisfied,1,None,Poor,South America
 EMP3702,30,Female,Data Scientist,Education,29,Remote,31,2,3,Medium,Anxiety,Yes,Increase,5,Unsatisfied,5,Daily,Poor,Oceania
-EMP4491,41,Non-binary,HR,Consulting,29,Remote,45,6,1,Low,Unknown,Yes,Decrease,5,Unsatisfied,5,Weekly,Poor,Oceania
-EMP2293,25,Prefer not to say,Project Manager,Finance,8,Remote,32,15,3,Low,Unknown,Yes,No Change,5,Unsatisfied,5,Weekly,Good,South America
+EMP4491,41,Non-binary,HR,Consulting,29,Remote,45,6,1,Low,None,Yes,Decrease,5,Unsatisfied,5,Weekly,Poor,Oceania
+EMP2293,25,Prefer not to say,Project Manager,Finance,8,Remote,32,15,3,Low,None,Yes,No Change,5,Unsatisfied,5,Weekly,Good,South America
 EMP1565,30,Male,Sales,Consulting,28,Remote,28,15,2,Low,Anxiety,No,Increase,2,Neutral,5,Daily,Poor,Africa
 EMP2872,54,Male,Software Engineer,Retail,28,Remote,30,13,3,Low,Burnout,Yes,Decrease,5,Satisfied,3,Daily,Average,South America
 EMP0378,43,Female,Designer,Healthcare,16,Remote,28,9,3,Low,Burnout,No,No Change,2,Neutral,1,Daily,Average,Africa
@@ -5134,27 +5134,27 @@ EMP0949,52,Female,HR,Finance,16,Remote,29,11,1,High,Anxiety,Yes,Increase,3,Satis
 EMP3674,57,Female,HR,Manufacturing,28,Remote,31,4,3,Low,Burnout,Yes,Increase,5,Satisfied,1,Daily,Average,South America
 EMP3029,49,Non-binary,Designer,Retail,6,Remote,28,7,4,Medium,Burnout,No,Decrease,3,Unsatisfied,1,Weekly,Average,Africa
 EMP1781,27,Prefer not to say,Sales,Healthcare,11,Remote,30,14,4,High,Anxiety,Yes,Decrease,3,Satisfied,1,Weekly,Average,Oceania
-EMP1334,57,Prefer not to say,Designer,Manufacturing,1,Remote,30,14,5,Low,Unknown,Yes,Decrease,2,Satisfied,4,Weekly,Average,Asia
+EMP1334,57,Prefer not to say,Designer,Manufacturing,1,Remote,30,14,5,Low,None,Yes,Decrease,2,Satisfied,4,Weekly,Average,Asia
 EMP2334,25,Non-binary,Data Scientist,Retail,9,Remote,58,12,3,Medium,Burnout,No,Increase,1,Satisfied,4,Weekly,Average,Oceania
 EMP2777,58,Male,Sales,Healthcare,3,Remote,25,14,5,Low,Depression,No,Decrease,3,Unsatisfied,5,Daily,Good,South America
 EMP4010,57,Prefer not to say,Data Scientist,IT,33,Remote,50,5,5,Low,Depression,Yes,Decrease,3,Neutral,4,Weekly,Poor,Oceania
-EMP4413,54,Female,Software Engineer,IT,35,Remote,47,7,3,High,Unknown,No,Increase,5,Satisfied,1,Weekly,Average,South America
+EMP4413,54,Female,Software Engineer,IT,35,Remote,47,7,3,High,None,No,Increase,5,Satisfied,1,Weekly,Average,South America
 EMP2754,53,Male,Project Manager,Finance,31,Remote,29,15,5,High,Burnout,No,Increase,2,Neutral,4,Weekly,Poor,Europe
 EMP2067,32,Non-binary,Data Scientist,Finance,29,Remote,48,15,5,Low,Depression,No,Decrease,5,Unsatisfied,1,Weekly,Poor,Oceania
 EMP2181,62,Male,Data Scientist,IT,27,Remote,43,1,3,Low,Burnout,Yes,Decrease,2,Unsatisfied,4,Weekly,Good,South America
 EMP4499,53,Non-binary,Project Manager,Manufacturing,17,Remote,52,10,4,Low,Depression,Yes,Decrease,3,Satisfied,4,None,Good,North America
-EMP3638,33,Prefer not to say,Project Manager,Healthcare,6,Remote,29,13,5,Medium,Unknown,Yes,Increase,1,Unsatisfied,2,Daily,Good,Europe
+EMP3638,33,Prefer not to say,Project Manager,Healthcare,6,Remote,29,13,5,Medium,None,Yes,Increase,1,Unsatisfied,2,Daily,Good,Europe
 EMP1475,29,Male,Data Scientist,Manufacturing,8,Remote,29,11,2,High,Burnout,Yes,Increase,5,Unsatisfied,2,None,Average,North America
 EMP2485,47,Non-binary,Software Engineer,Consulting,35,Remote,42,3,4,Medium,Burnout,Yes,Decrease,1,Neutral,5,Weekly,Good,Oceania
 EMP2329,60,Female,Data Scientist,Education,8,Remote,32,7,5,High,Anxiety,Yes,No Change,3,Unsatisfied,4,None,Average,Asia
-EMP4999,44,Non-binary,Designer,Retail,33,Remote,32,9,5,Low,Unknown,No,Decrease,5,Unsatisfied,1,Daily,Poor,Asia
-EMP2067,51,Non-binary,Data Scientist,Education,32,Remote,40,15,5,Low,Unknown,No,Decrease,1,Satisfied,1,None,Good,Africa
+EMP4999,44,Non-binary,Designer,Retail,33,Remote,32,9,5,Low,None,No,Decrease,5,Unsatisfied,1,Daily,Poor,Asia
+EMP2067,51,Non-binary,Data Scientist,Education,32,Remote,40,15,5,Low,None,No,Decrease,1,Satisfied,1,None,Good,Africa
 EMP0769,24,Male,Data Scientist,Manufacturing,32,Remote,26,14,3,High,Anxiety,Yes,Decrease,5,Unsatisfied,5,Daily,Average,North America
 EMP4499,32,Male,Sales,Retail,35,Remote,39,15,2,Medium,Burnout,No,No Change,4,Unsatisfied,5,Weekly,Poor,Asia
 EMP3963,50,Male,HR,Education,10,Remote,46,14,5,Medium,Anxiety,No,Increase,5,Neutral,1,Weekly,Poor,Europe
 EMP2789,54,Male,Project Manager,Healthcare,33,Remote,28,14,5,High,Depression,Yes,No Change,1,Neutral,1,Weekly,Good,Oceania
-EMP2867,48,Non-binary,Designer,Education,5,Remote,26,11,3,High,Unknown,Yes,Decrease,3,Unsatisfied,4,Daily,Poor,Africa
-EMP4478,27,Female,Project Manager,Education,5,Remote,49,0,4,High,Unknown,Yes,Decrease,5,Unsatisfied,4,None,Poor,South America
+EMP2867,48,Non-binary,Designer,Education,5,Remote,26,11,3,High,None,Yes,Decrease,3,Unsatisfied,4,Daily,Poor,Africa
+EMP4478,27,Female,Project Manager,Education,5,Remote,49,0,4,High,None,Yes,Decrease,5,Unsatisfied,4,None,Poor,South America
 EMP1224,35,Prefer not to say,Designer,Retail,10,Remote,61,12,4,Medium,Burnout,No,No Change,5,Neutral,4,Daily,Average,Africa
 EMP4882,31,Non-binary,Data Scientist,Consulting,4,Remote,52,9,2,Medium,Anxiety,Yes,Increase,3,Satisfied,3,Weekly,Average,Asia
 EMP3519,55,Prefer not to say,Software Engineer,Finance,7,Remote,63,14,3,High,Anxiety,Yes,Increase,5,Unsatisfied,5,Daily,Poor,North America
@@ -5169,56 +5169,56 @@ EMP1610,29,Prefer not to say,Project Manager,Manufacturing,19,Remote,52,14,5,Med
 EMP4857,51,Non-binary,Project Manager,Manufacturing,34,Remote,32,2,1,Low,Burnout,Yes,Increase,5,Unsatisfied,4,Weekly,Average,North America
 EMP4721,56,Prefer not to say,Designer,Education,9,Remote,29,4,2,Low,Anxiety,Yes,Increase,5,Neutral,4,Weekly,Poor,Asia
 EMP0447,51,Male,Data Scientist,Education,23,Remote,61,13,2,High,Burnout,Yes,Increase,5,Unsatisfied,2,None,Poor,Europe
-EMP3260,38,Non-binary,Designer,Retail,24,Remote,56,14,2,High,Unknown,Yes,No Change,2,Neutral,3,Weekly,Good,South America
+EMP3260,38,Non-binary,Designer,Retail,24,Remote,56,14,2,High,None,Yes,No Change,2,Neutral,3,Weekly,Good,South America
 EMP3709,60,Prefer not to say,Data Scientist,IT,27,Remote,46,2,4,Medium,Anxiety,No,Decrease,5,Unsatisfied,2,Daily,Good,Oceania
 EMP0344,53,Prefer not to say,Project Manager,Retail,30,Remote,55,11,2,Low,Burnout,Yes,Decrease,5,Neutral,4,None,Good,South America
 EMP2397,26,Non-binary,Software Engineer,Education,9,Remote,65,15,5,Low,Depression,Yes,No Change,5,Unsatisfied,1,Weekly,Poor,Asia
-EMP2700,31,Non-binary,Designer,Retail,7,Remote,41,2,4,High,Unknown,Yes,No Change,3,Satisfied,4,Daily,Poor,Africa
-EMP3853,42,Non-binary,Software Engineer,Finance,3,Remote,26,9,3,High,Unknown,No,Decrease,1,Unsatisfied,3,Weekly,Poor,Europe
-EMP0559,43,Prefer not to say,Project Manager,Retail,35,Remote,53,11,2,Low,Unknown,No,Decrease,3,Unsatisfied,2,Daily,Average,Oceania
+EMP2700,31,Non-binary,Designer,Retail,7,Remote,41,2,4,High,None,Yes,No Change,3,Satisfied,4,Daily,Poor,Africa
+EMP3853,42,Non-binary,Software Engineer,Finance,3,Remote,26,9,3,High,None,No,Decrease,1,Unsatisfied,3,Weekly,Poor,Europe
+EMP0559,43,Prefer not to say,Project Manager,Retail,35,Remote,53,11,2,Low,None,No,Decrease,3,Unsatisfied,2,Daily,Average,Oceania
 EMP4376,42,Male,Sales,Finance,30,Remote,56,1,1,Medium,Burnout,Yes,Decrease,5,Unsatisfied,1,Weekly,Average,Europe
 EMP0138,55,Male,Project Manager,Finance,31,Remote,57,11,2,Medium,Burnout,Yes,Decrease,5,Satisfied,5,Weekly,Poor,Europe
 EMP1673,36,Female,Sales,Consulting,33,Remote,22,11,3,High,Burnout,No,Decrease,2,Unsatisfied,4,Daily,Average,North America
 EMP3141,35,Non-binary,Data Scientist,IT,13,Remote,52,1,4,Low,Anxiety,Yes,Decrease,5,Satisfied,2,Weekly,Average,Africa
-EMP1877,59,Prefer not to say,Marketing,IT,19,Remote,59,14,1,Medium,Unknown,No,No Change,2,Satisfied,3,Daily,Poor,Oceania
-EMP4447,40,Female,Data Scientist,Healthcare,0,Remote,59,11,4,Medium,Unknown,Yes,Decrease,5,Unsatisfied,4,Weekly,Poor,North America
+EMP1877,59,Prefer not to say,Marketing,IT,19,Remote,59,14,1,Medium,None,No,No Change,2,Satisfied,3,Daily,Poor,Oceania
+EMP4447,40,Female,Data Scientist,Healthcare,0,Remote,59,11,4,Medium,None,Yes,Decrease,5,Unsatisfied,4,Weekly,Poor,North America
 EMP4556,36,Male,Project Manager,Finance,25,Remote,36,2,5,Medium,Burnout,Yes,No Change,4,Neutral,1,Weekly,Good,Oceania
-EMP4499,38,Male,Marketing,Healthcare,30,Remote,29,13,1,Medium,Unknown,No,Decrease,5,Unsatisfied,4,Daily,Average,North America
-EMP1008,58,Prefer not to say,Project Manager,IT,9,Remote,27,9,2,Medium,Unknown,Yes,No Change,2,Unsatisfied,2,Daily,Poor,Oceania
+EMP4499,38,Male,Marketing,Healthcare,30,Remote,29,13,1,Medium,None,No,Decrease,5,Unsatisfied,4,Daily,Average,North America
+EMP1008,58,Prefer not to say,Project Manager,IT,9,Remote,27,9,2,Medium,None,Yes,No Change,2,Unsatisfied,2,Daily,Poor,Oceania
 EMP1872,56,Non-binary,Marketing,IT,29,Remote,26,9,1,Low,Burnout,No,No Change,2,Neutral,5,Weekly,Poor,Africa
 EMP4490,54,Male,Project Manager,Healthcare,33,Remote,28,13,2,High,Burnout,Yes,No Change,5,Unsatisfied,4,Daily,Poor,North America
 EMP0473,56,Female,Data Scientist,Manufacturing,33,Remote,56,5,3,Medium,Burnout,No,Increase,1,Unsatisfied,5,None,Average,Europe
 EMP1205,46,Male,HR,Consulting,6,Remote,27,10,1,Low,Burnout,Yes,No Change,2,Unsatisfied,2,Weekly,Good,Europe
-EMP3817,54,Prefer not to say,Data Scientist,IT,11,Remote,29,1,1,Low,Unknown,Yes,Decrease,4,Neutral,5,Weekly,Poor,South America
+EMP3817,54,Prefer not to say,Data Scientist,IT,11,Remote,29,1,1,Low,None,Yes,Decrease,4,Neutral,5,Weekly,Poor,South America
 EMP2157,21,Non-binary,Software Engineer,Education,24,Remote,27,13,1,Medium,Anxiety,Yes,Decrease,1,Satisfied,1,Weekly,Average,North America
-EMP0282,42,Non-binary,Marketing,Finance,24,Remote,29,3,1,Low,Unknown,No,Decrease,3,Neutral,1,Daily,Average,South America
+EMP0282,42,Non-binary,Marketing,Finance,24,Remote,29,3,1,Low,None,No,Decrease,3,Neutral,1,Daily,Average,South America
 EMP1191,56,Non-binary,Designer,Manufacturing,11,Remote,31,15,4,Low,Anxiety,Yes,Increase,3,Satisfied,3,Weekly,Poor,North America
 EMP3209,32,Prefer not to say,HR,Manufacturing,7,Remote,48,16,2,Low,Depression,Yes,Decrease,5,Satisfied,4,None,Average,Asia
-EMP1731,39,Prefer not to say,Project Manager,IT,3,Remote,43,8,4,Medium,Unknown,Yes,No Change,4,Neutral,5,Daily,Average,Oceania
-EMP2361,28,Non-binary,Data Scientist,Consulting,28,Remote,55,11,3,Medium,Unknown,No,No Change,2,Unsatisfied,3,Weekly,Good,Europe
+EMP1731,39,Prefer not to say,Project Manager,IT,3,Remote,43,8,4,Medium,None,Yes,No Change,4,Neutral,5,Daily,Average,Oceania
+EMP2361,28,Non-binary,Data Scientist,Consulting,28,Remote,55,11,3,Medium,None,No,No Change,2,Unsatisfied,3,Weekly,Good,Europe
 EMP2515,61,Prefer not to say,Designer,Education,32,Remote,30,11,5,Low,Depression,No,Increase,4,Neutral,3,None,Average,Africa
-EMP2965,57,Non-binary,Data Scientist,Manufacturing,19,Remote,41,15,2,Low,Unknown,Yes,Increase,5,Unsatisfied,4,Weekly,Poor,Europe
+EMP2965,57,Non-binary,Data Scientist,Manufacturing,19,Remote,41,15,2,Low,None,Yes,Increase,5,Unsatisfied,4,Weekly,Poor,Europe
 EMP0456,53,Male,Designer,Healthcare,5,Remote,58,10,2,High,Depression,Yes,Increase,3,Neutral,1,None,Poor,Oceania
 EMP1882,40,Non-binary,Sales,IT,30,Remote,27,9,1,Medium,Burnout,Yes,Decrease,4,Unsatisfied,4,Weekly,Poor,Africa
 EMP1834,25,Non-binary,Data Scientist,IT,17,Remote,59,5,1,High,Depression,No,No Change,4,Satisfied,3,Daily,Average,Africa
-EMP0148,56,Male,Software Engineer,Manufacturing,2,Remote,27,12,4,Low,Unknown,Yes,Decrease,5,Satisfied,5,Weekly,Poor,Oceania
+EMP0148,56,Male,Software Engineer,Manufacturing,2,Remote,27,12,4,Low,None,Yes,Decrease,5,Satisfied,5,Weekly,Poor,Oceania
 EMP3082,31,Non-binary,Project Manager,Education,21,Remote,31,4,4,Low,Burnout,No,Increase,2,Unsatisfied,5,None,Average,South America
-EMP3593,47,Male,Sales,Retail,13,Remote,54,12,5,High,Unknown,No,No Change,5,Satisfied,4,Weekly,Poor,Oceania
-EMP1323,26,Prefer not to say,Data Scientist,IT,30,Remote,57,10,1,High,Unknown,Yes,Decrease,2,Unsatisfied,5,Daily,Poor,North America
+EMP3593,47,Male,Sales,Retail,13,Remote,54,12,5,High,None,No,No Change,5,Satisfied,4,Weekly,Poor,Oceania
+EMP1323,26,Prefer not to say,Data Scientist,IT,30,Remote,57,10,1,High,None,Yes,Decrease,2,Unsatisfied,5,Daily,Poor,North America
 EMP2807,54,Female,Sales,Consulting,32,Remote,47,5,2,Medium,Burnout,Yes,Decrease,1,Unsatisfied,4,Weekly,Good,Oceania
 EMP4054,56,Prefer not to say,Sales,Manufacturing,31,Remote,52,16,3,Medium,Anxiety,Yes,Decrease,5,Unsatisfied,2,Weekly,Average,Europe
-EMP1702,40,Non-binary,HR,Consulting,1,Remote,54,15,1,High,Unknown,Yes,Increase,5,Unsatisfied,2,Daily,Average,Asia
-EMP0852,44,Male,Project Manager,Finance,12,Remote,50,5,1,Low,Unknown,Yes,Decrease,2,Unsatisfied,2,Weekly,Poor,Africa
+EMP1702,40,Non-binary,HR,Consulting,1,Remote,54,15,1,High,None,Yes,Increase,5,Unsatisfied,2,Daily,Average,Asia
+EMP0852,44,Male,Project Manager,Finance,12,Remote,50,5,1,Low,None,Yes,Decrease,2,Unsatisfied,2,Weekly,Poor,Africa
 EMP0746,26,Male,Designer,Consulting,12,Remote,65,15,4,Low,Burnout,Yes,No Change,2,Unsatisfied,2,Weekly,Good,Asia
 EMP1422,30,Male,Project Manager,IT,32,Remote,54,2,3,Medium,Depression,Yes,Decrease,1,Unsatisfied,1,Weekly,Poor,North America
 EMP3725,42,Non-binary,HR,Manufacturing,27,Remote,29,4,1,High,Anxiety,Yes,Decrease,2,Unsatisfied,2,Weekly,Poor,Oceania
-EMP2595,51,Male,Project Manager,Healthcare,28,Remote,27,2,2,High,Unknown,Yes,Increase,4,Unsatisfied,4,Weekly,Poor,Europe
+EMP2595,51,Male,Project Manager,Healthcare,28,Remote,27,2,2,High,None,Yes,Increase,4,Unsatisfied,4,Weekly,Poor,Europe
 EMP3566,29,Male,Sales,Healthcare,1,Remote,56,7,4,Low,Burnout,No,Decrease,2,Satisfied,1,Daily,Poor,Oceania
-EMP2104,25,Prefer not to say,Project Manager,Manufacturing,21,Remote,47,15,2,High,Unknown,No,Increase,5,Satisfied,1,None,Poor,Asia
-EMP3099,28,Non-binary,Sales,Retail,14,Remote,64,11,5,Low,Unknown,Yes,Decrease,1,Satisfied,2,None,Average,North America
+EMP2104,25,Prefer not to say,Project Manager,Manufacturing,21,Remote,47,15,2,High,None,No,Increase,5,Satisfied,1,None,Poor,Asia
+EMP3099,28,Non-binary,Sales,Retail,14,Remote,64,11,5,Low,None,Yes,Decrease,1,Satisfied,2,None,Average,North America
 EMP4813,26,Male,HR,Retail,1,Remote,63,4,1,Low,Anxiety,No,Increase,4,Neutral,1,Weekly,Average,South America
 EMP3080,60,Male,Software Engineer,Education,35,Remote,29,14,3,High,Burnout,No,Increase,2,Neutral,1,Daily,Good,South America
-EMP3376,28,Female,HR,Consulting,30,Remote,44,3,5,Medium,Unknown,Yes,Increase,2,Unsatisfied,4,Daily,Average,Oceania
+EMP3376,28,Female,HR,Consulting,30,Remote,44,3,5,Medium,None,Yes,Increase,2,Unsatisfied,4,Daily,Average,Oceania
 EMP4409,55,Non-binary,HR,Healthcare,17,Remote,52,15,5,Low,Depression,No,Decrease,5,Unsatisfied,5,Daily,Average,South America
 EMP0215,38,Male,Designer,IT,29,Remote,64,7,2,Medium,Burnout,Yes,No Change,1,Unsatisfied,5,None,Poor,Africa
 EMP1303,56,Non-binary,Data Scientist,Manufacturing,30,Remote,40,2,4,Low,Anxiety,No,Decrease,4,Neutral,2,Weekly,Average,Oceania
@@ -5226,72 +5226,72 @@ EMP1567,33,Non-binary,Project Manager,Consulting,6,Remote,53,2,4,Low,Burnout,No,
 EMP1119,32,Prefer not to say,Project Manager,Finance,19,Remote,58,10,2,Low,Depression,Yes,Decrease,2,Unsatisfied,3,Daily,Poor,South America
 EMP3787,33,Non-binary,Software Engineer,Manufacturing,10,Remote,47,4,4,Low,Depression,No,Decrease,5,Unsatisfied,2,Daily,Good,South America
 EMP4721,57,Non-binary,Software Engineer,Retail,5,Remote,27,7,2,Low,Anxiety,Yes,Decrease,2,Satisfied,4,Daily,Average,South America
-EMP3267,28,Male,Software Engineer,Retail,7,Remote,50,11,4,High,Unknown,No,Increase,1,Neutral,2,Weekly,Average,North America
-EMP2332,53,Prefer not to say,Marketing,Manufacturing,26,Remote,28,7,2,High,Unknown,Yes,Increase,5,Neutral,4,None,Average,Africa
+EMP3267,28,Male,Software Engineer,Retail,7,Remote,50,11,4,High,None,No,Increase,1,Neutral,2,Weekly,Average,North America
+EMP2332,53,Prefer not to say,Marketing,Manufacturing,26,Remote,28,7,2,High,None,Yes,Increase,5,Neutral,4,None,Average,Africa
 EMP2351,40,Non-binary,HR,Consulting,30,Remote,43,16,4,Medium,Burnout,Yes,Decrease,2,Neutral,4,Daily,Good,Europe
 EMP2695,56,Male,Software Engineer,Manufacturing,22,Remote,26,9,5,Low,Burnout,No,Decrease,5,Satisfied,5,Daily,Good,South America
 EMP2008,46,Non-binary,Designer,Consulting,15,Remote,25,14,1,Low,Depression,Yes,No Change,1,Satisfied,5,Weekly,Good,Europe
 EMP4589,35,Non-binary,Software Engineer,Healthcare,30,Remote,60,6,3,High,Anxiety,Yes,Increase,3,Satisfied,3,Weekly,Poor,North America
-EMP0754,56,Female,Project Manager,Retail,7,Remote,28,-1,1,Low,Unknown,Yes,Decrease,3,Unsatisfied,2,Daily,Poor,Europe
+EMP0754,56,Female,Project Manager,Retail,7,Remote,28,-1,1,Low,None,Yes,Decrease,3,Unsatisfied,2,Daily,Poor,Europe
 EMP1854,37,Male,Project Manager,Healthcare,30,Remote,28,13,1,High,Burnout,Yes,Increase,5,Unsatisfied,1,Weekly,Good,Europe
-EMP0389,27,Non-binary,Software Engineer,Finance,32,Remote,32,2,2,Medium,Unknown,No,Decrease,3,Unsatisfied,2,Weekly,Poor,South America
+EMP0389,27,Non-binary,Software Engineer,Finance,32,Remote,32,2,2,Medium,None,No,Decrease,3,Unsatisfied,2,Weekly,Poor,South America
 EMP2666,44,Female,Project Manager,Manufacturing,32,Remote,58,13,3,Medium,Depression,Yes,No Change,5,Satisfied,5,None,Poor,Africa
 EMP1374,26,Male,Project Manager,IT,33,Remote,23,11,4,Medium,Burnout,Yes,Decrease,4,Satisfied,5,None,Average,Europe
-EMP1795,28,Non-binary,HR,Manufacturing,1,Remote,29,5,2,High,Unknown,Yes,Increase,5,Unsatisfied,1,Weekly,Poor,South America
-EMP1516,56,Prefer not to say,Designer,Education,7,Remote,56,6,1,Low,Unknown,Yes,Increase,3,Unsatisfied,2,Daily,Average,South America
+EMP1795,28,Non-binary,HR,Manufacturing,1,Remote,29,5,2,High,None,Yes,Increase,5,Unsatisfied,1,Weekly,Poor,South America
+EMP1516,56,Prefer not to say,Designer,Education,7,Remote,56,6,1,Low,None,Yes,Increase,3,Unsatisfied,2,Daily,Average,South America
 EMP4509,32,Non-binary,Software Engineer,Retail,30,Remote,54,13,1,High,Anxiety,Yes,No Change,4,Neutral,4,None,Poor,North America
 EMP3629,53,Male,Marketing,Retail,26,Remote,45,5,1,High,Anxiety,Yes,No Change,2,Unsatisfied,5,None,Poor,North America
 EMP0638,24,Non-binary,Project Manager,Education,30,Remote,62,2,1,Low,Burnout,Yes,Decrease,2,Unsatisfied,3,Daily,Good,Africa
-EMP3267,50,Prefer not to say,Software Engineer,Healthcare,27,Remote,29,14,2,Medium,Unknown,Yes,No Change,5,Unsatisfied,4,None,Poor,Europe
-EMP1432,52,Male,HR,Consulting,25,Remote,63,9,4,High,Unknown,Yes,Increase,2,Neutral,1,Weekly,Poor,Oceania
+EMP3267,50,Prefer not to say,Software Engineer,Healthcare,27,Remote,29,14,2,Medium,None,Yes,No Change,5,Unsatisfied,4,None,Poor,Europe
+EMP1432,52,Male,HR,Consulting,25,Remote,63,9,4,High,None,Yes,Increase,2,Neutral,1,Weekly,Poor,Oceania
 EMP0328,46,Non-binary,Data Scientist,IT,16,Remote,52,3,3,Medium,Anxiety,Yes,No Change,5,Unsatisfied,4,None,Poor,Africa
 EMP0265,55,Male,Software Engineer,Finance,10,Remote,26,8,2,Low,Depression,No,Decrease,2,Unsatisfied,1,None,Poor,Asia
 EMP2476,63,Male,Project Manager,Retail,5,Remote,49,2,1,Medium,Depression,No,No Change,2,Unsatisfied,1,Weekly,Average,Africa
 EMP2142,61,Non-binary,Project Manager,Retail,14,Remote,30,0,3,Medium,Anxiety,Yes,Decrease,2,Unsatisfied,3,Weekly,Poor,Oceania
-EMP0949,55,Male,Marketing,Finance,2,Remote,31,12,1,Low,Unknown,Yes,Decrease,2,Unsatisfied,1,Daily,Average,North America
+EMP0949,55,Male,Marketing,Finance,2,Remote,31,12,1,Low,None,Yes,Decrease,2,Unsatisfied,1,Daily,Average,North America
 EMP2741,40,Prefer not to say,Software Engineer,Education,9,Remote,30,9,3,Medium,Depression,Yes,Decrease,5,Unsatisfied,1,Daily,Poor,North America
 EMP3726,48,Male,Data Scientist,Healthcare,21,Remote,55,9,1,High,Depression,Yes,No Change,5,Unsatisfied,1,None,Average,Asia
 EMP3490,28,Male,Data Scientist,Finance,31,Remote,59,4,1,Low,Anxiety,Yes,No Change,4,Unsatisfied,4,Daily,Poor,North America
-EMP3516,25,Female,Software Engineer,Consulting,22,Remote,32,15,1,Low,Unknown,Yes,Decrease,5,Satisfied,1,Weekly,Average,Asia
+EMP3516,25,Female,Software Engineer,Consulting,22,Remote,32,15,1,Low,None,Yes,Decrease,5,Satisfied,1,Weekly,Average,Asia
 EMP4553,21,Prefer not to say,Designer,Finance,8,Remote,55,10,1,High,Burnout,Yes,Increase,2,Unsatisfied,4,Weekly,Poor,Africa
-EMP0668,38,Male,Designer,Retail,21,Remote,43,15,5,Low,Unknown,Yes,Decrease,2,Unsatisfied,3,None,Average,South America
+EMP0668,38,Male,Designer,Retail,21,Remote,43,15,5,Low,None,Yes,Decrease,2,Unsatisfied,3,None,Average,South America
 EMP1567,54,Non-binary,HR,Finance,21,Remote,39,2,3,High,Burnout,No,No Change,1,Neutral,1,Daily,Average,Oceania
 EMP0370,43,Prefer not to say,Software Engineer,Healthcare,4,Remote,62,1,3,Low,Burnout,No,No Change,5,Satisfied,4,Weekly,Poor,South America
 EMP1853,55,Non-binary,Project Manager,Finance,14,Remote,47,7,3,Low,Anxiety,Yes,Decrease,5,Unsatisfied,5,Daily,Good,Oceania
 EMP4613,31,Male,Marketing,Healthcare,19,Remote,40,2,2,Medium,Depression,Yes,Increase,4,Unsatisfied,4,Weekly,Poor,North America
 EMP3342,50,Prefer not to say,Project Manager,Retail,34,Remote,45,9,5,Medium,Burnout,Yes,Increase,5,Satisfied,4,Daily,Poor,Europe
-EMP1082,39,Male,Designer,Consulting,15,Remote,29,15,4,Low,Unknown,No,Increase,2,Satisfied,4,Daily,Poor,South America
-EMP3708,58,Non-binary,Marketing,Manufacturing,16,Remote,26,8,3,Medium,Unknown,Yes,Decrease,5,Unsatisfied,4,Weekly,Average,Africa
-EMP1055,37,Non-binary,Software Engineer,Education,3,Remote,51,6,4,Medium,Unknown,No,Increase,3,Satisfied,1,Weekly,Average,Oceania
+EMP1082,39,Male,Designer,Consulting,15,Remote,29,15,4,Low,None,No,Increase,2,Satisfied,4,Daily,Poor,South America
+EMP3708,58,Non-binary,Marketing,Manufacturing,16,Remote,26,8,3,Medium,None,Yes,Decrease,5,Unsatisfied,4,Weekly,Average,Africa
+EMP1055,37,Non-binary,Software Engineer,Education,3,Remote,51,6,4,Medium,None,No,Increase,3,Satisfied,1,Weekly,Average,Oceania
 EMP2788,52,Male,Sales,Finance,28,Remote,34,1,3,Medium,Anxiety,Yes,No Change,2,Unsatisfied,1,Weekly,Average,Europe
-EMP2470,53,Male,Marketing,Education,36,Remote,50,1,5,Medium,Unknown,Yes,Decrease,5,Unsatisfied,1,Weekly,Good,Africa
-EMP3403,43,Female,Software Engineer,Finance,30,Remote,29,14,3,Low,Unknown,No,No Change,2,Unsatisfied,4,Weekly,Average,Asia
+EMP2470,53,Male,Marketing,Education,36,Remote,50,1,5,Medium,None,Yes,Decrease,5,Unsatisfied,1,Weekly,Good,Africa
+EMP3403,43,Female,Software Engineer,Finance,30,Remote,29,14,3,Low,None,No,No Change,2,Unsatisfied,4,Weekly,Average,Asia
 EMP0668,55,Female,Designer,Retail,32,Remote,28,15,2,Low,Anxiety,Yes,No Change,2,Neutral,4,Weekly,Poor,Africa
-EMP2067,27,Male,Sales,Retail,18,Remote,44,12,3,Low,Unknown,Yes,Decrease,5,Satisfied,3,Daily,Average,Europe
+EMP2067,27,Male,Sales,Retail,18,Remote,44,12,3,Low,None,Yes,Decrease,5,Satisfied,3,Daily,Average,Europe
 EMP0897,29,Non-binary,Software Engineer,Manufacturing,25,Remote,31,15,4,High,Burnout,Yes,Decrease,5,Unsatisfied,3,Weekly,Poor,Oceania
 EMP1533,39,Non-binary,Designer,IT,11,Remote,54,13,1,Medium,Burnout,No,No Change,5,Satisfied,2,Daily,Average,Asia
-EMP0939,58,Male,Data Scientist,Manufacturing,21,Remote,30,6,1,High,Unknown,No,Increase,2,Satisfied,2,Weekly,Poor,South America
-EMP1385,37,Non-binary,Data Scientist,Finance,11,Remote,29,14,1,High,Unknown,No,Decrease,5,Unsatisfied,3,Daily,Average,North America
+EMP0939,58,Male,Data Scientist,Manufacturing,21,Remote,30,6,1,High,None,No,Increase,2,Satisfied,2,Weekly,Poor,South America
+EMP1385,37,Non-binary,Data Scientist,Finance,11,Remote,29,14,1,High,None,No,Decrease,5,Unsatisfied,3,Daily,Average,North America
 EMP1883,56,Non-binary,Designer,Healthcare,29,Remote,48,1,2,Medium,Anxiety,No,Increase,2,Unsatisfied,4,Daily,Average,Oceania
 EMP1360,33,Prefer not to say,Project Manager,Finance,16,Remote,58,3,2,High,Burnout,Yes,No Change,5,Unsatisfied,4,Weekly,Poor,North America
 EMP3835,39,Female,Sales,Consulting,32,Remote,54,8,1,Low,Anxiety,Yes,Increase,3,Neutral,1,None,Good,South America
 EMP3012,25,Prefer not to say,Marketing,IT,22,Remote,44,11,2,Medium,Burnout,Yes,No Change,3,Neutral,4,None,Average,South America
 EMP1339,23,Non-binary,Designer,Retail,15,Remote,63,16,5,Medium,Burnout,Yes,Increase,1,Neutral,1,Daily,Average,South America
 EMP3376,43,Prefer not to say,Data Scientist,Finance,17,Remote,56,10,1,Low,Burnout,Yes,Increase,5,Neutral,4,Daily,Poor,Asia
-EMP0485,37,Female,Data Scientist,Consulting,24,Remote,28,13,1,Low,Unknown,No,Decrease,2,Unsatisfied,4,Daily,Poor,Asia
+EMP0485,37,Female,Data Scientist,Consulting,24,Remote,28,13,1,Low,None,No,Decrease,2,Unsatisfied,4,Daily,Poor,Asia
 EMP1864,50,Non-binary,Software Engineer,Finance,4,Remote,28,2,1,Low,Anxiety,Yes,Decrease,4,Unsatisfied,4,Daily,Poor,Africa
 EMP4788,42,Non-binary,Marketing,Healthcare,13,Remote,43,8,3,Medium,Burnout,Yes,No Change,4,Neutral,5,Weekly,Average,Asia
 EMP2053,36,Female,Sales,Manufacturing,28,Remote,28,12,5,Low,Depression,Yes,Increase,5,Neutral,5,Weekly,Average,Europe
 EMP3867,51,Male,Project Manager,Finance,22,Remote,26,2,5,Low,Anxiety,Yes,Decrease,5,Unsatisfied,5,Daily,Poor,Asia
-EMP3839,55,Prefer not to say,Designer,Consulting,26,Remote,53,11,4,High,Unknown,Yes,Increase,2,Unsatisfied,3,Daily,Average,Europe
+EMP3839,55,Prefer not to say,Designer,Consulting,26,Remote,53,11,4,High,None,Yes,Increase,2,Unsatisfied,3,Daily,Average,Europe
 EMP4546,28,Male,Data Scientist,IT,26,Remote,30,7,1,Medium,Depression,Yes,No Change,1,Unsatisfied,4,Daily,Poor,Oceania
 EMP3906,35,Non-binary,Sales,Retail,30,Remote,53,3,5,High,Anxiety,Yes,Increase,5,Unsatisfied,2,Weekly,Average,Europe
 EMP2385,42,Prefer not to say,Designer,Finance,31,Remote,43,2,4,Medium,Anxiety,Yes,Decrease,2,Unsatisfied,4,Daily,Good,South America
-EMP3976,42,Male,Data Scientist,Finance,36,Remote,51,11,1,Low,Unknown,Yes,No Change,2,Unsatisfied,1,Weekly,Average,Asia
+EMP3976,42,Male,Data Scientist,Finance,36,Remote,51,11,1,Low,None,Yes,No Change,2,Unsatisfied,1,Weekly,Average,Asia
 EMP3702,45,Non-binary,Software Engineer,Retail,6,Remote,30,9,4,Low,Burnout,No,Increase,2,Unsatisfied,1,Daily,Poor,South America
 EMP4944,45,Male,Sales,Consulting,26,Remote,26,12,4,High,Burnout,Yes,Decrease,1,Unsatisfied,4,Daily,Poor,North America
 EMP3892,58,Prefer not to say,Data Scientist,IT,22,Remote,43,11,1,High,Anxiety,No,Increase,3,Unsatisfied,1,Daily,Poor,Africa
-EMP1727,39,Prefer not to say,Marketing,Healthcare,36,Remote,43,15,4,Medium,Unknown,No,No Change,2,Unsatisfied,5,Daily,Poor,Asia
+EMP1727,39,Prefer not to say,Marketing,Healthcare,36,Remote,43,15,4,Medium,None,No,No Change,2,Unsatisfied,5,Daily,Poor,Asia
 EMP4629,26,Prefer not to say,Software Engineer,IT,32,Remote,29,9,3,Low,Burnout,No,Increase,5,Unsatisfied,2,Daily,Poor,Africa
 EMP4693,30,Non-binary,Sales,Manufacturing,36,Remote,27,6,3,High,Anxiety,Yes,Increase,1,Neutral,4,Weekly,Poor,Asia
 EMP1168,39,Female,Designer,Manufacturing,32,Remote,62,6,3,Medium,Anxiety,Yes,Increase,3,Satisfied,4,Daily,Good,North America
@@ -5299,19 +5299,19 @@ EMP4714,33,Prefer not to say,Designer,Consulting,18,Remote,28,16,1,High,Depressi
 EMP4530,26,Prefer not to say,Marketing,Finance,7,Remote,28,10,5,High,Anxiety,Yes,No Change,2,Unsatisfied,4,None,Poor,Africa
 EMP4858,45,Non-binary,HR,IT,32,Remote,46,6,1,High,Depression,Yes,No Change,1,Satisfied,1,None,Average,Oceania
 EMP2061,52,Non-binary,Sales,Consulting,34,Remote,38,14,5,Medium,Depression,Yes,No Change,2,Neutral,4,None,Poor,North America
-EMP1390,25,Female,Marketing,Consulting,4,Remote,59,1,3,High,Unknown,Yes,Decrease,4,Satisfied,5,Daily,Poor,Europe
-EMP0089,59,Female,Project Manager,Healthcare,28,Remote,61,16,5,Medium,Unknown,No,No Change,2,Unsatisfied,3,Daily,Poor,Africa
-EMP0957,42,Prefer not to say,Project Manager,Education,33,Remote,46,2,5,High,Unknown,No,Decrease,3,Unsatisfied,4,Daily,Good,South America
+EMP1390,25,Female,Marketing,Consulting,4,Remote,59,1,3,High,None,Yes,Decrease,4,Satisfied,5,Daily,Poor,Europe
+EMP0089,59,Female,Project Manager,Healthcare,28,Remote,61,16,5,Medium,None,No,No Change,2,Unsatisfied,3,Daily,Poor,Africa
+EMP0957,42,Prefer not to say,Project Manager,Education,33,Remote,46,2,5,High,None,No,Decrease,3,Unsatisfied,4,Daily,Good,South America
 EMP2457,32,Prefer not to say,Marketing,Education,27,Remote,45,15,1,Low,Depression,Yes,No Change,2,Unsatisfied,5,Daily,Good,Asia
-EMP2199,52,Female,Software Engineer,Education,18,Remote,29,2,3,Low,Unknown,No,Increase,2,Unsatisfied,5,Weekly,Poor,South America
-EMP3726,56,Non-binary,Marketing,Retail,32,Remote,32,15,3,Low,Unknown,Yes,No Change,2,Satisfied,3,Weekly,Average,North America
-EMP2468,29,Prefer not to say,Project Manager,Manufacturing,16,Remote,34,9,3,Medium,Unknown,No,Decrease,4,Unsatisfied,2,Daily,Poor,Oceania
+EMP2199,52,Female,Software Engineer,Education,18,Remote,29,2,3,Low,None,No,Increase,2,Unsatisfied,5,Weekly,Poor,South America
+EMP3726,56,Non-binary,Marketing,Retail,32,Remote,32,15,3,Low,None,Yes,No Change,2,Satisfied,3,Weekly,Average,North America
+EMP2468,29,Prefer not to say,Project Manager,Manufacturing,16,Remote,34,9,3,Medium,None,No,Decrease,4,Unsatisfied,2,Daily,Poor,Oceania
 EMP2476,59,Prefer not to say,Designer,Retail,6,Remote,33,16,3,Low,Burnout,Yes,No Change,1,Unsatisfied,1,Weekly,Good,Europe
 EMP0606,56,Prefer not to say,Sales,Finance,8,Remote,53,14,3,Medium,Burnout,Yes,No Change,5,Neutral,1,Weekly,Good,Africa
-EMP0260,36,Non-binary,Marketing,Retail,21,Remote,60,15,3,Low,Unknown,No,Increase,1,Neutral,2,Daily,Good,Africa
+EMP0260,36,Non-binary,Marketing,Retail,21,Remote,60,15,3,Low,None,No,Increase,1,Neutral,2,Daily,Good,Africa
 EMP2600,55,Prefer not to say,Data Scientist,Consulting,5,Remote,25,8,1,Low,Burnout,Yes,Decrease,5,Unsatisfied,4,None,Average,Oceania
 EMP3175,58,Non-binary,Designer,Consulting,13,Remote,58,11,3,Medium,Anxiety,Yes,Decrease,3,Unsatisfied,3,Daily,Good,Asia
-EMP2132,25,Male,Project Manager,Consulting,7,Remote,52,14,1,Low,Unknown,No,No Change,5,Satisfied,5,Weekly,Average,Oceania
+EMP2132,25,Male,Project Manager,Consulting,7,Remote,52,14,1,Low,None,No,No Change,5,Satisfied,5,Weekly,Average,Oceania
 EMP2667,46,Non-binary,Project Manager,Manufacturing,18,Remote,56,14,1,Medium,Burnout,No,Decrease,2,Unsatisfied,3,Weekly,Average,Africa
 EMP2493,47,Female,Data Scientist,Consulting,27,Remote,50,16,5,Medium,Burnout,Yes,Increase,5,Unsatisfied,5,Daily,Average,Asia
 EMP2711,56,Non-binary,Project Manager,Manufacturing,24,Remote,55,2,5,Low,Anxiety,Yes,No Change,5,Unsatisfied,4,Daily,Average,Africa
@@ -5321,9 +5321,9 @@ EMP3993,58,Female,Project Manager,IT,29,Remote,26,12,4,Low,Anxiety,No,Increase,3
 EMP0239,44,Non-binary,HR,Manufacturing,35,Remote,58,7,1,Low,Burnout,No,No Change,3,Unsatisfied,2,None,Average,South America
 EMP0110,41,Male,Data Scientist,Retail,7,Remote,51,3,3,High,Anxiety,No,No Change,2,Neutral,1,None,Poor,North America
 EMP2667,39,Male,Sales,IT,8,Remote,55,11,3,Low,Burnout,Yes,No Change,3,Neutral,4,Daily,Poor,South America
-EMP4405,57,Male,Software Engineer,Healthcare,4,Remote,27,14,1,Medium,Unknown,No,Increase,5,Unsatisfied,1,None,Poor,Oceania
-EMP0373,56,Non-binary,Sales,Retail,10,Remote,26,16,5,Low,Unknown,Yes,Increase,5,Neutral,4,Daily,Good,Africa
-EMP3947,31,Prefer not to say,Marketing,Education,30,Remote,31,17,1,Low,Unknown,No,Increase,2,Neutral,4,Weekly,Good,Africa
+EMP4405,57,Male,Software Engineer,Healthcare,4,Remote,27,14,1,Medium,None,No,Increase,5,Unsatisfied,1,None,Poor,Oceania
+EMP0373,56,Non-binary,Sales,Retail,10,Remote,26,16,5,Low,None,Yes,Increase,5,Neutral,4,Daily,Good,Africa
+EMP3947,31,Prefer not to say,Marketing,Education,30,Remote,31,17,1,Low,None,No,Increase,2,Neutral,4,Weekly,Good,Africa
 EMP4081,59,Non-binary,Software Engineer,Education,32,Remote,45,15,5,Low,Depression,No,No Change,5,Unsatisfied,3,Weekly,Good,Oceania
 EMP2393,57,Prefer not to say,Software Engineer,Consulting,3,Remote,48,14,2,High,Burnout,Yes,No Change,2,Unsatisfied,1,Daily,Average,North America
 EMP4088,33,Non-binary,Software Engineer,Finance,8,Remote,43,10,4,High,Depression,Yes,Decrease,3,Satisfied,2,None,Average,Oceania
@@ -5333,8 +5333,8 @@ EMP0517,41,Male,Sales,Retail,28,Remote,26,5,1,Low,Burnout,Yes,Increase,2,Satisfi
 EMP4925,49,Prefer not to say,Marketing,Finance,9,Remote,54,12,2,Low,Burnout,Yes,Increase,5,Unsatisfied,4,Daily,Average,Africa
 EMP2379,58,Male,Software Engineer,Healthcare,26,Remote,59,13,3,High,Burnout,No,Increase,5,Neutral,3,None,Average,North America
 EMP0935,25,Non-binary,Project Manager,Healthcare,13,Remote,24,13,1,Low,Anxiety,No,No Change,5,Unsatisfied,5,Weekly,Poor,Asia
-EMP0168,50,Female,Software Engineer,IT,30,Remote,57,13,4,High,Unknown,Yes,Decrease,5,Satisfied,4,Weekly,Average,Oceania
-EMP3516,55,Male,Project Manager,Consulting,19,Remote,52,14,3,High,Unknown,Yes,Decrease,4,Unsatisfied,1,None,Poor,Oceania
+EMP0168,50,Female,Software Engineer,IT,30,Remote,57,13,4,High,None,Yes,Decrease,5,Satisfied,4,Weekly,Average,Oceania
+EMP3516,55,Male,Project Manager,Consulting,19,Remote,52,14,3,High,None,Yes,Decrease,4,Unsatisfied,1,None,Poor,Oceania
 EMP0202,55,Female,Marketing,Manufacturing,26,Remote,54,14,1,High,Anxiety,Yes,Decrease,1,Neutral,2,Weekly,Average,Oceania
 EMP1424,38,Prefer not to say,HR,Manufacturing,4,Remote,43,9,2,Medium,Anxiety,Yes,No Change,3,Unsatisfied,2,Daily,Poor,Oceania
 EMP3467,32,Female,Data Scientist,Consulting,27,Remote,24,12,3,Low,Burnout,Yes,Decrease,1,Unsatisfied,2,Weekly,Average,North America
@@ -5345,28 +5345,28 @@ EMP3421,28,Non-binary,Marketing,Retail,32,Remote,23,8,3,High,Burnout,Yes,Decreas
 EMP0125,43,Male,Project Manager,Education,4,Remote,45,15,1,Medium,Burnout,Yes,Increase,5,Unsatisfied,2,Daily,Good,North America
 EMP2269,58,Male,Software Engineer,Finance,22,Remote,59,10,4,High,Depression,Yes,Decrease,1,Satisfied,3,Weekly,Average,Europe
 EMP0068,25,Prefer not to say,Designer,Finance,21,Remote,61,16,4,Low,Anxiety,Yes,Increase,3,Unsatisfied,1,Daily,Good,North America
-EMP3581,29,Female,Project Manager,Healthcare,29,Remote,61,15,2,High,Unknown,Yes,Increase,5,Unsatisfied,4,Daily,Poor,South America
-EMP4357,54,Female,Data Scientist,Manufacturing,25,Remote,28,3,3,Low,Unknown,Yes,No Change,1,Neutral,4,Daily,Good,North America
+EMP3581,29,Female,Project Manager,Healthcare,29,Remote,61,15,2,High,None,Yes,Increase,5,Unsatisfied,4,Daily,Poor,South America
+EMP4357,54,Female,Data Scientist,Manufacturing,25,Remote,28,3,3,Low,None,Yes,No Change,1,Neutral,4,Daily,Good,North America
 EMP1026,55,Prefer not to say,Project Manager,Education,4,Remote,63,15,5,High,Burnout,Yes,Increase,1,Unsatisfied,3,Daily,Average,Africa
 EMP2701,54,Prefer not to say,HR,Finance,3,Remote,54,14,3,Low,Burnout,Yes,Increase,3,Unsatisfied,4,Weekly,Poor,North America
 EMP1739,37,Male,Designer,Finance,36,Remote,51,12,4,Medium,Burnout,Yes,No Change,5,Neutral,5,None,Average,Africa
 EMP3082,61,Prefer not to say,Data Scientist,IT,22,Remote,50,15,1,Medium,Depression,Yes,No Change,4,Unsatisfied,1,Weekly,Poor,Africa
-EMP3740,45,Non-binary,Project Manager,Education,30,Remote,27,14,3,High,Unknown,Yes,Decrease,3,Satisfied,4,Daily,Average,Oceania
+EMP3740,45,Non-binary,Project Manager,Education,30,Remote,27,14,3,High,None,Yes,Decrease,3,Satisfied,4,Daily,Average,Oceania
 EMP1555,54,Male,Project Manager,Consulting,20,Remote,38,4,2,Low,Depression,Yes,No Change,5,Neutral,3,None,Good,Oceania
 EMP4434,44,Male,Data Scientist,Manufacturing,16,Remote,23,12,1,Medium,Burnout,Yes,Decrease,5,Satisfied,5,Daily,Poor,South America
 EMP4313,24,Male,Project Manager,Manufacturing,13,Remote,51,6,1,High,Depression,No,No Change,3,Unsatisfied,2,Weekly,Poor,South America
-EMP2476,55,Non-binary,Sales,Education,4,Remote,26,15,4,Medium,Unknown,Yes,Decrease,5,Neutral,2,Weekly,Poor,Oceania
-EMP0078,62,Female,Project Manager,IT,19,Remote,31,14,4,Low,Unknown,Yes,No Change,2,Unsatisfied,1,Weekly,Good,Africa
+EMP2476,55,Non-binary,Sales,Education,4,Remote,26,15,4,Medium,None,Yes,Decrease,5,Neutral,2,Weekly,Poor,Oceania
+EMP0078,62,Female,Project Manager,IT,19,Remote,31,14,4,Low,None,Yes,No Change,2,Unsatisfied,1,Weekly,Good,Africa
 EMP0687,26,Female,Project Manager,Consulting,34,Remote,26,15,4,Medium,Burnout,Yes,No Change,1,Satisfied,5,None,Poor,North America
 EMP3597,31,Non-binary,Project Manager,IT,28,Remote,28,14,3,Low,Burnout,Yes,Decrease,2,Unsatisfied,1,Weekly,Good,Africa
 EMP1461,26,Prefer not to say,Project Manager,Manufacturing,29,Remote,58,11,1,High,Anxiety,No,Increase,2,Neutral,4,Weekly,Average,Africa
-EMP2588,53,Non-binary,Marketing,Finance,29,Remote,44,15,5,Medium,Unknown,Yes,Decrease,1,Unsatisfied,1,Weekly,Poor,Europe
+EMP2588,53,Non-binary,Marketing,Finance,29,Remote,44,15,5,Medium,None,Yes,Decrease,1,Unsatisfied,1,Weekly,Poor,Europe
 EMP0912,30,Male,Project Manager,Manufacturing,8,Remote,40,14,4,Low,Burnout,Yes,Increase,3,Unsatisfied,4,Weekly,Poor,North America
 EMP3765,54,Prefer not to say,Sales,Retail,33,Remote,40,2,1,Medium,Burnout,Yes,Decrease,4,Neutral,5,None,Poor,South America
 EMP2578,27,Prefer not to say,Data Scientist,Education,8,Remote,37,3,1,Low,Burnout,No,Decrease,4,Unsatisfied,2,Daily,Poor,North America
 EMP3568,29,Female,Data Scientist,Education,30,Remote,26,12,3,Low,Depression,Yes,No Change,3,Unsatisfied,5,Daily,Good,Oceania
 EMP2920,36,Male,Software Engineer,Education,18,Remote,59,3,3,Low,Anxiety,Yes,No Change,3,Unsatisfied,4,None,Good,South America
-EMP2649,45,Female,Sales,Retail,23,Remote,24,15,4,High,Unknown,Yes,Decrease,5,Satisfied,1,Weekly,Poor,Oceania
+EMP2649,45,Female,Sales,Retail,23,Remote,24,15,4,High,None,Yes,Decrease,5,Satisfied,1,Weekly,Poor,Oceania
 EMP1602,56,Male,HR,Finance,19,Remote,27,11,2,High,Anxiety,No,Decrease,4,Neutral,2,Weekly,Average,South America
 EMP0706,29,Non-binary,Data Scientist,Retail,1,Remote,47,14,5,Medium,Anxiety,No,Increase,5,Unsatisfied,4,Weekly,Poor,South America
 EMP2544,50,Female,Marketing,Manufacturing,30,Remote,51,10,1,High,Depression,Yes,No Change,5,Unsatisfied,5,None,Average,North America
@@ -5377,70 +5377,70 @@ EMP3226,32,Prefer not to say,Sales,Education,7,Remote,56,4,5,Medium,Burnout,Yes,
 EMP4274,57,Non-binary,Data Scientist,Retail,31,Remote,45,3,4,High,Anxiety,Yes,Decrease,1,Unsatisfied,2,Weekly,Good,South America
 EMP2053,57,Female,Project Manager,Consulting,28,Remote,43,1,2,High,Burnout,No,Decrease,3,Unsatisfied,1,Weekly,Average,South America
 EMP0742,25,Prefer not to say,Data Scientist,Manufacturing,28,Remote,28,13,1,Medium,Depression,Yes,Increase,5,Satisfied,1,Weekly,Poor,Oceania
-EMP0419,56,Female,Data Scientist,Retail,11,Remote,48,2,1,Low,Unknown,Yes,Increase,5,Unsatisfied,4,Weekly,Average,Africa
+EMP0419,56,Female,Data Scientist,Retail,11,Remote,48,2,1,Low,None,Yes,Increase,5,Unsatisfied,4,Weekly,Average,Africa
 EMP4002,34,Prefer not to say,Sales,Manufacturing,4,Remote,27,3,5,Medium,Anxiety,Yes,Decrease,4,Unsatisfied,1,Daily,Average,Oceania
-EMP4456,44,Female,Software Engineer,Finance,7,Remote,58,15,3,Low,Unknown,No,Decrease,2,Unsatisfied,4,Weekly,Poor,Asia
+EMP4456,44,Female,Software Engineer,Finance,7,Remote,58,15,3,Low,None,No,Decrease,2,Unsatisfied,4,Weekly,Poor,Asia
 EMP4811,57,Non-binary,Project Manager,Finance,7,Remote,45,16,5,Low,Burnout,Yes,Increase,2,Unsatisfied,1,None,Poor,Oceania
-EMP4274,39,Prefer not to say,Project Manager,Finance,3,Remote,28,8,1,Low,Unknown,Yes,No Change,4,Unsatisfied,1,Weekly,Poor,Asia
+EMP4274,39,Prefer not to say,Project Manager,Finance,3,Remote,28,8,1,Low,None,Yes,No Change,4,Unsatisfied,1,Weekly,Poor,Asia
 EMP4113,51,Prefer not to say,HR,Consulting,11,Remote,24,11,5,Medium,Anxiety,No,No Change,5,Neutral,4,Weekly,Poor,South America
 EMP0549,45,Non-binary,Designer,Manufacturing,15,Remote,32,12,3,Low,Burnout,Yes,Increase,1,Unsatisfied,5,None,Good,Oceania
 EMP4453,57,Non-binary,Project Manager,IT,19,Remote,55,2,1,Medium,Anxiety,Yes,Increase,3,Satisfied,5,Daily,Average,South America
 EMP3421,55,Male,Software Engineer,Healthcare,8,Remote,30,7,4,Medium,Burnout,No,No Change,5,Satisfied,5,Weekly,Poor,North America
-EMP1363,52,Male,Marketing,Finance,14,Remote,57,1,4,High,Unknown,Yes,Increase,3,Neutral,5,Weekly,Poor,South America
-EMP2594,55,Prefer not to say,Designer,IT,6,Remote,54,10,4,Low,Unknown,Yes,Increase,5,Neutral,2,None,Average,South America
-EMP1316,53,Non-binary,Project Manager,Finance,7,Remote,49,11,5,Low,Unknown,Yes,Decrease,3,Neutral,2,Daily,Poor,North America
+EMP1363,52,Male,Marketing,Finance,14,Remote,57,1,4,High,None,Yes,Increase,3,Neutral,5,Weekly,Poor,South America
+EMP2594,55,Prefer not to say,Designer,IT,6,Remote,54,10,4,Low,None,Yes,Increase,5,Neutral,2,None,Average,South America
+EMP1316,53,Non-binary,Project Manager,Finance,7,Remote,49,11,5,Low,None,Yes,Decrease,3,Neutral,2,Daily,Poor,North America
 EMP4247,40,Prefer not to say,Sales,Healthcare,33,Remote,62,8,1,Medium,Burnout,Yes,Increase,4,Neutral,5,None,Average,Europe
 EMP4240,29,Non-binary,Data Scientist,Consulting,27,Remote,27,7,3,Low,Depression,Yes,Increase,5,Unsatisfied,4,Daily,Poor,Europe
 EMP4562,22,Prefer not to say,Sales,Consulting,28,Remote,25,14,1,Low,Burnout,No,Increase,5,Neutral,2,Daily,Poor,Europe
 EMP2672,56,Female,Marketing,Consulting,9,Remote,45,11,1,Low,Burnout,Yes,Increase,3,Unsatisfied,2,Daily,Poor,Africa
-EMP3188,58,Prefer not to say,Data Scientist,Retail,10,Remote,34,14,3,High,Unknown,Yes,Decrease,2,Unsatisfied,4,None,Poor,South America
+EMP3188,58,Prefer not to say,Data Scientist,Retail,10,Remote,34,14,3,High,None,Yes,Decrease,2,Unsatisfied,4,None,Poor,South America
 EMP1057,33,Non-binary,Data Scientist,IT,14,Remote,33,13,1,Medium,Depression,Yes,Decrease,5,Satisfied,4,Daily,Average,South America
 EMP1897,50,Male,Sales,Finance,11,Remote,61,1,3,Low,Anxiety,Yes,Increase,5,Unsatisfied,4,Weekly,Average,Oceania
 EMP4229,49,Female,Software Engineer,Healthcare,28,Remote,39,13,1,High,Anxiety,Yes,Increase,1,Unsatisfied,1,Weekly,Average,South America
 EMP0572,44,Prefer not to say,Designer,Finance,5,Remote,28,11,3,Low,Anxiety,Yes,Decrease,5,Unsatisfied,2,Weekly,Poor,Africa
 EMP0059,57,Female,Project Manager,Consulting,30,Remote,32,13,4,High,Anxiety,Yes,Increase,1,Neutral,4,Weekly,Poor,Oceania
-EMP4040,54,Female,Software Engineer,Healthcare,24,Remote,59,5,1,High,Unknown,Yes,Increase,4,Unsatisfied,1,Daily,Average,South America
+EMP4040,54,Female,Software Engineer,Healthcare,24,Remote,59,5,1,High,None,Yes,Increase,4,Unsatisfied,1,Daily,Average,South America
 EMP4712,57,Male,Marketing,Finance,20,Remote,41,4,4,Medium,Burnout,Yes,No Change,4,Unsatisfied,5,None,Poor,North America
 EMP1739,58,Prefer not to say,Sales,Consulting,4,Remote,46,8,1,Low,Burnout,Yes,Decrease,5,Neutral,2,Daily,Poor,North America
 EMP4369,49,Male,HR,Healthcare,27,Remote,27,11,3,High,Burnout,Yes,No Change,4,Unsatisfied,5,Weekly,Poor,Europe
-EMP3333,56,Prefer not to say,Marketing,IT,4,Remote,51,6,5,Medium,Unknown,No,Decrease,2,Satisfied,4,Daily,Average,Africa
+EMP3333,56,Prefer not to say,Marketing,IT,4,Remote,51,6,5,Medium,None,No,Decrease,2,Satisfied,4,Daily,Average,Africa
 EMP1277,48,Male,Marketing,Finance,31,Remote,53,12,2,High,Anxiety,Yes,Decrease,2,Neutral,4,Weekly,Poor,Africa
 EMP2752,63,Prefer not to say,Marketing,Education,31,Remote,26,14,4,Low,Anxiety,Yes,Decrease,2,Unsatisfied,1,Daily,Good,Africa
-EMP1282,22,Non-binary,Software Engineer,Healthcare,31,Remote,54,14,2,Low,Unknown,No,Increase,3,Neutral,3,Weekly,Average,Africa
+EMP1282,22,Non-binary,Software Engineer,Healthcare,31,Remote,54,14,2,Low,None,No,Increase,3,Neutral,3,Weekly,Average,Africa
 EMP3436,60,Non-binary,Sales,Finance,31,Remote,28,8,3,Medium,Burnout,No,Increase,5,Unsatisfied,2,Daily,Average,Oceania
 EMP3620,46,Male,Software Engineer,IT,20,Remote,50,5,4,Medium,Depression,Yes,No Change,3,Unsatisfied,1,None,Poor,Europe
-EMP1848,55,Prefer not to say,Project Manager,Retail,29,Remote,53,2,1,High,Unknown,Yes,Decrease,1,Unsatisfied,2,None,Average,Oceania
+EMP1848,55,Prefer not to say,Project Manager,Retail,29,Remote,53,2,1,High,None,Yes,Decrease,1,Unsatisfied,2,None,Average,Oceania
 EMP3189,39,Male,Data Scientist,Healthcare,33,Remote,48,7,3,High,Burnout,No,No Change,2,Satisfied,3,None,Average,North America
 EMP4456,55,Prefer not to say,Project Manager,Healthcare,18,Remote,48,13,5,Low,Depression,No,Increase,5,Neutral,1,None,Average,South America
-EMP3649,46,Prefer not to say,Data Scientist,Consulting,22,Remote,42,8,1,Low,Unknown,Yes,Decrease,2,Unsatisfied,5,Weekly,Good,Asia
+EMP3649,46,Prefer not to say,Data Scientist,Consulting,22,Remote,42,8,1,Low,None,Yes,Decrease,2,Unsatisfied,5,Weekly,Good,Asia
 EMP2920,27,Male,Sales,Finance,10,Remote,64,13,5,Medium,Burnout,Yes,Decrease,4,Neutral,5,None,Poor,Africa
 EMP4279,46,Prefer not to say,Project Manager,Manufacturing,14,Remote,53,0,5,Low,Burnout,Yes,Decrease,5,Unsatisfied,5,Daily,Average,Africa
-EMP4696,62,Non-binary,Software Engineer,IT,33,Remote,59,15,3,High,Unknown,Yes,Increase,5,Unsatisfied,1,None,Average,Asia
+EMP4696,62,Non-binary,Software Engineer,IT,33,Remote,59,15,3,High,None,Yes,Increase,5,Unsatisfied,1,None,Average,Asia
 EMP1031,26,Non-binary,Project Manager,Manufacturing,4,Remote,60,3,1,High,Anxiety,Yes,No Change,3,Unsatisfied,1,None,Poor,Europe
-EMP1909,50,Male,Designer,Consulting,7,Remote,25,10,5,Medium,Unknown,Yes,Increase,5,Neutral,2,Weekly,Average,Europe
-EMP4035,55,Non-binary,Project Manager,Consulting,6,Remote,48,15,1,Medium,Unknown,Yes,Decrease,4,Unsatisfied,5,Daily,Poor,Oceania
+EMP1909,50,Male,Designer,Consulting,7,Remote,25,10,5,Medium,None,Yes,Increase,5,Neutral,2,Weekly,Average,Europe
+EMP4035,55,Non-binary,Project Manager,Consulting,6,Remote,48,15,1,Medium,None,Yes,Decrease,4,Unsatisfied,5,Daily,Poor,Oceania
 EMP2865,59,Prefer not to say,Designer,Manufacturing,31,Remote,55,13,4,Medium,Burnout,Yes,Increase,5,Unsatisfied,4,Daily,Average,North America
-EMP3346,58,Non-binary,Data Scientist,IT,11,Remote,40,14,3,Low,Unknown,Yes,Decrease,5,Unsatisfied,3,Daily,Average,North America
+EMP3346,58,Non-binary,Data Scientist,IT,11,Remote,40,14,3,Low,None,Yes,Decrease,5,Unsatisfied,3,Daily,Average,North America
 EMP4538,39,Male,HR,Consulting,10,Remote,57,13,4,Low,Anxiety,No,Increase,1,Unsatisfied,4,Daily,Average,Asia
-EMP3638,41,Non-binary,Sales,Retail,14,Remote,63,12,1,High,Unknown,Yes,Decrease,5,Satisfied,2,None,Average,Africa
+EMP3638,41,Non-binary,Sales,Retail,14,Remote,63,12,1,High,None,Yes,Decrease,5,Satisfied,2,None,Average,Africa
 EMP3606,55,Non-binary,Data Scientist,Manufacturing,28,Remote,29,15,2,High,Anxiety,No,Increase,2,Unsatisfied,1,None,Poor,Oceania
-EMP0801,26,Prefer not to say,Project Manager,Retail,24,Remote,57,14,3,Low,Unknown,No,Decrease,4,Neutral,4,Weekly,Poor,Asia
+EMP0801,26,Prefer not to say,Project Manager,Retail,24,Remote,57,14,3,Low,None,No,Decrease,4,Neutral,4,Weekly,Poor,Asia
 EMP2789,30,Non-binary,HR,Education,17,Remote,31,12,3,Low,Burnout,Yes,Increase,5,Neutral,4,Weekly,Poor,North America
-EMP4712,47,Prefer not to say,Marketing,Manufacturing,6,Remote,57,15,3,Low,Unknown,Yes,No Change,2,Unsatisfied,2,None,Average,Africa
+EMP4712,47,Prefer not to say,Marketing,Manufacturing,6,Remote,57,15,3,Low,None,Yes,No Change,2,Unsatisfied,2,None,Average,Africa
 EMP0976,45,Prefer not to say,Project Manager,Healthcare,7,Remote,55,16,1,Low,Burnout,Yes,Increase,4,Unsatisfied,1,Weekly,Good,North America
 EMP2667,44,Male,Project Manager,Consulting,17,Remote,28,13,5,Low,Burnout,No,No Change,5,Unsatisfied,2,Weekly,Poor,North America
-EMP4504,32,Prefer not to say,Designer,Retail,1,Remote,58,2,3,Medium,Unknown,Yes,Decrease,4,Unsatisfied,4,None,Poor,Europe
+EMP4504,32,Prefer not to say,Designer,Retail,1,Remote,58,2,3,Medium,None,Yes,Decrease,4,Unsatisfied,4,None,Poor,Europe
 EMP1056,57,Male,HR,Finance,6,Remote,29,5,1,High,Depression,Yes,Increase,2,Neutral,4,Weekly,Poor,South America
 EMP4703,57,Female,Marketing,Manufacturing,24,Remote,51,5,5,Low,Anxiety,No,Increase,2,Unsatisfied,4,Weekly,Average,Oceania
 EMP0746,28,Non-binary,Project Manager,Manufacturing,34,Remote,52,13,5,High,Depression,Yes,No Change,4,Satisfied,4,Weekly,Poor,North America
 EMP4221,33,Prefer not to say,Designer,Retail,19,Remote,25,10,1,Low,Depression,Yes,Increase,2,Neutral,4,None,Poor,Oceania
-EMP0113,34,Non-binary,Software Engineer,Consulting,30,Remote,30,8,3,Medium,Unknown,No,No Change,1,Unsatisfied,4,Weekly,Good,South America
+EMP0113,34,Non-binary,Software Engineer,Consulting,30,Remote,30,8,3,Medium,None,No,No Change,1,Unsatisfied,4,Weekly,Good,South America
 EMP2409,34,Male,Project Manager,Consulting,5,Remote,53,1,4,Medium,Burnout,Yes,Decrease,3,Unsatisfied,1,None,Poor,Africa
-EMP0668,44,Male,Software Engineer,Healthcare,2,Remote,47,15,5,High,Unknown,Yes,Increase,5,Unsatisfied,5,Daily,Average,Africa
+EMP0668,44,Male,Software Engineer,Healthcare,2,Remote,47,15,5,High,None,Yes,Increase,5,Unsatisfied,5,Daily,Average,Africa
 EMP3947,54,Male,Marketing,IT,17,Remote,45,11,5,Medium,Burnout,Yes,Increase,1,Satisfied,1,Daily,Poor,North America
 EMP1058,24,Prefer not to say,HR,Retail,30,Remote,26,13,1,High,Anxiety,Yes,No Change,3,Neutral,1,Daily,Poor,North America
 EMP0510,37,Female,Marketing,IT,18,Remote,28,5,5,Low,Anxiety,Yes,Decrease,5,Unsatisfied,5,Weekly,Poor,Asia
-EMP0967,54,Non-binary,Project Manager,Retail,11,Remote,37,15,1,Low,Unknown,No,No Change,5,Satisfied,5,None,Poor,Africa
+EMP0967,54,Non-binary,Project Manager,Retail,11,Remote,37,15,1,Low,None,No,No Change,5,Satisfied,5,None,Poor,Africa
 EMP0386,56,Male,Designer,Retail,6,Remote,54,3,2,Medium,Burnout,Yes,No Change,1,Neutral,3,Weekly,Poor,South America
 EMP1915,51,Male,Designer,Consulting,31,Remote,28,13,5,Low,Burnout,Yes,Increase,5,Unsatisfied,4,Daily,Poor,Asia
 EMP4499,54,Non-binary,Software Engineer,Retail,23,Remote,58,14,1,Low,Depression,Yes,Decrease,5,Unsatisfied,3,Daily,Poor,North America
@@ -5455,46 +5455,46 @@ EMP1673,37,Female,Software Engineer,Healthcare,3,Remote,65,13,3,Low,Anxiety,Yes,
 EMP2907,55,Male,Designer,Consulting,3,Remote,50,2,3,Medium,Burnout,Yes,Increase,4,Satisfied,3,Weekly,Good,Oceania
 EMP2692,59,Male,Designer,Manufacturing,23,Remote,44,13,2,Low,Depression,Yes,Decrease,5,Neutral,1,None,Poor,Africa
 EMP4927,52,Male,Project Manager,Healthcare,5,Remote,58,10,3,Low,Burnout,No,Increase,2,Unsatisfied,4,Daily,Poor,South America
-EMP0015,53,Male,Designer,Retail,29,Remote,47,3,1,Low,Unknown,No,Decrease,4,Unsatisfied,1,Weekly,Good,Oceania
+EMP0015,53,Male,Designer,Retail,29,Remote,47,3,1,Low,None,No,Decrease,4,Unsatisfied,1,Weekly,Good,Oceania
 EMP1185,63,Female,Project Manager,Finance,8,Remote,32,10,1,Medium,Burnout,Yes,Increase,2,Satisfied,4,Daily,Poor,North America
-EMP3403,56,Male,Software Engineer,Retail,1,Remote,65,5,1,Medium,Unknown,No,Decrease,3,Neutral,1,None,Poor,Oceania
+EMP3403,56,Male,Software Engineer,Retail,1,Remote,65,5,1,Medium,None,No,Decrease,3,Neutral,1,None,Poor,Oceania
 EMP0877,27,Male,Software Engineer,Healthcare,33,Remote,31,13,2,High,Burnout,No,Increase,3,Unsatisfied,4,Weekly,Good,Asia
-EMP1460,55,Female,HR,Manufacturing,7,Remote,50,1,2,Low,Unknown,No,No Change,3,Satisfied,3,Weekly,Average,South America
+EMP1460,55,Female,HR,Manufacturing,7,Remote,50,1,2,Low,None,No,No Change,3,Satisfied,3,Weekly,Average,South America
 EMP2808,50,Prefer not to say,Software Engineer,Education,14,Remote,28,16,4,Low,Burnout,No,Increase,2,Unsatisfied,4,Daily,Average,Asia
 EMP4223,50,Non-binary,HR,IT,28,Remote,56,3,5,High,Anxiety,Yes,Increase,2,Neutral,1,None,Poor,Africa
-EMP3197,61,Prefer not to say,Sales,Manufacturing,18,Remote,27,12,1,High,Unknown,No,Increase,5,Neutral,2,Daily,Good,Oceania
+EMP3197,61,Prefer not to say,Sales,Manufacturing,18,Remote,27,12,1,High,None,No,Increase,5,Neutral,2,Daily,Good,Oceania
 EMP3248,26,Prefer not to say,Project Manager,Healthcare,27,Remote,51,11,3,Medium,Burnout,Yes,No Change,5,Neutral,5,Weekly,Good,Asia
 EMP0454,40,Female,Designer,Manufacturing,9,Remote,53,14,1,Medium,Anxiety,No,Increase,2,Satisfied,2,Weekly,Poor,Europe
-EMP4540,23,Male,Sales,Retail,23,Remote,29,13,1,Medium,Unknown,No,Increase,5,Unsatisfied,4,Daily,Poor,Asia
+EMP4540,23,Male,Sales,Retail,23,Remote,29,13,1,Medium,None,No,Increase,5,Unsatisfied,4,Daily,Poor,Asia
 EMP0717,49,Female,Project Manager,Retail,28,Remote,51,5,1,Low,Burnout,Yes,Increase,1,Unsatisfied,1,Daily,Poor,Africa
 EMP4221,54,Non-binary,Sales,Finance,26,Remote,33,9,3,Low,Burnout,Yes,Decrease,3,Neutral,1,Daily,Poor,Oceania
 EMP2334,26,Non-binary,Software Engineer,Healthcare,4,Remote,25,1,1,Medium,Anxiety,Yes,Increase,2,Satisfied,1,None,Poor,Africa
-EMP0421,55,Non-binary,Data Scientist,Education,25,Remote,42,13,4,Low,Unknown,Yes,No Change,4,Satisfied,5,Weekly,Good,South America
+EMP0421,55,Non-binary,Data Scientist,Education,25,Remote,42,13,4,Low,None,Yes,No Change,4,Satisfied,5,Weekly,Good,South America
 EMP0695,56,Male,Data Scientist,Education,30,Remote,30,2,5,Low,Anxiety,No,Decrease,5,Satisfied,5,Weekly,Poor,Europe
 EMP2864,29,Prefer not to say,Data Scientist,Education,11,Remote,43,15,1,Medium,Burnout,No,Decrease,3,Satisfied,4,Daily,Average,Africa
 EMP2012,30,Male,Software Engineer,Retail,34,Remote,27,8,3,Medium,Burnout,Yes,Decrease,3,Neutral,4,None,Average,Europe
-EMP2974,29,Prefer not to say,Sales,Education,33,Remote,62,8,1,Low,Unknown,Yes,No Change,4,Unsatisfied,4,None,Average,Africa
+EMP2974,29,Prefer not to say,Sales,Education,33,Remote,62,8,1,Low,None,Yes,No Change,4,Unsatisfied,4,None,Average,Africa
 EMP3394,21,Non-binary,Data Scientist,Finance,29,Remote,61,8,1,Medium,Burnout,Yes,Increase,4,Satisfied,4,Daily,Average,North America
-EMP1414,54,Prefer not to say,Project Manager,Education,2,Remote,58,10,2,High,Unknown,Yes,Decrease,3,Satisfied,5,Weekly,Average,Asia
+EMP1414,54,Prefer not to say,Project Manager,Education,2,Remote,58,10,2,High,None,Yes,Decrease,3,Satisfied,5,Weekly,Average,Asia
 EMP0879,61,Female,Project Manager,Manufacturing,32,Remote,44,7,3,Low,Anxiety,Yes,Increase,4,Satisfied,5,Weekly,Average,Europe
 EMP2700,33,Non-binary,Project Manager,Finance,29,Remote,56,11,3,High,Anxiety,No,Increase,5,Unsatisfied,1,None,Average,South America
 EMP4478,49,Non-binary,Sales,Finance,3,Remote,28,11,3,Medium,Burnout,Yes,No Change,5,Neutral,5,Daily,Poor,Oceania
-EMP4455,29,Male,Data Scientist,Manufacturing,4,Remote,61,9,3,Low,Unknown,Yes,Increase,5,Unsatisfied,1,Daily,Average,Asia
+EMP4455,29,Male,Data Scientist,Manufacturing,4,Remote,61,9,3,Low,None,Yes,Increase,5,Unsatisfied,1,Daily,Average,Asia
 EMP2682,59,Non-binary,Designer,Healthcare,29,Remote,62,6,5,Low,Depression,Yes,No Change,5,Unsatisfied,4,Weekly,Poor,Africa
 EMP1035,54,Prefer not to say,HR,Healthcare,31,Remote,45,14,2,Low,Anxiety,No,Increase,2,Neutral,1,Weekly,Average,Europe
-EMP2167,45,Non-binary,Software Engineer,Manufacturing,6,Remote,62,14,1,Low,Unknown,No,No Change,2,Unsatisfied,4,None,Average,Oceania
+EMP2167,45,Non-binary,Software Engineer,Manufacturing,6,Remote,62,14,1,Low,None,No,No Change,2,Unsatisfied,4,None,Average,Oceania
 EMP2629,59,Female,Software Engineer,Consulting,17,Remote,26,15,3,Medium,Depression,Yes,No Change,2,Unsatisfied,3,Daily,Average,Asia
-EMP0877,26,Non-binary,Designer,Consulting,36,Remote,28,14,5,Medium,Unknown,No,Increase,5,Unsatisfied,1,None,Poor,North America
+EMP0877,26,Non-binary,Designer,Consulting,36,Remote,28,14,5,Medium,None,No,Increase,5,Unsatisfied,1,None,Poor,North America
 EMP1106,32,Non-binary,Marketing,Healthcare,33,Remote,56,13,4,High,Burnout,No,No Change,5,Unsatisfied,5,Daily,Average,Africa
 EMP2511,24,Male,Marketing,Healthcare,5,Remote,46,15,1,Low,Depression,Yes,No Change,4,Unsatisfied,1,Weekly,Good,Europe
 EMP3559,36,Non-binary,HR,Education,24,Remote,30,9,4,Medium,Burnout,No,No Change,3,Satisfied,1,Daily,Average,Europe
-EMP0995,29,Female,Data Scientist,Healthcare,30,Remote,42,3,4,High,Unknown,No,No Change,5,Unsatisfied,1,Daily,Poor,South America
+EMP0995,29,Female,Data Scientist,Healthcare,30,Remote,42,3,4,High,None,No,No Change,5,Unsatisfied,1,Daily,Poor,South America
 EMP3082,54,Non-binary,Marketing,Manufacturing,35,Remote,28,7,2,High,Anxiety,Yes,No Change,1,Neutral,4,Daily,Poor,Asia
-EMP3371,57,Non-binary,Data Scientist,IT,3,Remote,60,16,4,Low,Unknown,Yes,Decrease,2,Unsatisfied,3,Daily,Good,South America
+EMP3371,57,Non-binary,Data Scientist,IT,3,Remote,60,16,4,Low,None,Yes,Decrease,2,Unsatisfied,3,Daily,Good,South America
 EMP1828,61,Non-binary,Data Scientist,IT,3,Remote,32,9,1,Medium,Burnout,Yes,Decrease,5,Unsatisfied,2,None,Average,Asia
 EMP1091,37,Male,Designer,Consulting,7,Remote,38,6,1,Low,Depression,No,No Change,3,Unsatisfied,1,Daily,Poor,Africa
 EMP0727,53,Male,Sales,Retail,33,Remote,47,11,5,High,Burnout,Yes,Decrease,2,Unsatisfied,1,Weekly,Good,South America
-EMP0996,44,Male,Data Scientist,Retail,34,Remote,26,10,1,Low,Unknown,No,Decrease,5,Unsatisfied,5,None,Average,Asia
+EMP0996,44,Male,Data Scientist,Retail,34,Remote,26,10,1,Low,None,No,Decrease,5,Unsatisfied,5,None,Average,Asia
 EMP4478,54,Prefer not to say,Project Manager,Retail,15,Remote,25,12,3,Medium,Burnout,Yes,Decrease,5,Neutral,3,None,Poor,Africa
 EMP0066,62,Prefer not to say,Data Scientist,Consulting,17,Remote,61,16,3,Low,Anxiety,Yes,Increase,5,Unsatisfied,1,Daily,Poor,Africa
 EMP4758,35,Non-binary,Project Manager,Education,7,Remote,40,3,1,Low,Burnout,No,Decrease,2,Satisfied,1,Daily,Good,Oceania
@@ -5502,30 +5502,30 @@ EMP0115,50,Non-binary,Designer,Finance,15,Remote,33,3,1,Low,Anxiety,Yes,No Chang
 EMP2920,35,Non-binary,Data Scientist,Retail,7,Remote,38,14,3,High,Anxiety,No,Decrease,3,Neutral,1,Daily,Poor,South America
 EMP1275,52,Non-binary,Marketing,Retail,36,Remote,42,14,2,Low,Anxiety,No,No Change,2,Satisfied,5,Weekly,Good,Europe
 EMP2926,48,Female,Data Scientist,Consulting,3,Remote,46,9,1,High,Depression,No,Decrease,1,Unsatisfied,1,Daily,Poor,South America
-EMP3972,23,Female,Marketing,Healthcare,29,Remote,46,9,5,Low,Unknown,Yes,Decrease,3,Satisfied,2,Weekly,Good,Asia
-EMP0254,35,Male,HR,Retail,26,Remote,22,8,4,Low,Unknown,Yes,No Change,4,Unsatisfied,3,Weekly,Poor,South America
+EMP3972,23,Female,Marketing,Healthcare,29,Remote,46,9,5,Low,None,Yes,Decrease,3,Satisfied,2,Weekly,Good,Asia
+EMP0254,35,Male,HR,Retail,26,Remote,22,8,4,Low,None,Yes,No Change,4,Unsatisfied,3,Weekly,Poor,South America
 EMP4270,22,Male,Marketing,Education,6,Remote,43,1,5,High,Anxiety,No,No Change,2,Neutral,2,Daily,Poor,Oceania
 EMP1740,43,Female,Project Manager,Retail,27,Remote,33,9,3,Medium,Depression,Yes,Decrease,5,Neutral,2,Weekly,Poor,Africa
-EMP4613,32,Non-binary,Software Engineer,Finance,20,Remote,29,2,3,Medium,Unknown,No,No Change,5,Unsatisfied,5,Weekly,Good,Asia
-EMP0328,43,Prefer not to say,Project Manager,Consulting,27,Remote,41,15,3,High,Unknown,Yes,Decrease,5,Unsatisfied,2,Daily,Poor,Asia
-EMP4444,58,Non-binary,Software Engineer,Finance,25,Remote,60,15,1,Low,Unknown,Yes,Decrease,1,Neutral,4,Weekly,Good,Europe
+EMP4613,32,Non-binary,Software Engineer,Finance,20,Remote,29,2,3,Medium,None,No,No Change,5,Unsatisfied,5,Weekly,Good,Asia
+EMP0328,43,Prefer not to say,Project Manager,Consulting,27,Remote,41,15,3,High,None,Yes,Decrease,5,Unsatisfied,2,Daily,Poor,Asia
+EMP4444,58,Non-binary,Software Engineer,Finance,25,Remote,60,15,1,Low,None,Yes,Decrease,1,Neutral,4,Weekly,Good,Europe
 EMP0939,54,Non-binary,Data Scientist,Healthcare,23,Remote,35,9,4,Low,Depression,Yes,Increase,2,Satisfied,1,None,Average,Africa
 EMP3419,38,Female,Project Manager,IT,34,Remote,55,0,3,Medium,Depression,No,Decrease,5,Unsatisfied,5,None,Average,South America
 EMP2217,30,Male,Designer,Healthcare,4,Remote,62,16,4,High,Depression,No,Decrease,3,Satisfied,4,None,Poor,Africa
-EMP2014,60,Prefer not to say,Data Scientist,IT,18,Remote,46,3,3,High,Unknown,Yes,Decrease,5,Unsatisfied,4,Daily,Poor,Africa
+EMP2014,60,Prefer not to say,Data Scientist,IT,18,Remote,46,3,3,High,None,Yes,Decrease,5,Unsatisfied,4,Daily,Poor,Africa
 EMP0843,61,Female,Project Manager,Consulting,28,Remote,27,12,1,Low,Anxiety,Yes,Decrease,2,Unsatisfied,1,Daily,Average,South America
 EMP2494,48,Male,Project Manager,Manufacturing,20,Remote,29,14,3,Medium,Burnout,No,No Change,5,Satisfied,3,Weekly,Good,North America
 EMP2974,45,Female,Software Engineer,Consulting,19,Remote,62,13,4,Low,Depression,Yes,Increase,5,Neutral,2,Weekly,Average,North America
 EMP1825,54,Male,Data Scientist,Healthcare,27,Remote,28,7,2,Medium,Burnout,Yes,Decrease,4,Unsatisfied,4,Weekly,Average,South America
 EMP1253,57,Non-binary,Project Manager,Retail,17,Remote,27,12,5,Low,Anxiety,Yes,No Change,2,Neutral,1,Weekly,Average,South America
-EMP3262,43,Prefer not to say,Marketing,Retail,10,Remote,21,13,1,Medium,Unknown,Yes,Increase,2,Neutral,1,Daily,Poor,South America
-EMP0227,43,Prefer not to say,Sales,Finance,19,Remote,28,12,1,Low,Unknown,No,Increase,2,Neutral,1,Daily,Poor,Europe
+EMP3262,43,Prefer not to say,Marketing,Retail,10,Remote,21,13,1,Medium,None,Yes,Increase,2,Neutral,1,Daily,Poor,South America
+EMP0227,43,Prefer not to say,Sales,Finance,19,Remote,28,12,1,Low,None,No,Increase,2,Neutral,1,Daily,Poor,Europe
 EMP3601,58,Male,Sales,Education,17,Remote,24,7,1,High,Depression,Yes,Increase,2,Neutral,3,None,Good,South America
 EMP2003,56,Prefer not to say,Sales,IT,3,Remote,31,1,5,Low,Burnout,Yes,Increase,1,Neutral,1,Weekly,Average,North America
 EMP2002,54,Non-binary,Marketing,Finance,27,Remote,57,8,3,Low,Anxiety,Yes,Increase,1,Unsatisfied,1,Daily,Poor,South America
 EMP3702,36,Prefer not to say,Sales,Manufacturing,12,Remote,53,14,5,High,Burnout,Yes,Increase,2,Neutral,1,Weekly,Poor,North America
-EMP1074,51,Female,Designer,Finance,1,Remote,54,8,5,Medium,Unknown,Yes,Decrease,4,Neutral,5,Weekly,Poor,Africa
-EMP0785,58,Male,Designer,Manufacturing,13,Remote,32,8,5,High,Unknown,Yes,Decrease,3,Unsatisfied,5,Weekly,Poor,Africa
+EMP1074,51,Female,Designer,Finance,1,Remote,54,8,5,Medium,None,Yes,Decrease,4,Neutral,5,Weekly,Poor,Africa
+EMP0785,58,Male,Designer,Manufacturing,13,Remote,32,8,5,High,None,Yes,Decrease,3,Unsatisfied,5,Weekly,Poor,Africa
 EMP0592,55,Non-binary,Designer,Healthcare,20,Remote,46,15,5,Low,Anxiety,No,No Change,5,Unsatisfied,3,None,Average,Oceania
 EMP3800,54,Prefer not to say,Software Engineer,Healthcare,27,Remote,29,5,1,Medium,Burnout,Yes,Decrease,1,Unsatisfied,3,Daily,Good,Asia
 EMP1509,39,Female,Software Engineer,Retail,32,Remote,24,14,3,High,Anxiety,No,Increase,5,Satisfied,3,Daily,Poor,Oceania
@@ -5533,8 +5533,8 @@ EMP0068,45,Male,Marketing,IT,36,Remote,31,12,1,Medium,Burnout,Yes,Increase,5,Neu
 EMP1070,36,Non-binary,Project Manager,Consulting,26,Remote,45,9,3,Medium,Anxiety,Yes,No Change,5,Unsatisfied,3,None,Poor,Africa
 EMP2983,30,Female,Marketing,Education,34,Remote,59,2,1,Medium,Burnout,No,Decrease,5,Satisfied,3,Weekly,Poor,South America
 EMP2259,39,Non-binary,Marketing,Retail,6,Remote,29,16,3,Low,Anxiety,No,Decrease,5,Neutral,5,Daily,Poor,South America
-EMP1622,49,Female,Data Scientist,Manufacturing,4,Remote,31,10,1,Low,Unknown,Yes,Decrease,5,Satisfied,5,Daily,Poor,Europe
-EMP4051,56,Female,Project Manager,Healthcare,33,Remote,37,5,4,Low,Unknown,Yes,Increase,2,Unsatisfied,1,Weekly,Poor,Europe
+EMP1622,49,Female,Data Scientist,Manufacturing,4,Remote,31,10,1,Low,None,Yes,Decrease,5,Satisfied,5,Daily,Poor,Europe
+EMP4051,56,Female,Project Manager,Healthcare,33,Remote,37,5,4,Low,None,Yes,Increase,2,Unsatisfied,1,Weekly,Poor,Europe
 EMP3516,43,Non-binary,Project Manager,Manufacturing,11,Remote,30,13,1,Low,Depression,Yes,Increase,1,Neutral,2,Weekly,Good,Africa
 EMP1673,55,Non-binary,Data Scientist,Finance,8,Remote,29,3,3,Low,Burnout,No,Decrease,3,Unsatisfied,5,None,Good,South America
 EMP0618,26,Male,Project Manager,Retail,11,Remote,62,16,1,Medium,Anxiety,Yes,No Change,2,Neutral,4,Daily,Good,South America
@@ -5550,31 +5550,31 @@ EMP4064,40,Female,Project Manager,Manufacturing,31,Remote,57,14,1,Low,Depression
 EMP2166,55,Male,Data Scientist,Finance,17,Remote,59,14,2,High,Depression,Yes,Decrease,5,Satisfied,5,Daily,Good,South America
 EMP3706,54,Male,Designer,Consulting,14,Remote,53,8,2,High,Depression,Yes,Decrease,5,Satisfied,4,Daily,Good,Asia
 EMP4649,51,Non-binary,Software Engineer,Healthcare,28,Remote,62,12,3,Low,Anxiety,Yes,Decrease,2,Unsatisfied,1,None,Poor,Oceania
-EMP0685,58,Male,Marketing,Education,1,Remote,26,14,4,High,Unknown,No,Increase,5,Satisfied,1,Weekly,Good,South America
-EMP4967,47,Prefer not to say,Project Manager,Healthcare,5,Remote,48,9,5,High,Unknown,Yes,Increase,5,Neutral,4,Weekly,Good,Oceania
-EMP1854,37,Prefer not to say,Project Manager,Education,24,Remote,28,14,4,Medium,Unknown,No,No Change,1,Unsatisfied,4,Daily,Average,Asia
-EMP1979,55,Female,Software Engineer,Retail,6,Remote,27,12,3,High,Unknown,No,Increase,4,Unsatisfied,3,None,Poor,Asia
+EMP0685,58,Male,Marketing,Education,1,Remote,26,14,4,High,None,No,Increase,5,Satisfied,1,Weekly,Good,South America
+EMP4967,47,Prefer not to say,Project Manager,Healthcare,5,Remote,48,9,5,High,None,Yes,Increase,5,Neutral,4,Weekly,Good,Oceania
+EMP1854,37,Prefer not to say,Project Manager,Education,24,Remote,28,14,4,Medium,None,No,No Change,1,Unsatisfied,4,Daily,Average,Asia
+EMP1979,55,Female,Software Engineer,Retail,6,Remote,27,12,3,High,None,No,Increase,4,Unsatisfied,3,None,Poor,Asia
 EMP4955,48,Female,Project Manager,Education,29,Remote,24,6,4,High,Depression,No,No Change,5,Neutral,5,Weekly,Poor,Europe
-EMP3823,54,Female,Software Engineer,Manufacturing,28,Remote,58,15,3,Medium,Unknown,Yes,Increase,2,Neutral,4,Weekly,Good,North America
+EMP3823,54,Female,Software Engineer,Manufacturing,28,Remote,58,15,3,Medium,None,Yes,Increase,2,Neutral,4,Weekly,Good,North America
 EMP1909,54,Male,Project Manager,IT,4,Remote,29,12,2,Low,Burnout,Yes,Decrease,5,Unsatisfied,1,Daily,Average,South America
-EMP1088,50,Male,HR,Consulting,8,Remote,28,13,1,High,Unknown,Yes,Increase,5,Satisfied,3,Daily,Average,North America
+EMP1088,50,Male,HR,Consulting,8,Remote,28,13,1,High,None,Yes,Increase,5,Satisfied,3,Daily,Average,North America
 EMP4314,29,Male,HR,Manufacturing,12,Remote,28,3,2,Low,Anxiety,Yes,No Change,1,Unsatisfied,4,Weekly,Poor,South America
 EMP3630,57,Female,Sales,IT,7,Remote,60,13,2,Medium,Depression,Yes,No Change,2,Unsatisfied,4,Daily,Poor,South America
-EMP3358,57,Female,Data Scientist,Healthcare,23,Remote,30,9,4,High,Unknown,No,No Change,2,Unsatisfied,2,Weekly,Good,Africa
+EMP3358,57,Female,Data Scientist,Healthcare,23,Remote,30,9,4,High,None,No,No Change,2,Unsatisfied,2,Weekly,Good,Africa
 EMP3403,29,Non-binary,Marketing,Manufacturing,4,Remote,23,15,3,Medium,Depression,Yes,Increase,5,Neutral,4,Daily,Average,Africa
-EMP3149,54,Male,Sales,Retail,13,Remote,53,10,4,High,Unknown,Yes,Increase,5,Neutral,4,Weekly,Average,Europe
+EMP3149,54,Male,Sales,Retail,13,Remote,53,10,4,High,None,Yes,Increase,5,Neutral,4,Weekly,Average,Europe
 EMP3890,29,Prefer not to say,Data Scientist,Education,29,Remote,28,16,3,Low,Anxiety,No,Increase,5,Neutral,2,Weekly,Poor,North America
 EMP2209,52,Non-binary,Data Scientist,Consulting,20,Remote,25,10,1,Low,Burnout,No,Decrease,5,Neutral,4,Daily,Poor,South America
 EMP0181,23,Prefer not to say,Data Scientist,Education,16,Remote,32,2,5,Medium,Anxiety,Yes,Decrease,5,Neutral,4,Weekly,Good,Asia
-EMP3968,25,Prefer not to say,Project Manager,Consulting,32,Remote,49,15,3,Medium,Unknown,Yes,Decrease,2,Unsatisfied,1,Daily,Good,Asia
+EMP3968,25,Prefer not to say,Project Manager,Consulting,32,Remote,49,15,3,Medium,None,Yes,Decrease,2,Unsatisfied,1,Daily,Good,Asia
 EMP1533,29,Prefer not to say,Software Engineer,Manufacturing,30,Remote,45,11,3,Low,Burnout,No,Decrease,1,Unsatisfied,5,Daily,Average,South America
 EMP4582,46,Prefer not to say,Project Manager,Consulting,32,Remote,55,16,5,Medium,Anxiety,Yes,No Change,2,Unsatisfied,1,Weekly,Poor,Oceania
-EMP1947,61,Prefer not to say,Project Manager,Finance,6,Remote,37,15,3,Medium,Unknown,No,Decrease,5,Unsatisfied,4,Daily,Average,South America
+EMP1947,61,Prefer not to say,Project Manager,Finance,6,Remote,37,15,3,Medium,None,No,Decrease,5,Unsatisfied,4,Daily,Average,South America
 EMP2943,37,Non-binary,Sales,Finance,0,Remote,58,5,1,Medium,Depression,Yes,Decrease,1,Neutral,2,Weekly,Average,Africa
 EMP1749,38,Male,Project Manager,Healthcare,15,Remote,30,4,1,Low,Depression,Yes,Decrease,4,Unsatisfied,4,None,Average,Oceania
-EMP2319,32,Female,Project Manager,Finance,21,Remote,60,11,3,High,Unknown,Yes,Increase,2,Unsatisfied,2,None,Poor,South America
+EMP2319,32,Female,Project Manager,Finance,21,Remote,60,11,3,High,None,Yes,Increase,2,Unsatisfied,2,None,Poor,South America
 EMP2132,29,Male,HR,Consulting,27,Remote,47,13,5,Medium,Anxiety,Yes,No Change,3,Unsatisfied,5,None,Average,South America
-EMP3935,31,Female,Project Manager,Finance,30,Remote,50,14,3,Low,Unknown,Yes,Decrease,4,Satisfied,2,Weekly,Good,Oceania
+EMP3935,31,Female,Project Manager,Finance,30,Remote,50,14,3,Low,None,Yes,Decrease,4,Satisfied,2,Weekly,Good,Oceania
 EMP0244,58,Prefer not to say,Project Manager,Finance,13,Remote,58,13,3,Low,Burnout,Yes,Increase,4,Neutral,1,Weekly,Poor,Oceania
 EMP1459,50,Male,Data Scientist,Retail,28,Remote,53,13,5,Low,Burnout,No,No Change,5,Satisfied,3,Weekly,Good,Europe
 EMP2408,53,Non-binary,Data Scientist,Manufacturing,12,Remote,32,12,4,Low,Burnout,No,No Change,5,Unsatisfied,2,Weekly,Average,South America
@@ -5586,20 +5586,20 @@ EMP2157,48,Non-binary,Sales,Retail,5,Remote,57,16,3,High,Burnout,No,No Change,5,
 EMP1461,55,Male,Marketing,IT,20,Remote,62,6,1,Medium,Burnout,Yes,No Change,3,Unsatisfied,1,Weekly,Average,South America
 EMP1841,54,Male,Software Engineer,IT,11,Remote,31,6,4,High,Burnout,Yes,Increase,5,Unsatisfied,3,Daily,Average,North America
 EMP2156,51,Non-binary,Data Scientist,Retail,6,Remote,60,5,1,High,Burnout,Yes,No Change,4,Satisfied,3,Weekly,Good,South America
-EMP0454,58,Female,Sales,Manufacturing,7,Remote,26,5,2,Medium,Unknown,Yes,Decrease,3,Unsatisfied,1,None,Average,South America
-EMP2899,58,Non-binary,Sales,Retail,10,Remote,29,14,3,Medium,Unknown,Yes,Increase,5,Unsatisfied,2,Daily,Average,South America
+EMP0454,58,Female,Sales,Manufacturing,7,Remote,26,5,2,Medium,None,Yes,Decrease,3,Unsatisfied,1,None,Average,South America
+EMP2899,58,Non-binary,Sales,Retail,10,Remote,29,14,3,Medium,None,Yes,Increase,5,Unsatisfied,2,Daily,Average,South America
 EMP2954,54,Prefer not to say,Project Manager,IT,31,Remote,37,10,2,Medium,Burnout,Yes,Increase,2,Satisfied,3,None,Good,South America
 EMP2381,50,Non-binary,HR,Retail,28,Remote,31,3,5,High,Anxiety,No,No Change,4,Unsatisfied,3,None,Poor,South America
-EMP2902,55,Non-binary,Project Manager,Finance,9,Remote,60,2,4,Medium,Unknown,Yes,No Change,1,Neutral,4,Weekly,Average,Oceania
+EMP2902,55,Non-binary,Project Manager,Finance,9,Remote,60,2,4,Medium,None,Yes,No Change,1,Neutral,4,Weekly,Average,Oceania
 EMP0751,35,Male,Software Engineer,Manufacturing,33,Remote,27,1,3,High,Anxiety,Yes,No Change,2,Neutral,4,Daily,Average,Oceania
 EMP1753,30,Prefer not to say,Project Manager,Retail,2,Remote,27,10,1,Medium,Burnout,Yes,Decrease,5,Neutral,4,Weekly,Poor,Africa
 EMP0788,25,Prefer not to say,Project Manager,Finance,8,Remote,63,14,5,Low,Burnout,Yes,Increase,5,Neutral,3,Weekly,Average,North America
-EMP4924,30,Non-binary,Software Engineer,Healthcare,18,Remote,30,8,1,Medium,Unknown,Yes,Increase,2,Neutral,5,Daily,Average,Europe
+EMP4924,30,Non-binary,Software Engineer,Healthcare,18,Remote,30,8,1,Medium,None,Yes,Increase,2,Neutral,5,Daily,Average,Europe
 EMP1545,34,Non-binary,HR,Healthcare,32,Remote,40,7,3,Low,Burnout,Yes,Decrease,3,Unsatisfied,5,Weekly,Average,Oceania
-EMP0498,55,Male,Project Manager,Retail,31,Remote,29,8,3,Low,Unknown,No,No Change,2,Satisfied,5,None,Poor,South America
+EMP0498,55,Male,Project Manager,Retail,31,Remote,29,8,3,Low,None,No,No Change,2,Satisfied,5,None,Poor,South America
 EMP3631,30,Male,Project Manager,Retail,21,Remote,31,14,3,Low,Burnout,Yes,Increase,1,Neutral,4,Daily,Poor,North America
 EMP1385,38,Female,Project Manager,Retail,22,Remote,56,11,1,Low,Burnout,Yes,Increase,2,Unsatisfied,1,Daily,Average,Asia
-EMP1218,57,Female,Data Scientist,Manufacturing,28,Remote,30,15,1,Medium,Unknown,Yes,Increase,4,Neutral,5,Weekly,Poor,Europe
+EMP1218,57,Female,Data Scientist,Manufacturing,28,Remote,30,15,1,Medium,None,Yes,Increase,4,Neutral,5,Weekly,Poor,Europe
 EMP3681,57,Male,Data Scientist,Manufacturing,32,Remote,41,3,3,Low,Anxiety,Yes,Increase,3,Unsatisfied,4,Daily,Poor,Asia
 EMP4508,55,Non-binary,Sales,Healthcare,18,Remote,39,8,4,Medium,Depression,No,Decrease,1,Unsatisfied,1,Weekly,Average,South America
 EMP0070,44,Male,Software Engineer,Consulting,10,Remote,57,16,4,High,Depression,Yes,No Change,2,Unsatisfied,2,Weekly,Average,Asia
@@ -5607,54 +5607,54 @@ EMP4436,27,Prefer not to say,Designer,IT,24,Remote,48,8,3,High,Depression,No,No 
 EMP0079,57,Non-binary,Data Scientist,Finance,18,Remote,60,17,1,Medium,Depression,No,Increase,5,Neutral,4,Daily,Poor,Asia
 EMP1579,40,Non-binary,Designer,Education,9,Remote,62,12,3,Medium,Anxiety,Yes,No Change,5,Unsatisfied,1,Daily,Poor,Africa
 EMP3433,58,Female,Data Scientist,Consulting,2,Remote,26,15,1,High,Anxiety,No,Increase,2,Unsatisfied,2,Daily,Average,Africa
-EMP3389,54,Female,Designer,Manufacturing,31,Remote,58,9,5,High,Unknown,No,Increase,3,Unsatisfied,4,Daily,Good,Africa
-EMP2256,56,Prefer not to say,Data Scientist,Retail,2,Remote,63,0,4,Low,Unknown,Yes,Decrease,2,Satisfied,4,Weekly,Average,Oceania
+EMP3389,54,Female,Designer,Manufacturing,31,Remote,58,9,5,High,None,No,Increase,3,Unsatisfied,4,Daily,Good,Africa
+EMP2256,56,Prefer not to say,Data Scientist,Retail,2,Remote,63,0,4,Low,None,Yes,Decrease,2,Satisfied,4,Weekly,Average,Oceania
 EMP3674,46,Male,Sales,Retail,3,Remote,58,13,5,High,Anxiety,No,No Change,2,Unsatisfied,1,Weekly,Average,North America
 EMP3912,53,Prefer not to say,Designer,Manufacturing,6,Remote,28,5,2,High,Burnout,Yes,No Change,1,Neutral,4,Daily,Poor,Africa
 EMP4064,43,Prefer not to say,Sales,Healthcare,24,Remote,40,7,1,Medium,Burnout,Yes,No Change,3,Unsatisfied,3,Daily,Poor,Africa
 EMP3467,24,Prefer not to say,Designer,Healthcare,16,Remote,39,11,1,Low,Burnout,Yes,Increase,3,Neutral,5,Weekly,Poor,Europe
 EMP1673,31,Prefer not to say,Project Manager,Education,30,Remote,28,14,1,Low,Burnout,No,No Change,5,Unsatisfied,2,Weekly,Average,South America
 EMP1093,57,Prefer not to say,Marketing,Manufacturing,2,Remote,46,13,3,Medium,Depression,No,Decrease,1,Satisfied,4,Daily,Poor,Asia
-EMP3740,30,Non-binary,Sales,Consulting,6,Remote,24,2,3,Medium,Unknown,Yes,Decrease,5,Unsatisfied,1,Daily,Poor,Oceania
-EMP4577,48,Male,Sales,Retail,32,Remote,45,2,4,High,Unknown,No,Increase,2,Unsatisfied,4,Daily,Poor,Europe
-EMP0110,57,Female,Designer,Healthcare,36,Remote,44,14,1,Medium,Unknown,Yes,Increase,5,Satisfied,4,Daily,Good,Oceania
-EMP3593,52,Prefer not to say,Software Engineer,Healthcare,4,Remote,59,13,1,Low,Unknown,Yes,Increase,2,Unsatisfied,4,Weekly,Poor,Europe
+EMP3740,30,Non-binary,Sales,Consulting,6,Remote,24,2,3,Medium,None,Yes,Decrease,5,Unsatisfied,1,Daily,Poor,Oceania
+EMP4577,48,Male,Sales,Retail,32,Remote,45,2,4,High,None,No,Increase,2,Unsatisfied,4,Daily,Poor,Europe
+EMP0110,57,Female,Designer,Healthcare,36,Remote,44,14,1,Medium,None,Yes,Increase,5,Satisfied,4,Daily,Good,Oceania
+EMP3593,52,Prefer not to say,Software Engineer,Healthcare,4,Remote,59,13,1,Low,None,Yes,Increase,2,Unsatisfied,4,Weekly,Poor,Europe
 EMP1175,30,Prefer not to say,Project Manager,Manufacturing,30,Remote,49,0,1,Low,Anxiety,Yes,Increase,3,Unsatisfied,5,None,Average,South America
-EMP2206,44,Prefer not to say,Data Scientist,IT,4,Remote,26,13,4,Low,Unknown,Yes,Increase,1,Unsatisfied,4,None,Average,Europe
+EMP2206,44,Prefer not to say,Data Scientist,IT,4,Remote,26,13,4,Low,None,Yes,Increase,1,Unsatisfied,4,None,Average,Europe
 EMP2671,46,Male,HR,Education,23,Remote,28,6,3,Medium,Anxiety,No,Decrease,3,Unsatisfied,3,None,Average,Asia
-EMP2836,56,Non-binary,Sales,IT,29,Remote,52,12,2,Medium,Unknown,Yes,No Change,3,Satisfied,2,None,Poor,Oceania
-EMP0047,27,Female,Project Manager,Healthcare,10,Remote,34,13,3,Medium,Unknown,No,No Change,2,Neutral,4,None,Good,Oceania
+EMP2836,56,Non-binary,Sales,IT,29,Remote,52,12,2,Medium,None,Yes,No Change,3,Satisfied,2,None,Poor,Oceania
+EMP0047,27,Female,Project Manager,Healthcare,10,Remote,34,13,3,Medium,None,No,No Change,2,Neutral,4,None,Good,Oceania
 EMP3388,55,Prefer not to say,HR,Healthcare,12,Remote,50,0,3,Low,Anxiety,No,No Change,2,Unsatisfied,4,Weekly,Average,South America
 EMP3579,44,Female,Data Scientist,Finance,21,Remote,62,7,2,Low,Depression,Yes,Increase,2,Unsatisfied,4,Daily,Average,South America
 EMP3367,50,Non-binary,Software Engineer,Manufacturing,32,Remote,60,15,4,Medium,Burnout,No,No Change,2,Neutral,5,Weekly,Poor,Asia
 EMP3839,26,Female,Software Engineer,Manufacturing,10,Remote,34,15,5,High,Burnout,Yes,Decrease,4,Neutral,1,Weekly,Average,South America
 EMP2691,40,Non-binary,Software Engineer,Finance,35,Remote,27,3,1,Low,Depression,No,Decrease,5,Satisfied,3,Weekly,Poor,North America
-EMP1367,24,Prefer not to say,Project Manager,Retail,35,Remote,43,12,3,Low,Unknown,Yes,Increase,5,Neutral,2,Daily,Average,South America
+EMP1367,24,Prefer not to say,Project Manager,Retail,35,Remote,43,12,3,Low,None,Yes,Increase,5,Neutral,2,Daily,Average,South America
 EMP0057,49,Male,Data Scientist,Education,21,Remote,31,3,5,Medium,Burnout,Yes,Decrease,3,Satisfied,2,Weekly,Poor,Europe
 EMP3516,56,Prefer not to say,Designer,IT,7,Remote,55,3,2,Low,Burnout,Yes,No Change,5,Neutral,4,Daily,Average,Oceania
 EMP0654,55,Non-binary,Data Scientist,Healthcare,29,Remote,49,15,1,High,Anxiety,No,Increase,5,Unsatisfied,1,Daily,Poor,Asia
 EMP2045,47,Non-binary,Sales,Consulting,8,Remote,56,6,4,Low,Anxiety,Yes,Increase,2,Neutral,1,Daily,Average,North America
-EMP3290,55,Male,Sales,Healthcare,27,Remote,59,12,3,Low,Unknown,No,Decrease,5,Unsatisfied,3,Daily,Poor,North America
-EMP3439,59,Female,Project Manager,Retail,32,Remote,52,12,3,Medium,Unknown,Yes,Decrease,2,Satisfied,2,Weekly,Average,Africa
+EMP3290,55,Male,Sales,Healthcare,27,Remote,59,12,3,Low,None,No,Decrease,5,Unsatisfied,3,Daily,Poor,North America
+EMP3439,59,Female,Project Manager,Retail,32,Remote,52,12,3,Medium,None,Yes,Decrease,2,Satisfied,2,Weekly,Average,Africa
 EMP2305,53,Male,Designer,Retail,35,Remote,54,16,3,High,Burnout,No,Increase,5,Unsatisfied,1,Daily,Poor,Africa
 EMP4807,41,Non-binary,Software Engineer,Healthcare,24,Remote,47,1,1,Medium,Anxiety,No,Increase,1,Neutral,2,Daily,Poor,Africa
-EMP1041,45,Non-binary,Data Scientist,Retail,4,Remote,55,13,5,Medium,Unknown,Yes,No Change,4,Unsatisfied,2,Weekly,Average,South America
-EMP3169,61,Non-binary,Project Manager,Education,29,Remote,27,13,4,Low,Unknown,Yes,Decrease,3,Satisfied,1,Weekly,Poor,Asia
+EMP1041,45,Non-binary,Data Scientist,Retail,4,Remote,55,13,5,Medium,None,Yes,No Change,4,Unsatisfied,2,Weekly,Average,South America
+EMP3169,61,Non-binary,Project Manager,Education,29,Remote,27,13,4,Low,None,Yes,Decrease,3,Satisfied,1,Weekly,Poor,Asia
 EMP3295,46,Female,Software Engineer,Consulting,38,Remote,24,2,4,Low,Anxiety,Yes,Increase,2,Unsatisfied,2,Daily,Good,Europe
 EMP2591,31,Prefer not to say,Data Scientist,Retail,20,Remote,46,10,1,Low,Burnout,Yes,Increase,5,Unsatisfied,2,None,Average,Oceania
 EMP0622,37,Prefer not to say,Designer,Manufacturing,19,Remote,59,11,5,High,Anxiety,Yes,Increase,4,Neutral,4,None,Poor,Africa
-EMP3169,59,Prefer not to say,Project Manager,Healthcare,8,Remote,28,14,3,Medium,Unknown,No,No Change,5,Unsatisfied,4,None,Poor,North America
+EMP3169,59,Prefer not to say,Project Manager,Healthcare,8,Remote,28,14,3,Medium,None,No,No Change,5,Unsatisfied,4,None,Poor,North America
 EMP1277,34,Male,Software Engineer,Finance,26,Remote,62,1,2,Medium,Burnout,Yes,No Change,5,Unsatisfied,3,Weekly,Average,South America
-EMP3740,58,Male,HR,Manufacturing,30,Remote,29,12,1,High,Unknown,No,No Change,2,Satisfied,4,Weekly,Poor,Europe
+EMP3740,58,Male,HR,Manufacturing,30,Remote,29,12,1,High,None,No,No Change,2,Satisfied,4,Weekly,Poor,Europe
 EMP1567,57,Non-binary,Software Engineer,Education,26,Remote,29,15,3,Medium,Burnout,Yes,Increase,3,Unsatisfied,3,Daily,Poor,Oceania
 EMP1088,56,Non-binary,HR,Consulting,10,Remote,57,3,5,Low,Anxiety,Yes,Increase,5,Neutral,5,Weekly,Good,South America
 EMP2402,56,Prefer not to say,Marketing,Finance,25,Remote,57,14,1,High,Anxiety,Yes,Increase,5,Satisfied,2,Daily,Poor,Africa
 EMP0145,31,Non-binary,Data Scientist,Consulting,16,Remote,32,8,4,Low,Anxiety,No,Increase,4,Neutral,1,Daily,Good,Asia
 EMP4975,33,Male,Sales,Healthcare,26,Remote,24,14,3,Medium,Burnout,Yes,No Change,5,Unsatisfied,3,None,Poor,Europe
 EMP2553,52,Prefer not to say,Software Engineer,Education,11,Remote,32,3,3,Low,Burnout,Yes,Decrease,4,Neutral,5,Weekly,Good,Africa
-EMP0994,37,Female,Project Manager,Education,26,Remote,33,13,2,High,Unknown,No,No Change,1,Unsatisfied,5,Weekly,Average,South America
-EMP2224,25,Female,Sales,IT,21,Remote,28,16,5,Medium,Unknown,No,No Change,1,Unsatisfied,5,Daily,Poor,North America
-EMP3413,47,Non-binary,Project Manager,Retail,11,Remote,32,14,1,Low,Unknown,Yes,Decrease,5,Satisfied,5,None,Poor,Oceania
+EMP0994,37,Female,Project Manager,Education,26,Remote,33,13,2,High,None,No,No Change,1,Unsatisfied,5,Weekly,Average,South America
+EMP2224,25,Female,Sales,IT,21,Remote,28,16,5,Medium,None,No,No Change,1,Unsatisfied,5,Daily,Poor,North America
+EMP3413,47,Non-binary,Project Manager,Retail,11,Remote,32,14,1,Low,None,Yes,Decrease,5,Satisfied,5,None,Poor,Oceania
 EMP4241,54,Prefer not to say,Data Scientist,Manufacturing,26,Remote,22,8,3,High,Burnout,No,Decrease,2,Neutral,1,Weekly,Poor,Europe
 EMP4999,40,Female,Marketing,Retail,27,Remote,43,7,5,High,Burnout,No,Increase,5,Neutral,4,Daily,Average,Africa
 EMP4010,37,Prefer not to say,Data Scientist,Manufacturing,23,Remote,28,2,1,Medium,Burnout,No,No Change,5,Unsatisfied,2,Daily,Poor,South America
@@ -5662,7 +5662,7 @@ EMP4566,51,Female,Sales,Finance,7,Remote,30,9,5,Low,Burnout,Yes,No Change,2,Unsa
 EMP4027,30,Female,Software Engineer,Manufacturing,29,Remote,33,1,2,Low,Depression,No,Increase,2,Unsatisfied,3,Daily,Good,Africa
 EMP1573,29,Non-binary,Marketing,Consulting,32,Remote,50,13,5,Low,Burnout,Yes,Decrease,2,Unsatisfied,2,Daily,Good,South America
 EMP1414,29,Male,Project Manager,Education,22,Remote,52,16,1,High,Depression,Yes,No Change,1,Satisfied,4,Daily,Good,Africa
-EMP4644,55,Female,Software Engineer,Healthcare,18,Remote,50,10,5,Medium,Unknown,Yes,Increase,2,Unsatisfied,4,None,Poor,South America
+EMP4644,55,Female,Software Engineer,Healthcare,18,Remote,50,10,5,Medium,None,Yes,Increase,2,Unsatisfied,4,None,Poor,South America
 EMP2162,33,Non-binary,Sales,Consulting,31,Remote,21,11,3,High,Burnout,No,Decrease,5,Unsatisfied,4,None,Good,Asia
 EMP3357,58,Non-binary,Designer,Finance,31,Remote,56,9,3,Medium,Burnout,Yes,No Change,2,Unsatisfied,3,None,Poor,Africa
 EMP4341,55,Non-binary,Data Scientist,Retail,32,Remote,30,12,2,Low,Anxiety,Yes,No Change,3,Unsatisfied,2,Weekly,Poor,North America
@@ -5680,28 +5680,28 @@ EMP3376,57,Non-binary,Software Engineer,Finance,15,Remote,57,9,5,Medium,Anxiety,
 EMP2026,37,Female,Data Scientist,Consulting,9,Remote,32,1,3,High,Depression,No,No Change,2,Satisfied,1,Daily,Poor,Europe
 EMP4858,61,Prefer not to say,Sales,Education,31,Remote,27,2,4,Medium,Depression,Yes,Decrease,2,Neutral,3,Weekly,Poor,North America
 EMP4358,58,Non-binary,Marketing,Healthcare,5,Remote,40,8,5,Medium,Depression,No,Decrease,5,Neutral,2,Weekly,Average,North America
-EMP0386,29,Male,Data Scientist,Manufacturing,13,Remote,59,1,1,Low,Unknown,Yes,Increase,5,Satisfied,5,Daily,Good,Europe
+EMP0386,29,Male,Data Scientist,Manufacturing,13,Remote,59,1,1,Low,None,Yes,Increase,5,Satisfied,5,Daily,Good,Europe
 EMP3709,42,Prefer not to say,Sales,Education,4,Remote,44,15,1,Low,Anxiety,Yes,Decrease,4,Neutral,1,Daily,Average,South America
-EMP2824,49,Prefer not to say,Project Manager,Healthcare,34,Remote,61,11,3,Low,Unknown,No,No Change,5,Unsatisfied,2,Weekly,Average,Asia
+EMP2824,49,Prefer not to say,Project Manager,Healthcare,34,Remote,61,11,3,Low,None,No,No Change,5,Unsatisfied,2,Weekly,Average,Asia
 EMP3146,48,Male,Sales,Education,28,Remote,54,13,3,Low,Burnout,Yes,Increase,5,Neutral,3,Weekly,Average,North America
 EMP1086,44,Prefer not to say,Project Manager,Healthcare,33,Remote,27,8,2,Medium,Anxiety,Yes,No Change,2,Unsatisfied,1,Weekly,Poor,South America
 EMP3592,43,Female,Sales,Manufacturing,33,Remote,29,10,3,High,Anxiety,Yes,Increase,2,Neutral,5,Daily,Average,Africa
 EMP2449,28,Prefer not to say,Designer,Consulting,30,Remote,32,17,5,Low,Burnout,Yes,Increase,5,Neutral,1,Daily,Average,South America
-EMP0749,56,Male,Project Manager,Manufacturing,32,Remote,29,11,4,Medium,Unknown,Yes,Increase,2,Satisfied,4,Daily,Average,Asia
+EMP0749,56,Male,Project Manager,Manufacturing,32,Remote,29,11,4,Medium,None,Yes,Increase,2,Satisfied,4,Daily,Average,Asia
 EMP0564,54,Female,Marketing,Education,35,Remote,24,2,2,Low,Anxiety,Yes,Decrease,3,Unsatisfied,1,Daily,Good,Africa
 EMP0714,55,Female,Project Manager,Healthcare,34,Remote,30,4,5,Low,Burnout,Yes,No Change,3,Unsatisfied,1,Daily,Poor,Europe
 EMP0798,52,Prefer not to say,Project Manager,IT,32,Remote,57,15,4,Medium,Depression,Yes,No Change,5,Unsatisfied,4,Weekly,Good,Africa
 EMP1367,57,Non-binary,Project Manager,Retail,4,Remote,30,11,3,Low,Anxiety,No,Increase,3,Neutral,5,Daily,Poor,Asia
-EMP0687,33,Prefer not to say,Designer,Finance,28,Remote,32,12,3,High,Unknown,Yes,Increase,5,Unsatisfied,4,Daily,Average,Africa
+EMP0687,33,Prefer not to say,Designer,Finance,28,Remote,32,12,3,High,None,Yes,Increase,5,Unsatisfied,4,Daily,Average,Africa
 EMP1621,55,Prefer not to say,HR,Consulting,29,Remote,31,3,1,Medium,Anxiety,Yes,No Change,1,Neutral,1,None,Average,Asia
 EMP1266,58,Male,Project Manager,Manufacturing,8,Remote,27,2,5,Low,Anxiety,Yes,Decrease,5,Unsatisfied,1,Weekly,Poor,Oceania
 EMP0287,54,Female,Designer,Finance,2,Remote,31,16,1,Medium,Burnout,Yes,Increase,5,Neutral,1,Weekly,Average,South America
 EMP4859,51,Non-binary,Software Engineer,Healthcare,31,Remote,31,2,3,Low,Burnout,Yes,Increase,1,Unsatisfied,3,Weekly,Average,South America
-EMP4434,44,Male,Data Scientist,Healthcare,13,Remote,32,15,1,High,Unknown,No,Increase,5,Satisfied,3,Weekly,Poor,Asia
+EMP4434,44,Male,Data Scientist,Healthcare,13,Remote,32,15,1,High,None,No,Increase,5,Satisfied,3,Weekly,Poor,Asia
 EMP2245,54,Non-binary,Project Manager,Education,15,Remote,45,16,4,Low,Anxiety,Yes,Increase,5,Unsatisfied,5,Daily,Poor,Oceania
-EMP0517,32,Prefer not to say,Data Scientist,Education,18,Remote,31,1,3,Low,Unknown,Yes,Decrease,5,Unsatisfied,4,Weekly,Good,Oceania
-EMP1262,56,Prefer not to say,Designer,Finance,28,Remote,53,10,3,Low,Unknown,No,Decrease,5,Unsatisfied,1,Weekly,Poor,Africa
-EMP3774,55,Non-binary,Project Manager,Education,22,Remote,28,8,1,Medium,Unknown,Yes,Decrease,4,Satisfied,4,Daily,Poor,Europe
+EMP0517,32,Prefer not to say,Data Scientist,Education,18,Remote,31,1,3,Low,None,Yes,Decrease,5,Unsatisfied,4,Weekly,Good,Oceania
+EMP1262,56,Prefer not to say,Designer,Finance,28,Remote,53,10,3,Low,None,No,Decrease,5,Unsatisfied,1,Weekly,Poor,Africa
+EMP3774,55,Non-binary,Project Manager,Education,22,Remote,28,8,1,Medium,None,Yes,Decrease,4,Satisfied,4,Daily,Poor,Europe
 EMP2359,53,Male,Marketing,Retail,6,Remote,55,8,4,Medium,Burnout,Yes,No Change,5,Unsatisfied,5,None,Poor,Africa
 EMP2501,45,Female,Project Manager,Consulting,20,Remote,55,9,4,Medium,Burnout,Yes,Increase,5,Neutral,3,Weekly,Poor,North America
 EMP3810,37,Prefer not to say,Data Scientist,Retail,15,Remote,58,13,5,Low,Depression,Yes,Decrease,2,Unsatisfied,4,Daily,Poor,Oceania
@@ -5711,22 +5711,22 @@ EMP2013,57,Prefer not to say,Project Manager,IT,31,Remote,48,5,1,Medium,Burnout,
 EMP3890,54,Non-binary,Sales,Finance,28,Remote,31,13,5,Medium,Burnout,Yes,Increase,4,Neutral,5,Weekly,Average,South America
 EMP4313,50,Female,Project Manager,Education,13,Remote,26,9,4,Low,Burnout,Yes,Increase,5,Unsatisfied,1,None,Average,South America
 EMP1947,54,Non-binary,Software Engineer,IT,30,Remote,46,14,5,High,Depression,No,Decrease,4,Unsatisfied,4,Daily,Poor,Africa
-EMP0392,56,Female,Marketing,Retail,25,Remote,39,15,4,Low,Unknown,Yes,Decrease,1,Unsatisfied,1,Daily,Poor,Africa
+EMP0392,56,Female,Marketing,Retail,25,Remote,39,15,4,Low,None,Yes,Decrease,1,Unsatisfied,1,Daily,Poor,Africa
 EMP0216,49,Male,Data Scientist,Education,8,Remote,44,15,3,Low,Burnout,Yes,Increase,4,Neutral,1,None,Poor,South America
 EMP2754,60,Female,Sales,IT,6,Remote,42,11,1,High,Anxiety,Yes,No Change,5,Satisfied,4,Daily,Good,Europe
-EMP1686,38,Prefer not to say,HR,Manufacturing,20,Remote,38,1,2,Medium,Unknown,No,Increase,3,Unsatisfied,1,Weekly,Poor,Oceania
+EMP1686,38,Prefer not to say,HR,Manufacturing,20,Remote,38,1,2,Medium,None,No,Increase,3,Unsatisfied,1,Weekly,Poor,Oceania
 EMP1877,50,Non-binary,Sales,IT,13,Remote,30,2,3,Low,Burnout,Yes,No Change,5,Unsatisfied,1,None,Average,North America
 EMP1550,51,Female,Project Manager,Healthcare,32,Remote,54,12,3,Medium,Burnout,Yes,Decrease,4,Satisfied,2,Weekly,Average,Europe
-EMP2365,28,Non-binary,Marketing,Manufacturing,33,Remote,47,7,1,Medium,Unknown,Yes,Decrease,5,Satisfied,4,Weekly,Average,Africa
-EMP4790,24,Prefer not to say,Software Engineer,Retail,6,Remote,30,1,1,High,Unknown,No,Increase,3,Neutral,3,Daily,Poor,North America
+EMP2365,28,Non-binary,Marketing,Manufacturing,33,Remote,47,7,1,Medium,None,Yes,Decrease,5,Satisfied,4,Weekly,Average,Africa
+EMP4790,24,Prefer not to say,Software Engineer,Retail,6,Remote,30,1,1,High,None,No,Increase,3,Neutral,3,Daily,Poor,North America
 EMP1338,55,Male,Marketing,Consulting,19,Remote,56,8,2,Low,Anxiety,Yes,Decrease,5,Unsatisfied,1,Weekly,Poor,Africa
 EMP1591,56,Prefer not to say,Designer,Retail,21,Remote,51,14,3,Low,Burnout,No,Increase,3,Neutral,4,Weekly,Good,Oceania
 EMP3403,38,Non-binary,Project Manager,Consulting,35,Remote,43,0,3,Low,Anxiety,No,Decrease,2,Unsatisfied,3,Weekly,Average,Oceania
-EMP1442,46,Female,Software Engineer,Education,19,Remote,47,7,3,Medium,Unknown,No,Increase,2,Neutral,1,Daily,Good,North America
-EMP0613,29,Non-binary,Sales,Consulting,29,Remote,42,4,4,Low,Unknown,Yes,Increase,5,Satisfied,3,Weekly,Poor,Europe
+EMP1442,46,Female,Software Engineer,Education,19,Remote,47,7,3,Medium,None,No,Increase,2,Neutral,1,Daily,Good,North America
+EMP0613,29,Non-binary,Sales,Consulting,29,Remote,42,4,4,Low,None,Yes,Increase,5,Satisfied,3,Weekly,Poor,Europe
 EMP1884,43,Prefer not to say,Project Manager,Healthcare,3,Remote,53,2,3,Low,Anxiety,No,Decrease,5,Unsatisfied,4,Daily,Average,Asia
-EMP0151,38,Non-binary,Data Scientist,Manufacturing,34,Remote,38,7,1,Low,Unknown,No,Increase,5,Unsatisfied,4,Daily,Poor,Africa
-EMP2206,58,Male,Project Manager,IT,7,Remote,60,10,1,High,Unknown,Yes,Decrease,3,Satisfied,5,None,Poor,Asia
+EMP0151,38,Non-binary,Data Scientist,Manufacturing,34,Remote,38,7,1,Low,None,No,Increase,5,Unsatisfied,4,Daily,Poor,Africa
+EMP2206,58,Male,Project Manager,IT,7,Remote,60,10,1,High,None,Yes,Decrease,3,Satisfied,5,None,Poor,Asia
 EMP3081,55,Male,Designer,Education,9,Remote,49,7,1,Medium,Burnout,Yes,Decrease,5,Unsatisfied,4,Weekly,Average,South America
 EMP0707,55,Prefer not to say,Marketing,Finance,35,Remote,53,7,1,Medium,Anxiety,Yes,No Change,1,Unsatisfied,4,None,Average,North America
 EMP1775,53,Female,Marketing,IT,37,Remote,23,5,3,Medium,Anxiety,Yes,Increase,4,Satisfied,4,Weekly,Poor,North America
@@ -5735,14 +5735,14 @@ EMP1831,25,Prefer not to say,Software Engineer,Retail,11,Remote,28,16,3,Low,Burn
 EMP2181,52,Non-binary,Software Engineer,Retail,28,Remote,62,7,5,Medium,Anxiety,Yes,No Change,4,Neutral,2,None,Average,South America
 EMP0708,57,Female,Data Scientist,Retail,31,Remote,47,1,5,Low,Anxiety,Yes,Decrease,5,Satisfied,4,Weekly,Average,Oceania
 EMP0152,25,Prefer not to say,Sales,IT,35,Remote,29,11,3,Medium,Burnout,Yes,Increase,5,Satisfied,5,Daily,Poor,North America
-EMP0151,25,Male,Project Manager,Manufacturing,7,Remote,29,9,5,Low,Unknown,Yes,Decrease,2,Unsatisfied,3,Weekly,Poor,Africa
+EMP0151,25,Male,Project Manager,Manufacturing,7,Remote,29,9,5,Low,None,Yes,Decrease,2,Unsatisfied,3,Weekly,Poor,Africa
 EMP4225,57,Male,Project Manager,Finance,22,Remote,25,10,1,Low,Burnout,No,No Change,5,Satisfied,1,Weekly,Good,North America
 EMP1519,55,Male,Project Manager,Retail,8,Remote,27,11,3,Medium,Burnout,Yes,Increase,5,Satisfied,5,Weekly,Poor,Africa
 EMP3765,54,Non-binary,Sales,Manufacturing,10,Remote,63,7,4,Low,Anxiety,Yes,Decrease,3,Satisfied,1,Weekly,Good,Oceania
 EMP2942,49,Prefer not to say,Sales,Finance,29,Remote,26,6,4,High,Burnout,Yes,Increase,5,Neutral,4,None,Poor,Africa
 EMP4762,27,Non-binary,Data Scientist,Manufacturing,6,Remote,37,8,1,High,Burnout,Yes,Increase,2,Unsatisfied,4,Weekly,Poor,Europe
 EMP3812,38,Non-binary,Project Manager,IT,10,Remote,55,3,4,Low,Burnout,Yes,No Change,5,Unsatisfied,2,Weekly,Average,Asia
-EMP1740,41,Non-binary,Marketing,Finance,29,Remote,27,13,1,Low,Unknown,Yes,Decrease,4,Unsatisfied,5,Weekly,Good,Europe
+EMP1740,41,Non-binary,Marketing,Finance,29,Remote,27,13,1,Low,None,Yes,Decrease,4,Unsatisfied,5,Weekly,Good,Europe
 EMP4797,61,Prefer not to say,Marketing,Healthcare,31,Remote,45,14,1,High,Anxiety,No,Increase,2,Satisfied,1,Daily,Poor,Africa
 EMP0674,30,Prefer not to say,Project Manager,Retail,35,Remote,59,1,1,Medium,Burnout,No,Decrease,3,Satisfied,4,None,Average,Africa
 EMP1385,35,Male,Project Manager,Healthcare,31,Remote,61,14,5,High,Burnout,Yes,No Change,5,Unsatisfied,2,Daily,Poor,North America
@@ -5751,39 +5751,39 @@ EMP0019,57,Prefer not to say,Data Scientist,Healthcare,21,Remote,26,15,4,High,An
 EMP1516,32,Female,Project Manager,Manufacturing,8,Remote,58,11,2,Medium,Anxiety,Yes,Increase,5,Satisfied,1,Weekly,Poor,Asia
 EMP1363,44,Male,Data Scientist,Education,9,Remote,49,2,4,Low,Anxiety,Yes,Decrease,2,Unsatisfied,5,Daily,Good,Oceania
 EMP1224,60,Non-binary,Software Engineer,IT,11,Remote,55,4,1,Low,Anxiety,No,No Change,3,Satisfied,4,Weekly,Good,Asia
-EMP0239,56,Male,Project Manager,IT,37,Remote,57,2,1,High,Unknown,Yes,Increase,4,Unsatisfied,2,Daily,Poor,Europe
+EMP0239,56,Male,Project Manager,IT,37,Remote,57,2,1,High,None,Yes,Increase,4,Unsatisfied,2,Daily,Poor,Europe
 EMP0068,25,Prefer not to say,Sales,IT,20,Remote,56,7,4,Low,Burnout,Yes,No Change,5,Unsatisfied,5,Daily,Poor,North America
 EMP0068,42,Non-binary,HR,Consulting,30,Remote,28,2,5,Low,Burnout,No,Increase,4,Unsatisfied,4,Weekly,Average,Asia
 EMP1185,54,Male,Project Manager,Consulting,19,Remote,44,5,1,High,Burnout,Yes,No Change,3,Neutral,4,None,Average,Asia
 EMP4099,38,Non-binary,Sales,Healthcare,11,Remote,29,14,4,High,Burnout,No,Increase,5,Satisfied,4,Weekly,Poor,South America
-EMP3337,34,Non-binary,Project Manager,Manufacturing,2,Remote,36,11,3,Medium,Unknown,Yes,No Change,5,Satisfied,4,Daily,Poor,Africa
+EMP3337,34,Non-binary,Project Manager,Manufacturing,2,Remote,36,11,3,Medium,None,Yes,No Change,5,Satisfied,4,Daily,Poor,Africa
 EMP4221,23,Non-binary,Project Manager,Consulting,11,Remote,58,15,4,Low,Depression,Yes,No Change,5,Unsatisfied,5,Weekly,Average,North America
 EMP4508,26,Prefer not to say,HR,Manufacturing,31,Remote,28,11,5,High,Burnout,No,No Change,3,Unsatisfied,1,Daily,Poor,Europe
-EMP0746,58,Prefer not to say,Sales,Finance,4,Remote,52,12,4,Low,Unknown,Yes,Increase,5,Unsatisfied,1,None,Poor,Asia
-EMP4315,57,Prefer not to say,Software Engineer,Manufacturing,0,Remote,50,7,3,Low,Unknown,No,Decrease,1,Unsatisfied,1,Daily,Good,Asia
-EMP0546,35,Prefer not to say,HR,Manufacturing,14,Remote,26,14,1,Medium,Unknown,Yes,Increase,4,Unsatisfied,5,Weekly,Poor,South America
+EMP0746,58,Prefer not to say,Sales,Finance,4,Remote,52,12,4,Low,None,Yes,Increase,5,Unsatisfied,1,None,Poor,Asia
+EMP4315,57,Prefer not to say,Software Engineer,Manufacturing,0,Remote,50,7,3,Low,None,No,Decrease,1,Unsatisfied,1,Daily,Good,Asia
+EMP0546,35,Prefer not to say,HR,Manufacturing,14,Remote,26,14,1,Medium,None,Yes,Increase,4,Unsatisfied,5,Weekly,Poor,South America
 EMP0284,34,Prefer not to say,Project Manager,Consulting,32,Remote,26,12,3,Low,Burnout,Yes,Increase,5,Neutral,4,Weekly,Good,South America
-EMP1897,55,Non-binary,Sales,Education,27,Remote,50,17,3,High,Unknown,Yes,Increase,2,Unsatisfied,1,Daily,Poor,Asia
+EMP1897,55,Non-binary,Sales,Education,27,Remote,50,17,3,High,None,Yes,Increase,2,Unsatisfied,1,Daily,Poor,Asia
 EMP2213,38,Prefer not to say,Project Manager,Retail,30,Remote,58,9,2,Medium,Burnout,No,Decrease,2,Satisfied,3,Daily,Average,Asia
 EMP1282,24,Female,HR,Consulting,8,Remote,60,2,1,Medium,Burnout,No,No Change,3,Unsatisfied,5,Weekly,Good,South America
 EMP4336,42,Non-binary,Data Scientist,Finance,27,Remote,26,8,2,Low,Anxiety,Yes,No Change,5,Unsatisfied,3,None,Good,North America
-EMP0751,55,Prefer not to say,HR,Finance,10,Remote,48,8,1,High,Unknown,Yes,Increase,1,Neutral,2,None,Poor,Africa
+EMP0751,55,Prefer not to say,HR,Finance,10,Remote,48,8,1,High,None,Yes,Increase,1,Neutral,2,None,Poor,Africa
 EMP3433,55,Male,Data Scientist,Healthcare,31,Remote,37,13,1,High,Depression,Yes,No Change,5,Unsatisfied,5,Weekly,Average,Africa
 EMP4186,46,Male,Project Manager,Healthcare,12,Remote,30,15,4,Low,Burnout,Yes,No Change,3,Unsatisfied,4,Weekly,Good,Oceania
 EMP1282,43,Female,Project Manager,Manufacturing,29,Remote,28,16,3,High,Burnout,Yes,No Change,5,Satisfied,1,Daily,Average,North America
 EMP4409,30,Prefer not to say,HR,Finance,16,Remote,53,2,3,Low,Burnout,Yes,Increase,5,Neutral,3,Daily,Good,South America
-EMP2425,26,Non-binary,HR,Consulting,4,Remote,25,14,5,High,Unknown,No,Increase,5,Unsatisfied,1,Weekly,Good,Europe
+EMP2425,26,Non-binary,HR,Consulting,4,Remote,25,14,5,High,None,No,Increase,5,Unsatisfied,1,Weekly,Good,Europe
 EMP2920,43,Prefer not to say,Data Scientist,Education,16,Remote,57,14,3,Low,Burnout,Yes,Increase,2,Satisfied,3,Daily,Average,North America
 EMP1218,55,Female,Project Manager,Consulting,32,Remote,50,3,4,Low,Burnout,No,No Change,2,Unsatisfied,1,Weekly,Good,Asia
-EMP2815,44,Non-binary,Sales,Consulting,29,Remote,25,17,2,Low,Unknown,Yes,No Change,5,Unsatisfied,4,Weekly,Poor,Oceania
-EMP3033,46,Male,Data Scientist,IT,8,Remote,28,11,3,Medium,Unknown,Yes,No Change,5,Neutral,5,Weekly,Poor,North America
-EMP3262,52,Female,Data Scientist,Healthcare,31,Remote,40,13,1,Medium,Unknown,Yes,Increase,2,Unsatisfied,1,Weekly,Average,Asia
-EMP0559,57,Prefer not to say,HR,Consulting,28,Remote,41,7,1,Low,Unknown,Yes,No Change,2,Unsatisfied,5,Weekly,Good,Asia
+EMP2815,44,Non-binary,Sales,Consulting,29,Remote,25,17,2,Low,None,Yes,No Change,5,Unsatisfied,4,Weekly,Poor,Oceania
+EMP3033,46,Male,Data Scientist,IT,8,Remote,28,11,3,Medium,None,Yes,No Change,5,Neutral,5,Weekly,Poor,North America
+EMP3262,52,Female,Data Scientist,Healthcare,31,Remote,40,13,1,Medium,None,Yes,Increase,2,Unsatisfied,1,Weekly,Average,Asia
+EMP0559,57,Prefer not to say,HR,Consulting,28,Remote,41,7,1,Low,None,Yes,No Change,2,Unsatisfied,5,Weekly,Good,Asia
 EMP4505,27,Female,Project Manager,Consulting,24,Remote,29,6,5,High,Anxiety,No,Decrease,2,Unsatisfied,5,Weekly,Average,Asia
 EMP2600,58,Prefer not to say,Marketing,Retail,28,Remote,39,3,2,Medium,Depression,Yes,Increase,5,Satisfied,1,Daily,Poor,Africa
 EMP2902,57,Non-binary,Marketing,Consulting,30,Remote,35,2,1,Medium,Depression,Yes,Increase,5,Unsatisfied,1,Daily,Average,North America
 EMP2804,28,Male,Project Manager,Manufacturing,35,Remote,54,1,5,High,Anxiety,Yes,No Change,3,Unsatisfied,2,Weekly,Average,Africa
-EMP2457,53,Male,Project Manager,Retail,7,Remote,56,14,3,High,Unknown,Yes,Decrease,2,Unsatisfied,4,Daily,Average,Europe
+EMP2457,53,Male,Project Manager,Retail,7,Remote,56,14,3,High,None,Yes,Decrease,2,Unsatisfied,4,Daily,Average,Europe
 EMP3186,25,Male,HR,Consulting,32,Remote,51,11,1,Medium,Burnout,Yes,Increase,3,Neutral,1,None,Poor,Europe
 EMP0794,29,Non-binary,Marketing,Consulting,10,Remote,28,16,3,High,Burnout,No,No Change,5,Unsatisfied,2,Weekly,Good,Asia
 EMP3516,43,Non-binary,Project Manager,Manufacturing,29,Remote,52,12,2,Medium,Anxiety,Yes,Increase,5,Neutral,5,Daily,Average,North America
@@ -5806,38 +5806,38 @@ EMP3306,54,Male,HR,Healthcare,29,Remote,31,3,3,High,Anxiety,Yes,Increase,5,Satis
 EMP0089,54,Prefer not to say,HR,Manufacturing,15,Remote,38,9,4,High,Burnout,No,Decrease,3,Neutral,2,Daily,Poor,North America
 EMP3740,23,Non-binary,HR,IT,15,Remote,36,6,5,High,Anxiety,No,No Change,3,Satisfied,4,Daily,Good,Asia
 EMP2253,35,Male,Project Manager,Healthcare,9,Remote,28,14,1,Low,Anxiety,No,Decrease,3,Unsatisfied,1,Weekly,Poor,Oceania
-EMP0171,36,Prefer not to say,Marketing,Retail,15,Remote,49,4,3,High,Unknown,Yes,Decrease,1,Satisfied,4,Daily,Average,Africa
+EMP0171,36,Prefer not to say,Marketing,Retail,15,Remote,49,4,3,High,None,Yes,Decrease,1,Satisfied,4,Daily,Average,Africa
 EMP1323,63,Prefer not to say,Project Manager,Healthcare,5,Remote,28,3,1,High,Burnout,No,Increase,5,Neutral,4,Daily,Poor,North America
-EMP3706,54,Male,Designer,Consulting,9,Remote,38,15,3,Low,Unknown,Yes,Decrease,4,Neutral,2,Weekly,Average,North America
+EMP3706,54,Male,Designer,Consulting,9,Remote,38,15,3,Low,None,Yes,Decrease,4,Neutral,2,Weekly,Average,North America
 EMP0510,46,Prefer not to say,Project Manager,Consulting,35,Remote,62,12,4,Medium,Depression,Yes,Decrease,5,Neutral,4,Daily,Good,Oceania
 EMP1059,39,Non-binary,Sales,Retail,4,Remote,50,5,1,Low,Depression,No,Decrease,5,Neutral,4,Weekly,Average,North America
-EMP3706,32,Female,Marketing,Manufacturing,30,Remote,28,1,1,High,Unknown,No,Decrease,5,Unsatisfied,1,Weekly,Poor,Europe
-EMP0715,50,Non-binary,Data Scientist,Consulting,17,Remote,27,3,5,Low,Unknown,No,No Change,2,Unsatisfied,2,Daily,Average,North America
-EMP4450,29,Prefer not to say,Sales,Healthcare,6,Remote,24,13,4,Medium,Unknown,No,Decrease,5,Unsatisfied,4,Weekly,Poor,North America
+EMP3706,32,Female,Marketing,Manufacturing,30,Remote,28,1,1,High,None,No,Decrease,5,Unsatisfied,1,Weekly,Poor,Europe
+EMP0715,50,Non-binary,Data Scientist,Consulting,17,Remote,27,3,5,Low,None,No,No Change,2,Unsatisfied,2,Daily,Average,North America
+EMP4450,29,Prefer not to say,Sales,Healthcare,6,Remote,24,13,4,Medium,None,No,Decrease,5,Unsatisfied,4,Weekly,Poor,North America
 EMP4769,43,Prefer not to say,Sales,Finance,23,Remote,30,7,3,Low,Anxiety,Yes,Decrease,5,Satisfied,5,Daily,Poor,Europe
 EMP3021,46,Prefer not to say,Data Scientist,Retail,26,Remote,51,15,3,Medium,Burnout,No,Increase,5,Unsatisfied,4,None,Poor,South America
 EMP4455,60,Non-binary,Designer,Finance,8,Remote,31,15,3,Low,Anxiety,Yes,Increase,4,Unsatisfied,5,Weekly,Poor,Asia
 EMP2600,35,Non-binary,Marketing,Consulting,24,Remote,59,7,1,Low,Anxiety,Yes,Increase,2,Neutral,5,Weekly,Good,Oceania
 EMP2017,32,Prefer not to say,Marketing,Manufacturing,19,Remote,48,14,2,Medium,Anxiety,Yes,Decrease,2,Neutral,5,Daily,Good,Africa
 EMP1509,52,Non-binary,HR,Consulting,28,Remote,45,16,2,Low,Anxiety,Yes,Decrease,5,Unsatisfied,1,Daily,Average,Oceania
-EMP0254,47,Female,Marketing,Consulting,19,Remote,36,9,2,High,Unknown,No,Decrease,2,Neutral,2,None,Poor,South America
+EMP0254,47,Female,Marketing,Consulting,19,Remote,36,9,2,High,None,No,Decrease,2,Neutral,2,None,Poor,South America
 EMP3447,53,Prefer not to say,HR,Education,31,Remote,32,13,1,Low,Depression,No,No Change,5,Unsatisfied,5,Weekly,Poor,South America
-EMP4396,55,Male,Data Scientist,Consulting,27,Remote,26,14,5,High,Unknown,Yes,Increase,5,Neutral,5,Daily,Poor,North America
+EMP4396,55,Male,Data Scientist,Consulting,27,Remote,26,14,5,High,None,Yes,Increase,5,Neutral,5,Daily,Poor,North America
 EMP1631,43,Non-binary,HR,Manufacturing,33,Remote,26,15,1,Low,Burnout,No,No Change,2,Unsatisfied,1,Weekly,Poor,Europe
 EMP1915,54,Non-binary,Data Scientist,Finance,10,Remote,58,14,4,Medium,Depression,No,Increase,2,Unsatisfied,2,Weekly,Average,South America
 EMP3890,30,Non-binary,Data Scientist,Retail,13,Remote,30,16,1,High,Anxiety,No,No Change,5,Unsatisfied,5,Daily,Good,Africa
-EMP0801,31,Female,Data Scientist,Education,3,Remote,39,9,4,Low,Unknown,No,Increase,5,Satisfied,5,Daily,Average,Oceania
+EMP0801,31,Female,Data Scientist,Education,3,Remote,39,9,4,Low,None,No,Increase,5,Satisfied,5,Daily,Average,Oceania
 EMP0753,55,Non-binary,Project Manager,Finance,35,Remote,29,12,5,Low,Burnout,Yes,Increase,4,Unsatisfied,2,Weekly,Good,Africa
-EMP0907,43,Male,Software Engineer,Consulting,13,Remote,25,9,5,Medium,Unknown,No,Decrease,1,Neutral,1,Weekly,Average,South America
-EMP3674,49,Female,Data Scientist,Finance,29,Remote,53,11,4,Low,Unknown,Yes,No Change,5,Satisfied,5,Weekly,Average,Oceania
+EMP0907,43,Male,Software Engineer,Consulting,13,Remote,25,9,5,Medium,None,No,Decrease,1,Neutral,1,Weekly,Average,South America
+EMP3674,49,Female,Data Scientist,Finance,29,Remote,53,11,4,Low,None,Yes,No Change,5,Satisfied,5,Weekly,Average,Oceania
 EMP2879,50,Non-binary,Software Engineer,Manufacturing,8,Remote,48,12,1,Medium,Depression,No,Decrease,2,Satisfied,4,None,Poor,Asia
 EMP1825,40,Non-binary,Sales,Consulting,23,Remote,45,8,1,Low,Burnout,Yes,No Change,5,Satisfied,1,None,Good,North America
-EMP0409,54,Prefer not to say,Marketing,Consulting,23,Remote,46,2,1,Low,Unknown,Yes,Decrease,3,Unsatisfied,2,None,Poor,Europe
+EMP0409,54,Prefer not to say,Marketing,Consulting,23,Remote,46,2,1,Low,None,Yes,Decrease,3,Unsatisfied,2,None,Poor,Europe
 EMP1175,56,Male,Data Scientist,Finance,23,Remote,57,6,5,Low,Anxiety,Yes,Decrease,5,Unsatisfied,1,Weekly,Average,Asia
-EMP2063,38,Prefer not to say,Project Manager,Consulting,8,Remote,32,11,1,Medium,Unknown,Yes,Decrease,5,Unsatisfied,4,Weekly,Poor,North America
+EMP2063,38,Prefer not to say,Project Manager,Consulting,8,Remote,32,11,1,Medium,None,Yes,Decrease,5,Unsatisfied,4,Weekly,Poor,North America
 EMP0472,31,Female,Project Manager,Consulting,30,Remote,59,11,1,Medium,Burnout,Yes,Decrease,5,Neutral,1,Weekly,Average,North America
 EMP4927,44,Female,HR,Consulting,25,Remote,47,5,5,High,Depression,Yes,No Change,5,Neutral,4,None,Poor,North America
-EMP0278,29,Female,Software Engineer,Consulting,11,Remote,59,10,4,High,Unknown,No,Decrease,4,Unsatisfied,5,Weekly,Poor,Africa
+EMP0278,29,Female,Software Engineer,Consulting,11,Remote,59,10,4,High,None,No,Decrease,4,Unsatisfied,5,Weekly,Poor,Africa
 EMP4483,54,Female,Marketing,Consulting,34,Remote,28,4,2,Low,Anxiety,No,Decrease,5,Unsatisfied,4,Daily,Poor,Oceania
 EMP3584,27,Non-binary,HR,Manufacturing,32,Remote,26,8,4,Medium,Anxiety,Yes,Increase,2,Neutral,5,Daily,Average,Oceania
 EMP0855,43,Prefer not to say,Software Engineer,Education,34,Remote,59,3,1,High,Burnout,Yes,No Change,5,Unsatisfied,1,None,Good,Europe
@@ -5849,27 +5849,27 @@ EMP4584,37,Non-binary,Sales,Retail,28,Remote,38,11,4,High,Burnout,Yes,No Change,
 EMP0318,47,Prefer not to say,Software Engineer,Education,28,Remote,59,16,5,High,Burnout,Yes,Decrease,3,Neutral,4,None,Average,Oceania
 EMP1360,45,Prefer not to say,Designer,Finance,18,Remote,61,8,1,Low,Depression,Yes,Increase,5,Unsatisfied,1,None,Average,Oceania
 EMP2166,49,Prefer not to say,Project Manager,IT,14,Remote,25,2,3,Low,Burnout,No,Decrease,5,Unsatisfied,1,Weekly,Average,Europe
-EMP3910,27,Prefer not to say,HR,Finance,10,Remote,48,13,1,Low,Unknown,No,No Change,2,Satisfied,1,Weekly,Poor,Africa
+EMP3910,27,Prefer not to say,HR,Finance,10,Remote,48,13,1,Low,None,No,No Change,2,Satisfied,1,Weekly,Poor,Africa
 EMP3305,51,Non-binary,Data Scientist,Education,14,Remote,24,1,3,Medium,Anxiety,Yes,Decrease,1,Unsatisfied,2,Daily,Poor,Africa
 EMP0950,34,Prefer not to say,Project Manager,IT,33,Remote,29,9,1,Low,Depression,Yes,Increase,5,Satisfied,4,Weekly,Poor,North America
 EMP4326,54,Prefer not to say,Data Scientist,Retail,12,Remote,58,13,3,Low,Depression,Yes,No Change,5,Neutral,1,Daily,Good,Africa
 EMP2061,45,Female,HR,Manufacturing,4,Remote,44,2,4,Medium,Anxiety,Yes,Decrease,5,Satisfied,2,Daily,Average,North America
 EMP4407,54,Female,Data Scientist,Healthcare,20,Remote,49,2,5,Low,Burnout,Yes,Increase,2,Unsatisfied,2,Weekly,Average,Asia
 EMP0542,58,Male,Project Manager,Manufacturing,34,Remote,58,1,1,High,Anxiety,No,Increase,3,Unsatisfied,5,Daily,Poor,Oceania
-EMP1623,53,Female,Data Scientist,Healthcare,5,Remote,37,14,3,Low,Unknown,Yes,No Change,5,Unsatisfied,5,None,Average,Asia
-EMP0344,38,Non-binary,Sales,IT,20,Remote,44,7,2,Medium,Unknown,No,Decrease,4,Satisfied,4,Daily,Poor,Oceania
+EMP1623,53,Female,Data Scientist,Healthcare,5,Remote,37,14,3,Low,None,Yes,No Change,5,Unsatisfied,5,None,Average,Asia
+EMP0344,38,Non-binary,Sales,IT,20,Remote,44,7,2,Medium,None,No,Decrease,4,Satisfied,4,Daily,Poor,Oceania
 EMP3429,36,Non-binary,Designer,IT,11,Remote,30,9,2,Low,Burnout,Yes,Increase,2,Neutral,2,Daily,Poor,South America
 EMP0964,37,Male,Software Engineer,Healthcare,6,Remote,64,4,3,Medium,Anxiety,Yes,No Change,2,Unsatisfied,5,Weekly,Poor,Africa
-EMP4584,55,Prefer not to say,Sales,Consulting,34,Remote,29,14,1,Low,Unknown,Yes,Increase,4,Neutral,1,Daily,Poor,South America
-EMP3484,58,Female,Software Engineer,Retail,34,Remote,32,14,3,Low,Unknown,No,Decrease,1,Unsatisfied,4,Weekly,Poor,South America
+EMP4584,55,Prefer not to say,Sales,Consulting,34,Remote,29,14,1,Low,None,Yes,Increase,4,Neutral,1,Daily,Poor,South America
+EMP3484,58,Female,Software Engineer,Retail,34,Remote,32,14,3,Low,None,No,Decrease,1,Unsatisfied,4,Weekly,Poor,South America
 EMP3601,54,Female,Designer,Finance,25,Remote,31,7,1,Medium,Burnout,Yes,Decrease,1,Unsatisfied,1,None,Poor,Europe
-EMP3972,61,Prefer not to say,Software Engineer,Healthcare,19,Remote,29,16,3,Low,Unknown,No,No Change,2,Unsatisfied,4,Weekly,Poor,Oceania
-EMP1848,56,Prefer not to say,Marketing,IT,30,Remote,30,16,4,Low,Unknown,Yes,Decrease,5,Neutral,4,None,Poor,North America
+EMP3972,61,Prefer not to say,Software Engineer,Healthcare,19,Remote,29,16,3,Low,None,No,No Change,2,Unsatisfied,4,Weekly,Poor,Oceania
+EMP1848,56,Prefer not to say,Marketing,IT,30,Remote,30,16,4,Low,None,Yes,Decrease,5,Neutral,4,None,Poor,North America
 EMP4891,44,Male,Data Scientist,Finance,5,Remote,29,7,1,Medium,Depression,Yes,Decrease,5,Satisfied,2,Daily,Poor,Oceania
 EMP0901,28,Non-binary,Marketing,Education,3,Remote,44,8,1,High,Burnout,Yes,Increase,2,Unsatisfied,2,Daily,Poor,Oceania
 EMP2421,44,Female,Software Engineer,Retail,28,Remote,24,13,4,High,Burnout,Yes,Decrease,5,Unsatisfied,4,Weekly,Good,South America
 EMP0763,55,Non-binary,Marketing,Healthcare,5,Remote,38,6,2,Low,Burnout,No,Increase,4,Satisfied,5,Weekly,Poor,Oceania
-EMP1464,37,Male,Data Scientist,Finance,20,Remote,29,11,5,Low,Unknown,Yes,No Change,5,Unsatisfied,5,Weekly,Average,Asia
+EMP1464,37,Male,Data Scientist,Finance,20,Remote,29,11,5,Low,None,Yes,No Change,5,Unsatisfied,5,Weekly,Average,Asia
 EMP0043,25,Non-binary,Data Scientist,Finance,5,Remote,28,16,5,Low,Burnout,Yes,Decrease,4,Neutral,1,Daily,Average,Africa
 EMP0613,54,Male,Marketing,IT,7,Remote,53,16,3,Medium,Burnout,Yes,Increase,2,Neutral,1,Daily,Good,South America
 EMP4582,52,Male,Designer,Consulting,29,Remote,38,16,5,High,Anxiety,Yes,Decrease,3,Unsatisfied,4,Daily,Average,Asia
@@ -5877,55 +5877,55 @@ EMP1417,24,Prefer not to say,Project Manager,Consulting,7,Remote,60,3,2,Low,Burn
 EMP4604,49,Non-binary,HR,Healthcare,15,Remote,61,10,1,Low,Anxiety,Yes,Increase,5,Satisfied,5,Weekly,Poor,Asia
 EMP0378,44,Male,Project Manager,IT,32,Remote,33,12,1,High,Depression,Yes,Decrease,2,Unsatisfied,3,Daily,Average,Africa
 EMP4665,54,Prefer not to say,HR,Manufacturing,5,Remote,47,3,2,Medium,Burnout,Yes,Increase,1,Neutral,3,Weekly,Good,South America
-EMP0359,55,Non-binary,Marketing,Consulting,7,Remote,27,15,4,Low,Unknown,No,No Change,3,Neutral,4,Weekly,Good,Asia
-EMP0618,53,Prefer not to say,Data Scientist,Manufacturing,20,Remote,28,5,2,High,Unknown,No,Decrease,5,Satisfied,3,Daily,Average,South America
-EMP3346,37,Male,Data Scientist,Consulting,20,Remote,29,10,2,Medium,Unknown,No,Decrease,5,Unsatisfied,5,Weekly,Poor,Europe
-EMP1982,54,Male,Designer,Finance,15,Remote,27,9,2,Medium,Unknown,Yes,No Change,5,Unsatisfied,3,None,Average,North America
+EMP0359,55,Non-binary,Marketing,Consulting,7,Remote,27,15,4,Low,None,No,No Change,3,Neutral,4,Weekly,Good,Asia
+EMP0618,53,Prefer not to say,Data Scientist,Manufacturing,20,Remote,28,5,2,High,None,No,Decrease,5,Satisfied,3,Daily,Average,South America
+EMP3346,37,Male,Data Scientist,Consulting,20,Remote,29,10,2,Medium,None,No,Decrease,5,Unsatisfied,5,Weekly,Poor,Europe
+EMP1982,54,Male,Designer,Finance,15,Remote,27,9,2,Medium,None,Yes,No Change,5,Unsatisfied,3,None,Average,North America
 EMP2896,48,Non-binary,Designer,Education,7,Remote,63,16,1,Low,Depression,No,No Change,2,Unsatisfied,5,Weekly,Average,Asia
-EMP0949,40,Female,Project Manager,Education,14,Remote,34,14,5,Low,Unknown,No,Decrease,5,Unsatisfied,5,Daily,Good,North America
+EMP0949,40,Female,Project Manager,Education,14,Remote,34,14,5,Low,None,No,Decrease,5,Unsatisfied,5,Daily,Good,North America
 EMP0912,43,Male,Marketing,Finance,35,Remote,62,10,2,Medium,Anxiety,Yes,Decrease,5,Neutral,1,Daily,Good,North America
 EMP4682,36,Female,Project Manager,Healthcare,18,Remote,26,13,4,Low,Depression,No,Increase,5,Unsatisfied,5,None,Poor,Asia
 EMP1848,54,Male,Data Scientist,Finance,29,Remote,46,14,5,Low,Burnout,No,Increase,2,Satisfied,4,Weekly,Poor,Asia
 EMP3179,56,Male,Marketing,Retail,5,Remote,50,14,5,High,Anxiety,Yes,Decrease,3,Neutral,1,None,Poor,Africa
-EMP1148,52,Female,Project Manager,IT,18,Remote,62,8,3,High,Unknown,Yes,Decrease,2,Satisfied,4,Weekly,Average,North America
-EMP2862,36,Male,Data Scientist,IT,6,Remote,40,3,1,Low,Unknown,No,Increase,1,Neutral,4,Weekly,Poor,Oceania
-EMP2993,23,Non-binary,Sales,Healthcare,28,Remote,29,16,3,Medium,Unknown,Yes,Decrease,1,Unsatisfied,4,Daily,Poor,Europe
-EMP1960,49,Female,Project Manager,Finance,30,Remote,32,8,3,Low,Unknown,No,No Change,2,Neutral,1,Weekly,Good,Oceania
-EMP0707,36,Prefer not to say,Designer,Consulting,32,Remote,30,15,5,Low,Unknown,Yes,Increase,5,Unsatisfied,1,None,Poor,Oceania
+EMP1148,52,Female,Project Manager,IT,18,Remote,62,8,3,High,None,Yes,Decrease,2,Satisfied,4,Weekly,Average,North America
+EMP2862,36,Male,Data Scientist,IT,6,Remote,40,3,1,Low,None,No,Increase,1,Neutral,4,Weekly,Poor,Oceania
+EMP2993,23,Non-binary,Sales,Healthcare,28,Remote,29,16,3,Medium,None,Yes,Decrease,1,Unsatisfied,4,Daily,Poor,Europe
+EMP1960,49,Female,Project Manager,Finance,30,Remote,32,8,3,Low,None,No,No Change,2,Neutral,1,Weekly,Good,Oceania
+EMP0707,36,Prefer not to say,Designer,Consulting,32,Remote,30,15,5,Low,None,Yes,Increase,5,Unsatisfied,1,None,Poor,Oceania
 EMP2934,31,Male,Data Scientist,Healthcare,35,Remote,47,8,3,High,Burnout,No,Decrease,5,Satisfied,5,Weekly,Poor,South America
 EMP1041,32,Male,Software Engineer,Consulting,6,Remote,49,2,2,Low,Burnout,Yes,Decrease,5,Unsatisfied,4,None,Good,Europe
 EMP4379,41,Non-binary,Data Scientist,Healthcare,1,Remote,25,1,3,Medium,Depression,Yes,No Change,3,Unsatisfied,4,Weekly,Average,North America
-EMP2358,55,Male,Project Manager,Finance,21,Remote,26,14,1,High,Unknown,No,Decrease,2,Unsatisfied,1,Weekly,Good,North America
+EMP2358,55,Male,Project Manager,Finance,21,Remote,26,14,1,High,None,No,Decrease,2,Unsatisfied,1,Weekly,Good,North America
 EMP2324,28,Non-binary,Data Scientist,Manufacturing,33,Remote,24,10,4,High,Burnout,No,Decrease,5,Unsatisfied,4,Weekly,Good,North America
 EMP0219,53,Male,Software Engineer,Retail,24,Remote,28,15,1,Medium,Anxiety,Yes,Decrease,4,Satisfied,4,Daily,Poor,Europe
 EMP0110,43,Prefer not to say,HR,Healthcare,34,Remote,28,11,5,Low,Burnout,Yes,No Change,5,Unsatisfied,2,Weekly,Average,South America
 EMP1837,50,Non-binary,Designer,Manufacturing,30,Remote,49,10,1,Medium,Anxiety,Yes,Decrease,2,Satisfied,2,None,Average,Oceania
 EMP3495,46,Prefer not to say,Marketing,Education,6,Remote,45,14,2,High,Depression,Yes,Decrease,5,Unsatisfied,4,Weekly,Average,Africa
-EMP3966,59,Non-binary,Project Manager,Retail,32,Remote,58,1,3,High,Unknown,Yes,Decrease,2,Unsatisfied,5,None,Average,South America
+EMP3966,59,Non-binary,Project Manager,Retail,32,Remote,58,1,3,High,None,Yes,Decrease,2,Unsatisfied,5,None,Average,South America
 EMP0374,56,Prefer not to say,Software Engineer,Education,19,Remote,63,16,1,Medium,Anxiety,Yes,No Change,2,Unsatisfied,4,Daily,Poor,North America
 EMP0695,54,Female,Software Engineer,Consulting,7,Remote,63,1,3,Medium,Depression,Yes,No Change,1,Unsatisfied,2,Weekly,Average,Asia
 EMP4858,33,Female,Project Manager,Education,13,Remote,52,11,2,High,Burnout,Yes,No Change,2,Satisfied,1,None,Average,Oceania
 EMP1401,36,Female,Project Manager,Finance,17,Remote,52,2,3,High,Burnout,No,Increase,5,Satisfied,1,Daily,Poor,Oceania
-EMP4064,22,Female,Data Scientist,Healthcare,17,Remote,46,0,4,High,Unknown,Yes,Decrease,4,Satisfied,4,Weekly,Poor,Europe
+EMP4064,22,Female,Data Scientist,Healthcare,17,Remote,46,0,4,High,None,Yes,Decrease,4,Satisfied,4,Weekly,Poor,Europe
 EMP1932,61,Female,Marketing,Manufacturing,8,Remote,53,6,1,High,Depression,Yes,Increase,2,Satisfied,4,None,Average,Europe
 EMP3887,57,Prefer not to say,Sales,Manufacturing,13,Remote,31,2,3,Low,Burnout,Yes,Increase,5,Satisfied,1,Weekly,Average,North America
-EMP3568,38,Prefer not to say,Sales,Healthcare,29,Remote,30,0,3,Medium,Unknown,No,Decrease,3,Unsatisfied,4,Daily,Average,Africa
-EMP0817,39,Non-binary,Data Scientist,Education,35,Remote,37,12,1,High,Unknown,Yes,No Change,3,Neutral,4,None,Good,South America
+EMP3568,38,Prefer not to say,Sales,Healthcare,29,Remote,30,0,3,Medium,None,No,Decrease,3,Unsatisfied,4,Daily,Average,Africa
+EMP0817,39,Non-binary,Data Scientist,Education,35,Remote,37,12,1,High,None,Yes,No Change,3,Neutral,4,None,Good,South America
 EMP4351,57,Male,HR,Consulting,26,Remote,32,14,1,Low,Depression,No,No Change,5,Neutral,5,Daily,Average,Oceania
 EMP1471,53,Prefer not to say,Software Engineer,Finance,12,Remote,63,7,2,Medium,Burnout,No,No Change,3,Unsatisfied,1,None,Poor,Africa
 EMP4293,37,Prefer not to say,Project Manager,Healthcare,13,Remote,26,2,1,Low,Anxiety,Yes,Increase,2,Unsatisfied,2,Daily,Average,North America
 EMP2037,45,Non-binary,Project Manager,IT,34,Remote,29,12,1,Low,Burnout,No,No Change,2,Satisfied,5,Daily,Average,Asia
-EMP0921,28,Male,Software Engineer,Manufacturing,10,Remote,46,6,4,Low,Unknown,No,Increase,2,Unsatisfied,1,Daily,Average,Oceania
+EMP0921,28,Male,Software Engineer,Manufacturing,10,Remote,46,6,4,Low,None,No,Increase,2,Unsatisfied,1,Daily,Average,Oceania
 EMP0885,44,Prefer not to say,Marketing,Retail,29,Remote,63,1,2,Low,Burnout,Yes,No Change,2,Satisfied,5,Weekly,Average,North America
 EMP4753,51,Male,HR,Healthcare,9,Remote,56,7,4,Medium,Burnout,Yes,No Change,2,Satisfied,2,Weekly,Good,Europe
 EMP2862,49,Prefer not to say,Project Manager,Finance,11,Remote,32,15,3,Medium,Depression,Yes,Decrease,1,Neutral,2,Weekly,Poor,South America
-EMP0678,60,Female,Data Scientist,IT,9,Remote,29,8,1,High,Unknown,Yes,Decrease,1,Satisfied,5,Weekly,Poor,Asia
-EMP0234,58,Non-binary,Software Engineer,Finance,2,Remote,30,2,3,Low,Unknown,Yes,No Change,4,Satisfied,2,Weekly,Good,Africa
-EMP4524,57,Non-binary,Software Engineer,Consulting,7,Remote,53,13,1,Low,Unknown,No,No Change,4,Unsatisfied,1,Weekly,Average,North America
+EMP0678,60,Female,Data Scientist,IT,9,Remote,29,8,1,High,None,Yes,Decrease,1,Satisfied,5,Weekly,Poor,Asia
+EMP0234,58,Non-binary,Software Engineer,Finance,2,Remote,30,2,3,Low,None,Yes,No Change,4,Satisfied,2,Weekly,Good,Africa
+EMP4524,57,Non-binary,Software Engineer,Consulting,7,Remote,53,13,1,Low,None,No,No Change,4,Unsatisfied,1,Weekly,Average,North America
 EMP0072,33,Male,Data Scientist,Retail,16,Remote,55,15,1,High,Anxiety,Yes,Decrease,2,Unsatisfied,1,Daily,Good,Africa
 EMP0763,59,Non-binary,Designer,IT,9,Remote,27,10,1,Low,Burnout,Yes,Decrease,5,Satisfied,4,Daily,Good,Oceania
-EMP2749,27,Prefer not to say,Marketing,Healthcare,22,Remote,44,14,1,Medium,Unknown,No,Decrease,2,Neutral,4,Weekly,Poor,Asia
-EMP3497,45,Prefer not to say,Data Scientist,Healthcare,21,Remote,24,10,3,Medium,Unknown,No,Increase,4,Neutral,4,Daily,Average,Oceania
+EMP2749,27,Prefer not to say,Marketing,Healthcare,22,Remote,44,14,1,Medium,None,No,Decrease,2,Neutral,4,Weekly,Poor,Asia
+EMP3497,45,Prefer not to say,Data Scientist,Healthcare,21,Remote,24,10,3,Medium,None,No,Increase,4,Neutral,4,Daily,Average,Oceania
 EMP2505,60,Prefer not to say,Project Manager,Retail,11,Remote,41,1,4,High,Anxiety,No,No Change,2,Unsatisfied,1,None,Poor,Oceania
 EMP0663,56,Prefer not to say,HR,Finance,9,Remote,58,6,2,Low,Anxiety,Yes,Decrease,2,Neutral,4,Weekly,Good,South America
 EMP3969,42,Non-binary,Marketing,Healthcare,15,Remote,46,3,3,High,Anxiety,No,Increase,3,Unsatisfied,1,None,Poor,Africa
@@ -5940,16 +5940,16 @@ EMP3709,57,Prefer not to say,Software Engineer,Education,8,Remote,51,14,5,Low,An
 EMP1565,27,Male,HR,Healthcare,13,Remote,40,16,3,Low,Burnout,Yes,No Change,5,Neutral,3,Weekly,Good,South America
 EMP2926,35,Male,Project Manager,Manufacturing,27,Remote,55,0,3,Medium,Burnout,Yes,Decrease,5,Neutral,3,Weekly,Good,South America
 EMP1526,29,Male,Sales,Retail,29,Remote,56,7,5,Medium,Burnout,Yes,Increase,3,Neutral,1,None,Average,Oceania
-EMP3589,63,Female,Project Manager,Manufacturing,30,Remote,39,6,4,Low,Unknown,Yes,Increase,2,Unsatisfied,1,Weekly,Poor,Europe
+EMP3589,63,Female,Project Manager,Manufacturing,30,Remote,39,6,4,Low,None,Yes,Increase,2,Unsatisfied,1,Weekly,Poor,Europe
 EMP0152,47,Prefer not to say,HR,Consulting,25,Remote,62,15,5,Low,Anxiety,Yes,No Change,3,Satisfied,4,Daily,Good,Asia
 EMP2292,51,Prefer not to say,Project Manager,Healthcare,2,Remote,63,13,1,Low,Anxiety,Yes,No Change,4,Unsatisfied,3,Weekly,Poor,Asia
-EMP4479,38,Prefer not to say,Software Engineer,Healthcare,6,Remote,24,13,1,High,Unknown,Yes,Decrease,5,Unsatisfied,1,Daily,Poor,Oceania
+EMP4479,38,Prefer not to say,Software Engineer,Healthcare,6,Remote,24,13,1,High,None,Yes,Decrease,5,Unsatisfied,1,Daily,Poor,Oceania
 EMP3305,42,Prefer not to say,Data Scientist,Healthcare,30,Remote,38,2,3,Medium,Burnout,No,Increase,2,Neutral,1,Weekly,Average,Oceania
 EMP4354,57,Prefer not to say,Marketing,Retail,17,Remote,50,3,1,High,Depression,Yes,Decrease,5,Satisfied,4,Weekly,Average,Oceania
-EMP1267,48,Male,HR,Finance,26,Remote,43,4,3,Low,Unknown,No,Increase,4,Neutral,5,None,Good,Oceania
-EMP2392,24,Non-binary,Marketing,Retail,8,Remote,23,3,4,High,Unknown,No,Decrease,4,Neutral,4,Weekly,Poor,Africa
+EMP1267,48,Male,HR,Finance,26,Remote,43,4,3,Low,None,No,Increase,4,Neutral,5,None,Good,Oceania
+EMP2392,24,Non-binary,Marketing,Retail,8,Remote,23,3,4,High,None,No,Decrease,4,Neutral,4,Weekly,Poor,Africa
 EMP2011,30,Non-binary,Sales,Education,31,Remote,53,8,5,Low,Depression,No,No Change,1,Unsatisfied,1,Daily,Poor,Europe
-EMP1622,36,Non-binary,Project Manager,Consulting,31,Remote,28,9,1,High,Unknown,Yes,Decrease,1,Satisfied,4,None,Poor,Oceania
+EMP1622,36,Non-binary,Project Manager,Consulting,31,Remote,28,9,1,High,None,Yes,Decrease,1,Satisfied,4,None,Poor,Oceania
 EMP0720,26,Male,Marketing,Healthcare,20,Remote,34,15,3,Medium,Burnout,Yes,Increase,5,Satisfied,3,Weekly,Good,Oceania
 EMP2037,41,Non-binary,Software Engineer,Finance,27,Remote,32,1,1,Medium,Anxiety,Yes,Decrease,1,Unsatisfied,5,Daily,Poor,North America
 EMP4407,40,Male,Project Manager,Finance,3,Remote,53,14,1,High,Burnout,No,Increase,2,Unsatisfied,3,Daily,Good,Asia
@@ -5957,7 +5957,7 @@ EMP3827,56,Non-binary,Data Scientist,Retail,33,Remote,22,5,1,Medium,Burnout,No,N
 EMP2334,56,Male,Designer,Healthcare,4,Remote,53,13,1,High,Depression,No,Increase,5,Neutral,1,None,Poor,Oceania
 EMP3433,28,Prefer not to say,Designer,Retail,3,Remote,31,12,1,High,Burnout,Yes,Decrease,5,Unsatisfied,5,Weekly,Average,Oceania
 EMP3389,56,Prefer not to say,Sales,Retail,27,Remote,60,13,3,Low,Burnout,Yes,Increase,4,Neutral,3,Daily,Average,South America
-EMP3567,55,Prefer not to say,Sales,Retail,21,Remote,60,4,1,Low,Unknown,Yes,Decrease,2,Unsatisfied,2,None,Poor,Europe
+EMP3567,55,Prefer not to say,Sales,Retail,21,Remote,60,4,1,Low,None,Yes,Decrease,2,Unsatisfied,2,None,Poor,Europe
 EMP1072,26,Male,Designer,IT,35,Remote,59,9,2,Medium,Burnout,Yes,Decrease,5,Unsatisfied,4,Weekly,Good,South America
 EMP2865,34,Female,HR,Healthcare,8,Remote,39,8,3,Medium,Burnout,No,Decrease,5,Unsatisfied,2,Weekly,Average,Africa
 EMP1289,49,Female,Data Scientist,Finance,12,Remote,38,14,5,Low,Depression,No,No Change,5,Unsatisfied,4,Daily,Poor,Asia
@@ -5971,27 +5971,27 @@ EMP2448,40,Male,HR,Finance,31,Remote,24,15,1,High,Burnout,Yes,No Change,2,Unsati
 EMP2629,62,Non-binary,Project Manager,Finance,3,Remote,63,11,5,Low,Anxiety,Yes,Increase,5,Unsatisfied,4,Weekly,Good,Asia
 EMP4802,53,Non-binary,Project Manager,Finance,20,Remote,28,13,2,Low,Anxiety,No,Increase,2,Unsatisfied,3,Daily,Poor,Africa
 EMP0549,55,Female,Sales,IT,30,Remote,31,15,1,Medium,Depression,Yes,No Change,4,Unsatisfied,2,Weekly,Poor,Asia
-EMP4770,28,Non-binary,Marketing,Manufacturing,31,Remote,54,3,4,Low,Unknown,Yes,Increase,5,Unsatisfied,4,Daily,Average,Africa
+EMP4770,28,Non-binary,Marketing,Manufacturing,31,Remote,54,3,4,Low,None,Yes,Increase,5,Unsatisfied,4,Daily,Average,Africa
 EMP2854,55,Male,Data Scientist,Education,17,Remote,45,6,4,Medium,Anxiety,Yes,Decrease,5,Unsatisfied,5,Weekly,Poor,North America
-EMP3941,29,Non-binary,Designer,IT,17,Remote,48,11,3,Low,Unknown,No,Decrease,5,Unsatisfied,4,Daily,Average,Africa
+EMP3941,29,Non-binary,Designer,IT,17,Remote,48,11,3,Low,None,No,Decrease,5,Unsatisfied,4,Daily,Average,Africa
 EMP3592,33,Male,Designer,Education,34,Remote,30,15,4,Low,Burnout,Yes,Decrease,2,Unsatisfied,4,Weekly,Average,Africa
 EMP0622,58,Non-binary,Marketing,Finance,9,Remote,42,14,3,Low,Depression,Yes,Decrease,1,Unsatisfied,1,Daily,Good,Oceania
-EMP1326,57,Male,Data Scientist,Healthcare,35,Remote,24,1,1,Low,Unknown,No,Increase,2,Unsatisfied,5,Daily,Poor,Africa
+EMP1326,57,Male,Data Scientist,Healthcare,35,Remote,24,1,1,Low,None,No,Increase,2,Unsatisfied,5,Daily,Poor,Africa
 EMP1703,24,Male,Data Scientist,Retail,6,Remote,28,10,3,Medium,Burnout,No,No Change,2,Unsatisfied,4,Weekly,Poor,Africa
-EMP3709,56,Female,Software Engineer,Retail,9,Remote,27,3,2,Medium,Unknown,Yes,Decrease,5,Unsatisfied,2,None,Poor,Oceania
+EMP3709,56,Female,Software Engineer,Retail,9,Remote,27,3,2,Medium,None,Yes,Decrease,5,Unsatisfied,2,None,Poor,Oceania
 EMP2370,30,Prefer not to say,HR,Retail,20,Remote,54,14,3,High,Burnout,No,Increase,2,Unsatisfied,4,None,Poor,South America
-EMP2974,55,Male,Data Scientist,Healthcare,36,Remote,53,10,4,Low,Unknown,Yes,No Change,4,Unsatisfied,5,Weekly,Poor,Oceania
+EMP2974,55,Male,Data Scientist,Healthcare,36,Remote,53,10,4,Low,None,Yes,No Change,4,Unsatisfied,5,Weekly,Poor,Oceania
 EMP4499,28,Male,Project Manager,Consulting,29,Remote,27,14,3,Medium,Burnout,Yes,Decrease,3,Unsatisfied,2,Daily,Good,South America
-EMP0618,55,Female,Designer,Consulting,13,Remote,26,13,5,Low,Unknown,Yes,Decrease,2,Unsatisfied,4,None,Good,Africa
+EMP0618,55,Female,Designer,Consulting,13,Remote,26,13,5,Low,None,Yes,Decrease,2,Unsatisfied,4,None,Good,Africa
 EMP4018,30,Non-binary,Project Manager,Retail,19,Remote,27,9,1,Medium,Burnout,No,Decrease,5,Unsatisfied,5,Daily,Good,South America
 EMP2807,26,Prefer not to say,Sales,Manufacturing,6,Remote,29,14,4,High,Burnout,Yes,No Change,1,Neutral,1,None,Average,Oceania
 EMP3306,38,Non-binary,Project Manager,Manufacturing,29,Remote,40,9,3,High,Burnout,No,Increase,5,Unsatisfied,4,Weekly,Poor,North America
 EMP4604,55,Male,Data Scientist,Consulting,26,Remote,29,11,1,Low,Depression,Yes,No Change,5,Satisfied,5,None,Average,South America
 EMP4207,35,Non-binary,Project Manager,Retail,31,Remote,57,10,1,High,Anxiety,No,Decrease,5,Satisfied,5,None,Poor,South America
 EMP2379,32,Male,Project Manager,Education,2,Remote,61,6,1,High,Anxiety,Yes,Increase,4,Unsatisfied,4,Weekly,Average,South America
-EMP2677,26,Female,Project Manager,Retail,7,Remote,41,2,5,Medium,Unknown,Yes,Decrease,3,Neutral,3,Daily,Good,Europe
-EMP3787,26,Prefer not to say,Project Manager,Consulting,17,Remote,57,13,4,Low,Unknown,Yes,No Change,2,Neutral,2,None,Good,Africa
-EMP1286,58,Female,Data Scientist,Manufacturing,14,Remote,39,3,4,Low,Unknown,Yes,Decrease,5,Satisfied,5,Weekly,Poor,Europe
+EMP2677,26,Female,Project Manager,Retail,7,Remote,41,2,5,Medium,None,Yes,Decrease,3,Neutral,3,Daily,Good,Europe
+EMP3787,26,Prefer not to say,Project Manager,Consulting,17,Remote,57,13,4,Low,None,Yes,No Change,2,Neutral,2,None,Good,Africa
+EMP1286,58,Female,Data Scientist,Manufacturing,14,Remote,39,3,4,Low,None,Yes,Decrease,5,Satisfied,5,Weekly,Poor,Europe
 EMP2501,61,Prefer not to say,Data Scientist,Manufacturing,34,Remote,26,15,4,Low,Anxiety,No,Decrease,2,Unsatisfied,1,Daily,Poor,Asia
 EMP0510,46,Non-binary,Data Scientist,Retail,27,Remote,27,5,1,High,Burnout,Yes,Increase,5,Neutral,4,Weekly,Average,North America
 EMP3827,51,Non-binary,Project Manager,Manufacturing,19,Remote,37,9,5,High,Burnout,Yes,No Change,1,Neutral,3,Daily,Poor,South America
